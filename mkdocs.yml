@@ -9,6 +9,7 @@ theme:
 nav:
   - Home: "index.md"
   - Planejamento:
+    - Escolha do Site: "planejamento/escolhaSite.md"
     - Metodologias e Processos: "planejamento/documentoDeMetodologia.md"
     - Ferramentas: "planejamento/ferramentas.md"
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
