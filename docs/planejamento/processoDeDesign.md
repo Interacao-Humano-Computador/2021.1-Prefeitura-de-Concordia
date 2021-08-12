@@ -14,10 +14,14 @@ i e os artefatos consumidos e produzidos em cada
 uma delas. </p>
 
 
-<p align = "justify"> &emsp;&emsp; O processo de design que será usado é o de Engenharia de Usabilidade de Mayhew. Esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para
-orientar o trabalho do designer em direção a uma boa solução interativa e também é dividido em três
+<p align = "justify"> &emsp;&emsp; O processo de design que será usado é o de Engenharia de Usabilidade de Mayhew. Pois, o processo consegue mostra de forma simples clara cada cada uma das etapas a ser realizada que é dividido em três
 fases desse processo iterativo: análise de requisitos, design/avaliação/desenvolvimento e instalação.
 </p>
+<p align = "justify"> 
+Na fase de análise de requisitos são definidas as metas de usabilidade com base no perfil dos
+usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e
+princípios gerais de design de IHC.</p>
+
 
 <center><img src="../images/planejamento/Processo-de-design-mayhew.png"></center>
 <h6 align = "center">Figura 1: Ciclo de Vida de Usabilidade de Mayhew</h6>
