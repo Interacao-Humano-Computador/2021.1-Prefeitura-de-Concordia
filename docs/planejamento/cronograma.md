@@ -39,6 +39,9 @@
 
 ## 3. Calendário de atividades
 ![Calendario](../images/planejamento/Gantt IHC.jpg){: style="width:50vw;"}
+<h6 align = "center">Figura 4: Calendário de atividades. </h6>
+<h6 align = "center">Fonte: Autor. </h6>
+
 
 ## 4. Referências bibliográficas
 <p style="text-align: justify; text-indent: 20px">[1] 2021.1-Ingresso.com. Planejamento. Disponível em: <a href="https://requisitos-de-software.github.io/2021.1-Ingresso.com/planejamento/#5-heatmap">https://requisitos-de-software.github.io/2021.1-Ingresso.com/planejamento/#5-heatmap</a>. Acesso em: 11 de ago. de 2021</p>
