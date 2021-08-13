@@ -3,6 +3,7 @@
 |--|--|--|--|
 |10/08|1.0|Adição do documento de cronogramas|Natanael Filho|
 |11/08|1.1|Adição da tabela de HeatMap|João Pedro|
+|13/08|1.2|Adição do calendário de atividades|Leonardo Takehana|
 
 ## 1. Heatmap
 <p style="text-align: justify; text-indent: 20px">O Heatmap representa uma tabela equivalente a um mapa de calor, ou seja, mostra quantos membros da equipe estão disponíveis em determinado dia e horário. Essa tabela, é montada especialmente para auxiliar o grupo em quais horários é possível a realização de reuniões e pareamentos, bem como, para realizar as gravações [1].</p>
@@ -36,5 +37,11 @@
 <h6 align = "center">Tabela 1: Cronograma de atividades. </h6>
 <h6 align = "center">Fonte: Autor. </h6>
 
-## 3. Referências bibliográficas
+## 3. Calendário de atividades
+![Calendario](../images/planejamento/Gantt IHC.jpg){: style="width:50vw;"}
+<h6 align = "center">Figura 4: Calendário de atividades. </h6>
+<h6 align = "center">Fonte: Autor. </h6>
+
+
+## 4. Referências bibliográficas
 <p style="text-align: justify; text-indent: 20px">[1] 2021.1-Ingresso.com. Planejamento. Disponível em: <a href="https://requisitos-de-software.github.io/2021.1-Ingresso.com/planejamento/#5-heatmap">https://requisitos-de-software.github.io/2021.1-Ingresso.com/planejamento/#5-heatmap</a>. Acesso em: 11 de ago. de 2021</p>
