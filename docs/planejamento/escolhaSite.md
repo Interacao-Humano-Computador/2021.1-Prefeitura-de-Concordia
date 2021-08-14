@@ -12,17 +12,17 @@
 - [Planejamento](avaliacoes/planejamentoJoao.md) da avaliação Prefeitura de Concórdia
 - [Execução](avaliacoes/execucaoJoao.md) da avaliação Prefeitura de Concórdia
 #### 1.2 Natanael
-- [Planejamento]() da avaliação EPL
-- [Execução]() da avaliação EPL
+- [Planejamento](avaliacoes/planejamentoNatanael.md) da avaliação EPL
+- [Execução](avaliacoes/execucaoNatanael.md) da avaliação EPL
 #### 1.3 Francisco
-- [Planejamento]() da avaliação Portal da FGA
-- [Execução]() da avaliação Portal da FGA
+- [Planejamento](avaliacoes/planejamentoFrancisco.md) da avaliação Portal da FGA
+- [Execução](avaliacoes/execucaoFrancisco.md) da avaliação Portal da FGA
 #### 1.4 Leonardo
-- [Planejamento]() da avaliação Teams
-- [Execução]() da avaliação Teams
+- [Planejamento](avaliacoes/planejamentoLeonardo.md) da avaliação Teams
+- [Execução](avaliacoes/execucaoLeonardo.md) da avaliação Teams
 #### 1.5 Abraão
-- [Planejamento]() da avaliação Prefeitura de São Sebastião do Alto
-- [Execução]() da avaliação Prefeitura de São Sebastião do Alto
+- [Planejamento](avaliacoes/planejamentoAbraao.md) da avaliação Prefeitura de São Sebastião do Alto
+- [Execução](avaliacoes/execucaoAbraao.md) da avaliação Prefeitura de São Sebastião do Alto
 
 ## 2. Conclusão
 <p align = "justify"> &emsp;&emsp; Avaliados os sites de acordo com as 10 heurísticas de Nielsen (2000), diversas oportunidades de melhoria foram encontrados nos sites escolhidos. Porém, algumas barreiras impostas como a disponibilidade aos usuários, instabilidade de algúns sites e quantidade de erros de usabilidade encontrados, impediram a escolha de algúns domínios.</p>

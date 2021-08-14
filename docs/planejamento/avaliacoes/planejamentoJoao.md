@@ -9,7 +9,7 @@
 <p align = "justify"> &emsp;&emsp;Dentre os principais perfis de usuários que acessam e fazem a utilização do site da Prefeitura de São Sebastião do Alto, estão presentes aqueles que buscam mais informações sobre seu município e história, notícias e/ou sobre os processos já citados anteriormente.</p>
 <p align = "justify"> &emsp;&emsp;De acordo com informações geradas pelo próprio site [2] durante o período de janeiro de 2020 até julho de 2021, foi constatado que um total de 328 pessoas realizaram acesso ao sítio eletrônico em busca de informações. Desse total, 69.68% representado por pessoas físicas e 30.31% por pessoas jurídicas. Em relação ao gênero, dos perfis informados 9.954% eram masculinos e 7.239% femininos. E por fim em relação à escolaridade, constatou-se que 12 pessoas possuíam ensino superior completo, 5 possuíam ensino médio completo e 9 eram analfabetos.</p>
 
-<img src="../../../images/planejamento/avaliacoes/tabelaConcordia.png">
+<img src="../../../images/planejamento/avaliacoes/joao/tabelaConcordia.png">
 <h6 align = "center">Figura 1: Perfil dos solicitantes que acessam o site da prefeitura de Concórdia.</h6>
 <h6 align = "center">Fonte: Retirada do relatório gerado pela prefeitura de concórdia em relação aos acessos de informação [2].</h6>
 
@@ -36,10 +36,10 @@
 
 ## 4. Escopo
 <p align = "justify"> &emsp;&emsp;O escopo dessa avaliação então se restringirá apenas ao sítio principal da prefeitura de Concórdia, não envolvendo seus subportais nem os endereços virtuais de autoatêndimento.</p>
-<img src="../../../images/planejamento/avaliacoes/cabecalho.png">
+<img src="../../../images/planejamento/avaliacoes/joao/cabecalho.png">
 <h6 align = "center">Figura 2: Cabeçalho da tela principal.</h6>
 <h6 align = "center">Fonte: Site da prefeitura de Concórdia [4].</h6>
-<img src="../../../images/planejamento/avaliacoes/corpo.png">
+<img src="../../../images/planejamento/avaliacoes/joao/corpo.png">
 <h6 align = "center">Figura 3: Área principal onde são disponibilizadas várias informações.</h6>
 <h6 align = "center">Fonte: Site da prefeitura de Concórdia [4].</h6>
 
