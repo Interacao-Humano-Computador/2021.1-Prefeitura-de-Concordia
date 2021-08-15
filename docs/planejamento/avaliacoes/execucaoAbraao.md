@@ -1,4 +1,4 @@
-# Execução da Avaliação - Prefeitura de Concórdia
+# Execução da Avaliação - Prefeitura de São Sebastião do Alto
 
 ## 1. Objetivos
 <p align = "justify"> &emsp;&emsp;Esse documento, como já apresentado previamente no <a href="../planejamentoAbraao">planejamento</a>, estará realizando a valiação como objetivo de identificar os problemas de usabilidade no site da prefeitura de São Sebastião do Alto, utilizando as heurísticas propostas por Nielsen.</p>

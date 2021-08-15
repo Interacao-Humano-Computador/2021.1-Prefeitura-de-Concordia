@@ -1,30 +1,30 @@
-# Execução de avaliação EPL
+# Execução de avaliação - EPL
 
 ## Objetivos
 Está avaliação, como já apresentado previamente no [planejamento](../planejamentoNatanael), busca analisar o sítio virtual do [EPL](https://www.epl.gov.br/index.php) por possuir problemas de usabilidade seguindo as 10 heurísticas propostas por Nielsen.
 ## Avaliação Heurística
 
-![Heurística 1](../../../images/planejamento/avaliacoes/natanael/heuristica1.png)
+![Heurística 1](../../images/planejamento/avaliacoes/natanael/heuristica1.png)
 <h6 align = "center">Tabela 1: Análise da heurística 1.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
-![Heurística 5](../../../images/planejamento/avaliacoes/natanael/heuristica5_1.png)
+![Heurística 5](../../images/planejamento/avaliacoes/natanael/heuristica5_1.png)
 <h6 align = "center">Tabela 2: Análise da heurística 5.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
-![Heurística 5](../../../images/planejamento/avaliacoes/natanael/heuristica5_2.png)
+![Heurística 5](../../images/planejamento/avaliacoes/natanael/heuristica5_2.png)
 <h6 align = "center">Tabela 5: Análise da heurística 5.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
-![Heurística 7](../../../images/planejamento/avaliacoes/natanael/heuristica7_1.png)
+![Heurística 7](../../images/planejamento/avaliacoes/natanael/heuristica7_1.png)
 <h6 align = "center">Tabela 7: Análise da heurística 7.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
-![Heurística 7](../../../images/planejamento/avaliacoes/natanael/heuristica7_2.png)
+![Heurística 7](../../images/planejamento/avaliacoes/natanael/heuristica7_2.png)
 <h6 align = "center">Tabela 7: Análise da heurística 7.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
-![Heurística 8](../../../images/planejamento/avaliacoes/natanael/heuristica8.png)
+![Heurística 8](../../images/planejamento/avaliacoes/natanael/heuristica8.png)
 <h6 align = "center">Tabela 8: Análise da heurística 8.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 

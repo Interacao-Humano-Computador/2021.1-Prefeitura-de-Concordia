@@ -1,4 +1,4 @@
-# Planejamento da Avaliação - Prefeitura de Concórdia
+# Planejamento da Avaliação - Prefeitura de São Sebastião do Alto
 
 ## 1. Domínio
 <p align = "justify"> &emsp;&emsp;O site da prefeitura tem como serviços principais a publicação das ações realizadas do município, o acesso a processos como: Licitações, Leis, Decretos, audiências públicas, processos seletivos e entre outros, a uma parte de formas de comunicação com a prefeitura, informações gerais do município. Tudo isso de acordo com a lei de acesso à informação (Lei nº 12.527, de 18 de novembro de 2011).</p>
