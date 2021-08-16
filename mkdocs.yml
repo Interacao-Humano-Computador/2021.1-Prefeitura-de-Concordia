@@ -13,6 +13,8 @@ nav:
     - Processo de Design: "planejamento/processoDeDesign.md"
     - Ferramentas: "planejamento/ferramentas.md"
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
+  - Apresentações:
+    - Ponto de Controle 1: "apresentacoes/p1.md"
 
 markdown_extensions:
   - attr_list
