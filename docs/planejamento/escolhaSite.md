@@ -2,7 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |11/08|1.0|Adição do documento da escolha do site|João Pedro|
-||1.1|Adição dos planejamentos e execuções da avaliação|João Pedro|
+|16/08|1.1|Adição dos planejamentos e execuções da avaliação|João Pedro|
 
 ## 1. Introdução
 <p align = "justify"> &emsp;&emsp; A fim de realizar um bom trabalho de Interação Humano Computador, diversos sites foram analisados quanto a sua usabilidade. Com isso, o grupo pode identifcar diversos erros e possíveis caminhos de melhora para esses domínios. Após essa pesquisa, cada membro da equipe refinou sua investigação à apenas um site para se realizar o planejamento e execução de uma avaliação. Essa etapa levou algumas semanas, porém, permitiu a todos a identificação do melhor domínio para a disciplina, através de uma discussão em equipe, onde os pontos de facilidade ao acesso dos usuários e quantidade de erros de usabilidade foram os principais utilizados para a escolha.</p>
