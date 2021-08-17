@@ -16,6 +16,8 @@ nav:
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
+  - Analise de Requisitos:
+    - Personas: "analise_de_requisitos/Personas.md"
 
 markdown_extensions:
   - attr_list
