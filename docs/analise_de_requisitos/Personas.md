@@ -7,13 +7,17 @@
 2006; Cooper, 1999).
 
 
-
+<center>
 ### Persona 1: Pedro Moreira Santiago
+
+![](../images/personas/pedro.png)
+
+[Persona 1](../images/personas/pedro.png) 
 
 |**Perfil** | |
 |--|-----|
 |**Nome**| Pedro Moreira Santiago |
-|**Cargo**| Mecânico  |
+|**Cargo**| Engenheiro Mecânico  |
 |**Idade**| 32 anos   |
 |**Comportamento**| Gentil, amigavel|
 |**Nescessidades**| Consultar as licitaçãoes que sua empresa possa ter participação.|
@@ -22,20 +26,26 @@
 
 ### Persona 2: Maria Clara Fernandes
 
+![](../images/personas/maria.png) 
 
-|**Perfil** | |
+[Persona 2](../images/personas/maria.png) 
+
+
+|**Perfil** ||
 |--|-----|
 |Nome| Maria Clara Fernandes  |
-|Função| Engenharia de Software |
+|Função| Engenheira de Software |
 |Idade| 28 anos  |
 |Comportamento| Atenciosa, Comunicativa, Amante dos animas  |
 |Nescessidades| Procurar informações sobre a legalização de negócios da cidade.|
 
 
 ### Persona 3: Paulo Baruk
+![](../images/personas/paulo.png)
 
+[Persona 3](../images/personas/paulo.png) 
 
-|**Perfil** | |
+|**Perfil** |  |
 |--|-----|
 |Nome| Paulo Baruk  |
 |Função| Arquiteto  |
@@ -44,15 +54,22 @@
 |Nescessidades| Visiualizar legislação da cidade em projetos arquitetônico na cidade. |
 
 
-### Anti-persona 4: João Pedro
+### Anti-persona 1: João Pedro
 
-|**Perfil** | |
+![](../images/personas/joao.png)
+
+[Anti-Persona 1](../images/personas/joao.png) 
+
+|**Perfil** |  |
 |--|-----|
 |Nome| João Pedro  |
 |Função| Estudante |
 |Idade| 18 Anos  |
 |Comportamento| Animado e Extrovertido |
 |Nescessidades|Ir para baladas e jogar basquete |
+
+
+</center>
 
 
 ## Bibliografia
@@ -64,3 +81,4 @@
 |--|--|--|--|
 |0.1|17/08/2021| Abertura de Documento | Francisco Emanoel Ferreira |
 | 1.0 | 17/08/2021| Criando personas| Francisco Emanoel Ferreiras|
+| 1.1 | 17/08/2021| Adicionando imagens das personas| Francisco Emanoel Ferreira |
