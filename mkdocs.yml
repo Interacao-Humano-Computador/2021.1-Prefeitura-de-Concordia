@@ -14,6 +14,8 @@ nav:
     - Processo de Design: "planejamento/processoDeDesign.md"
     - Ferramentas: "planejamento/ferramentas.md"
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
+  - Análise de Tarefas:
+    - Árvores de Tarefas Concorrentes (CTT): "analiseTarefas/ctt.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
 
