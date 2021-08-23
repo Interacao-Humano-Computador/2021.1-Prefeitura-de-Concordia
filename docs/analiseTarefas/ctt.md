@@ -10,7 +10,7 @@
 - Tarefas interativas: realizadas com diálogos usuário-sistema
 - Tarefas abstratas: não são tarefas em si, mas sim a representação de uma composição de tarefas que auxilia a decomposição.
 
-<center><img src="../../../images/analiseTarefas/legendaCTT.png" width="400" height=auto></center>
+<center><img src="../../images/analiseTarefas/legendaCTT.png" width="400" height=auto></center>
 <h6 align = "center">Imagem 1: Legenda de uma CTT.</h6>
 <h6 align = "center">Fonte: Autor, baseado em Diniz <i>et al.</i> (2021, pág. 173)[1].</h6>
 
@@ -28,12 +28,12 @@
 
 ## 3. Resultados
 ### 3.1 CTT Acesso a Notícias
-<center><img src="../../../images/analiseTarefas/noticiasCTT.png"></center>
+<center><img src="../../images/analiseTarefas/noticiasCTT.png"></center>
 <h6 align = "center">Imagem 2: Árvore concorrente de acesso à notícias.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.2 CTT Acesso a História de Concórdia
-<center><img src="../../../images/analiseTarefas/historiaCTT.png"></center>
+<center><img src="../../images/analiseTarefas/historiaCTT.png"></center>
 <h6 align = "center">Imagem 3: Árvore concorrente de acesso à história de Concórdia.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
