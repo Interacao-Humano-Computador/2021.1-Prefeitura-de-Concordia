@@ -24,21 +24,11 @@
 
 ## 3. Perfis de Usuários
 
-### 3.1 Introdução
+### 3.1 Coleta de dados
 
-Para traçarmos um perfil de usuário mais adequado, criamos um questionário e disponibilizamos-o para alguns moradores de Concórdia preencherem de modo a entendermos melhor o perfil de usuário do sítio virtual.
+Para traçarmos um perfil de usuário mais adequado, criamos um questionário e disponibilizamos para alguns moradores de Concórdia preencherem entre os dias 19 e 24 de agosto de 2021. Assim sendo, a partir dos dados coletados concluímos algumas características que se repetiram entre os usuários e atribuímos ao perfil de usuário.
 
-### Conclusões do questiónario
 
-A partir dos dados coletados é possível dizer que:
-
-- A faixa de participantes fica entre 18 e 30 anos.
-- A maior parte dos participantes ou estão cursando ensino superior ou possuem apenas o ensino médio completo.
-- A maioria raramente utiliza o site, menos de 2 vezes por mês.
-
-### Perfil de usuário traçado
-
-Em geral
 
 ## 4. Referências
 <p style="text-align: justify; text-indent: 20px">Wiegers, K.; Beatty J. <b>Software Requirements</b>. Third Edition. 2013.</p>
