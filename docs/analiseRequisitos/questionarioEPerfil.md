@@ -29,6 +29,5 @@
 Para traçarmos um perfil de usuário mais adequado, criamos um questionário e disponibilizamos para alguns moradores de Concórdia preencherem entre os dias 19 e 24 de agosto de 2021. Assim sendo, a partir dos dados coletados concluímos algumas características que se repetiram entre os usuários e atribuímos ao perfil de usuário.
 
 
-
 ## 4. Referências
 <p style="text-align: justify; text-indent: 20px">Wiegers, K.; Beatty J. <b>Software Requirements</b>. Third Edition. 2013.</p>
