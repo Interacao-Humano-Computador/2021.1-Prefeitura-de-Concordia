@@ -31,12 +31,56 @@
 <h6 align = "center">Tabela 1: Opreções primitivas do KLM-GOMS e seu tempo médio. </h6>
 <h6 align = "center">Fonte: Kieras(apud BARBOSA, 2021, p.198)[1]</h6>
 
-## 3. Análise KLM
+## 3. Resultados
+
+### 3.1 KLM Acesso a notícias
 
 |Método|Operador|Descrição|Tempo(em s)|
 |--|--|--|--|
-|a|a|a|a|
+|**Notícias**|M|preparação|1,20|
+||H|levar a mão do teclado ao mouse|0,40|
+||P|levar cursor até menu Acesso Portal do cidadão|1,10|
+||B|pressionar botão do mouse|0,10|
+||B|soltar botão do mouse|0,10|
+||P|levar cursor até menu Notícia|1,10|
+||B|pressionar botão do mouse|0,10|
+||B|soltar botão do mouse|0,10|
+||P|levar cursor até rolagem da página|1,10|
+||B|pressionar botão do mouse|0,10|
+||P|levar cursor até posição onde está à notícia|1,10|
+||B|soltar botão do mouse|0,10|
+|||**TOTAL**|**6,60**|
 
-## 4. Referencias
+<h6 align = "center">Tabela 2: Análise KLM-GOMS da tarefa Notícias. </h6>
+<h6 align = "center">Fonte: Autor</h6>
+
+### 3.2 KLM Defesa Civil
+
+|Método|Operador|Descrição|Tempo(em s)|
+|--|--|--|--|
+|**Menu Estrutura de Governo> Defesa Civil**|M|preparação|1,20|
+||H|levar a mão do teclado ao mouse|0,40|
+||P|levar cursor até menu Acesso Portal do cidadão|1,10|
+||B|pressionar botão do mouse|0,10|
+||B|soltar botão do mouse|0,10|
+||P|levar cursor até menu Estrutura de Governo|1,10|
+||P|levar cursor até menu Defesa Civil|1,10|
+||B|pressionar botão do mouse|0,10|
+||B|soltar botão do mouse|0,10|
+|||**TOTAL**|**5,30**|
+|**Defesa Civil**|M|preparação|1,20|
+||H|levar a mão do teclado ao mouse|0,40|
+||P|levar cursor até menu Acesso Portal do cidadão|1,10|
+||B|pressionar botão do mouse|0,10|
+||B|soltar botão do mouse|0,10|
+||P|levar cursor até menu Defesa Civil|1,10|
+||B|pressionar botão do mouse|0,10|
+||B|soltar botão do mouse|0,10|
+|||**TOTAL**|**4,20**|
+
+<h6 align = "center">Tabela 2: Análise KLM-GOMS das formas de acesso a Defesa Civil. </h6>
+<h6 align = "center">Fonte: Autor</h6>
+
+## 4. Referências
 
 <p style="text-align: justify; text-indent: 20px">[1] BARBOSA et al.<b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
