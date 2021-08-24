@@ -52,5 +52,9 @@ A partir dos dados coletados é possível dizer que:
 
 Em suma o site da Prefeitura de Concórdia possui usuários jovens e adultos, que buscam uma navegação que não demore, já que, por exemplo, após uma solicitação de iluminação o usuário provavelmente fechará a página e fará outra coisa. Além disso, eles querem que a informação do site seja de confiança e possam entrar em contato direto com a ssecretária da prefeitura.
 
+### 3.4 Observações
+
+É válido ressaltar que os participantes da pesquisa foram em sua maioria conhecidos da equipe que moram no município de Concórdia, com isso, é importante dizer que os dados coletados possuem um certo viés quanto a idade e a familiaridade com uso de tecnologia, sendo assim, o perfil de usuário traçado não condiz fielmente, no entanto, é suficiente para o projeto.
+
 ## 4. Referências
 <p style="text-align: justify; text-indent: 20px">Wiegers, K.; Beatty J. <b>Software Requirements</b>. Third Edition. 2013.</p>
