@@ -17,7 +17,6 @@ nav:
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes (CTT): "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
-    - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
 
