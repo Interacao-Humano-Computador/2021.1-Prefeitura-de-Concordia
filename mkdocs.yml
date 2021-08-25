@@ -1,4 +1,4 @@
-site_name: IHC grupo 01
+site_name: Prefeitura de Concórdia
 repo_url: https://github.com/Interacao-Humano-Computador/2021.1-Grupo01
 edit_uri: ""
 
@@ -14,6 +14,8 @@ nav:
     - Processo de Design: "planejamento/processoDeDesign.md"
     - Ferramentas: "planejamento/ferramentas.md"
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
+  - Análise de Requisitos:
+    - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes (CTT): "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
