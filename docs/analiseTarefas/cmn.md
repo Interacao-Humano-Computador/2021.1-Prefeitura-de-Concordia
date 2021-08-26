@@ -56,8 +56,6 @@ Goal 0: Copiar Telefone de atendimento
 ### 4.2 Solicitar Reclamação da falta de água na região
 ~~~
 Goal 0: Solicitar Reclamação da falta de água na região
-
-
     Goal 1: Encontrar formulário de reclamação
         METHOD 1.A: Encontrar através do cabeçalho
         (SEL.RULE: preferência do usuário)
@@ -84,16 +82,12 @@ Goal 0: Solicitar Reclamação da falta de água na região
             OP: inserir numero de telefone através do teclado
             OP: Levar cursor até o campo de mensagem
             OP: Clicar com o botão esquerdo do mouse
-            OP: inserir mensagem através do teclado
-           
+            OP: inserir mensagem através do teclado 
     Goal 3: Enviar Formulário de reclamação
     (SEL.RULE: Formulário deve estar com todas informações obrigatórias)
        METHOD 3: Usar botão de confirmação
             OP: levar cursor até o botão com nome "confirmar"
             OP: clicar com o botão esquerdo do mouse
 ~~~
-
-
 ## 5. Referências
-
 <p style="text-align: justify; text-indent: 20px">[1] BARBOSA et al.<b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
