@@ -19,6 +19,7 @@ nav:
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes (CTT): "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
+    - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
 
