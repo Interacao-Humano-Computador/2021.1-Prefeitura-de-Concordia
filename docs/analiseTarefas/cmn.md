@@ -87,7 +87,7 @@ Goal 0: Solicitar Reclamação da falta de água na região
             OP: inserir mensagem através do teclado
            
     Goal 3: Enviar Formulário de reclamação
-    (SEL.RULE: Formulário estar com todas informações obrigatórias)
+    (SEL.RULE: Formulário deve estar com todas informações obrigatórias)
        METHOD 3: Usar botão de confirmação
             OP: levar cursor até o botão com nome "confirmar"
             OP: clicar com o botão esquerdo do mouse
