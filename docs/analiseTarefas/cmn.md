@@ -41,7 +41,7 @@ para o usuário.</p>
 ~~~
 Goal 0: Copiar Telefone de atendimento
     Goal 1: Encontrar Informações de contato
-        METHOD 1.A: Encontrar através do menu
+        METHOD 1.A: Encontrar através do menu secundário
         (SEL.RULE: preferência do usuário)
             OP: Levar cursor até o menu
             OP: Levar o cursor a opção com nome acesso à informação
@@ -49,7 +49,7 @@ Goal 0: Copiar Telefone de atendimento
             OP: Rolar tela para baixo até a área com nome Atendimento Telefone
         METHOD 1.B: Encontrar através da área de pesquisa do menu
         (SEL.RULE: preferência do usuário)
-            OP: Levar cursor até o menu
+            OP: Levar cursor até o menu secundário
             OP: Levar o cursor a opção de pesquisa 
             OP: Clicar com o botão esquerdo do mouse
             OP: Digitar a palavra "ouvidoria"
@@ -64,7 +64,47 @@ Goal 0: Copiar Telefone de atendimento
         OP: Clicar com botão esquerdo do mouse
 ~~~
 
-### 4.2 Solicitar 
+### 4.2 Solicitar Reclamação da falta de água na região
+~~~
+Goal 0: Solicitar Reclamação da falta de água na região
+
+
+    Goal 1: Encontrar formulário de reclamação
+        METHOD 1.A: Encontrar através do cabeçalho
+        (SEL.RULE: preferência do usuário)
+            OP: Levar cursor até o cabeçalho
+            OP: Levar cursor até a opção Serviços
+            OP: Levar cursor até a opção com nome falta de água
+            OP: clicar com o botão esquerdo do mouse
+         METHOD 1.B: Encontrar através da área de pesquisa do menu
+        (SEL.RULE: preferência do usuário)
+            OP: Levar cursor até o menu secundário
+            OP: Levar o cursor a opção de pesquisa 
+            OP: Clicar com o botão esquerdo do mouse
+            OP: Digitar a palavra "falta de água"
+            OP: Levar cursor até a coluna com nome páginas 
+            OP: Levar cursor até a opção com nome Falta de água
+            OP: Clicar com o botão esquerdo do mouse
+    Goal 2: Preencher do formulário de reclamação      
+        METHOD 2: inserir dados corretos nos campos do formulário
+            OP: Levar cursor até o campo de nome
+            OP: Clicar com o botão esquerdo do mouse
+            OP: inserir através do teclado o nome
+            OP: Levar cursor até o campo de Telefone
+            OP: Clicar com o botão esquerdo do mouse
+            OP: inserir numero de telefone através do teclado
+            OP: Levar cursor até o campo de mensagem
+            OP: Clicar com o botão esquerdo do mouse
+            OP: inserir mensagem através do teclado
+           
+    Goal 3: Enviar Formulário de reclamação
+    (SEL.RULE: Formulário estar com todas informações obrigatórias)
+       METHOD 3: Usar botão de confirmação
+            OP: levar cursor até o botão com nome "confirmar"
+            OP: clicar com o botão esquerdo do mouse
+~~~
+
+
 ## 5. Referências
 
 <p style="text-align: justify; text-indent: 20px">[1] BARBOSA et al.<b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
