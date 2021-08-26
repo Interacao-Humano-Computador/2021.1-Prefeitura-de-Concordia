@@ -37,7 +37,32 @@ para o usuário.</p>
 ## 4 Análise
 <p align = "justify">  &emsp;&emsp; A análise em questão busca realizar o mapeamento dos objetivos, métodos e operações utilizadas para serem realizadas algumas tarefas comums dentro do site. Lembrando que  o ponto de partida do usuario para executar a tarefa analisada é a home do site.</p>
 
-
+### Copiar Telefone de atendimento
+~~~
+Goal 0: Copiar Telefone de atendimento
+    Goal 1: Encontrar Informações de contato
+        METHOD 1.A: Encontrar através do menu
+        (SEL.RULE: peferência do usuário)
+            OP: Levar cursor até o menu
+            OP: Levar o cursor a opção com nome acesso à informação
+            OP: Clicar com o botão esquerdo do mouse
+            OP: Rolar tela para baixo até a area com nome Atendimento Telefone
+        METHOD 1.B: Encontrar através da area de pesquisa do menu
+        (SEL.RULE: peferência do usuário)
+            OP: Levar cursor até o menu
+            OP: Levar o cursor a opção de pesquisa a direita
+            OP: Clicar com o botão esquerdo do mouse
+            OP: Digitar a palavra "ouvidoria"
+            OP: Levar cursor até a coluna central com nome serviços
+            OP: Levar cursor até a opção com nome ouvidoria municipal
+            OP: Clicar com o botão esquerdo do mouse
+    Goal 2: Copiar telefone
+        OP: Levar Cursor até o numero de telefone desejado
+        OP: selecione todo o numero de telefone com o botão esquerdo do mouse
+        OP: Clicar com botão direito do mouse
+        OP: Levar cursor até a opção menu "Copiar"
+        OP: Clicar com botão esquerdo do mouse
+~~~
 
 ## 5. Referências
 
