@@ -1,5 +1,4 @@
 # Personas
-
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
@@ -9,112 +8,99 @@
 | 1.2 | 20/08/2021 | Refatorando o arquivo de personas | Francisco Emanoel Ferreira |
 | 1.3 | 26/08/2021| Corrigindo e padronizando a estrutura do documento| Francisco Emanoel Ferreira|
 
-## 1- Introdução
+## 1. Introdução
+<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituidos por um grupo de usuários reais, com o objetivo de descrver um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1]. </p>
 
-
-<p align = "justify"> &emsp;&emsp; As personas são personagem fictício e hipotético, que é constituido por um grupo de usuários reais, com o objetivo de descrver um usuário no sistema. É utilizada principalmente para representar um grupo de usuários ﬁnais durante discussões de design, mantendo todos focados no mesmo alvo.
-As personas são deﬁnidas principalmente por seus objetivos, que são determinados
-num processo de reﬁnamentos sucessivos durante a investigação inicial do domínio
-de atividade do usuário. </p>
-
-
-## 2- Personas
-
-
-### Pedro Moreira Santiago
+## 2. Personas
+### 2.1 Pedro Moreira Santiago
 <center>
+<img src="../../images/personas/pedro.jpeg" width="400px">
+<h6 align = "center">Figura 1: Foto de Pedro</h6>
+<h6 align = "center">Fonte: This Person Does Not Exist [2]</h6>
 
-![](../images/personas/pedro.jpeg)
-
-[Persona 1](../images/personas/pedro.png) 
-
-|**Perfil** | |
+|**Caracterísitcas**|Persona Primária|
 |--|-----|
 |**Nome**| Pedro Moreira Santiago  |
-| **Escolaridade**| Ensino Superior Completo|
-| **Tarefas**| Pelo período da manhã ensina matemática em uma escola de ensino médio, e pela tarde atua dando monitorias. Por fim, seu período noturno consiste na preparação de sua aula para o dia seguinte|
+|**Escolaridade**| Ensino Superior Completo|
+|**Tarefas**| Pelo período da manhã ensina matemática em uma escola de ensino médio, e pela tarde atua dando monitorias. Por fim, seu período noturno consiste na preparação de sua aula para o dia seguinte|
 |**Cargo**| Professor de Matemática  |
 |**Idade**| 28 anos   |
 |**Relacionamentos**| Namorando|
 |**Comportamento**| Gentil, amigável|
-| **Requisitos** | Para Ademir, um site deve ter as funcionalidades essenciais para a realização de suas tarefas, com uma interface bonita e de fácil entendimento|
+|**Requisitos** | Para Ademir, um site deve ter as funcionalidades essenciais para a realização de suas tarefas, com uma interface bonita e de fácil entendimento|
 |**Expectativas**| Ademir espera que a aplicação seja capaz de emitir todos os documentos que necessitar, de forma rápida e eficiente, sem passar horas procurando por uma opção|
+<h6 align = "center">Tabela 1: Persona Pedro</h6>
+<h6 align = "center">Fonte: Autor</h6>
 
 </center>
 
-
-### Maria Clara Fernandes
-
+### 2.2 Maria Clara Fernandes
 <center>
+<img src="../../images/personas/maria.jpeg" width="400px">
+<h6 align = "center">Figura 2: Foto de Maria</h6>
+<h6 align = "center">Fonte: This Person Does Not Exist [2]</h6>
 
-![](../images/personas/maria.jpeg) 
+|**Características**|Persona Primária|
+|--|-----|
+|**Nome**| Maria Clara Fernandes |
+|**Escolaridade**| Ensino Superior Completo|
+|**Tarefas**| Pelo período da manhã e tarde ela vai para sua micro-empresa de desenvolvimento de software. E seu período noturno consiste em planejar o próximo dia e fazer exercícios físicos|
+|**Cargo**|Desenvolvedora de Software|
+|**Idade**|28 anos|
+|**Relacionamentos**|Casada|
+|**Comportamento**|Atenciosa, Comunicativa, Amante dos animas|
+|**Requisitos**|Para Maria, o site deve centralizar todas informações e ser de facil acesso à todos os usuários|
+|**Expectativas**|Maria espera ser capaz de procurar informações sobre a legalização de negócios de sua cidade de maneira rápida e eficiente|
+<h6 align = "center">Tabela 2: Persona Maria</h6>
+<h6 align = "center">Fonte: Autor</h6>
 
-[Persona 2](../images/personas/maria.png) 
+</center>
+
+### 2.3 Paulo Baruk
+<center>
+<img src="../../images/personas/paulo.jpeg" width="400px">
+<h6 align = "center">Figura 3: Foto de Paulo</h6>
+<h6 align = "center">Fonte: This Person Does Not Exist [2]</h6>
+
+|**Características**|Persona Primária|
+|--|-----|
+|**Nome**|Paulo Baruk|
+|**Escolaridade**|Ensino Superior Completo|
+|**Tarefas**|Pelo período da manhã ele vai para sua empresa de arquitetura, e pela tarde atua diretamente em um projeto da empresa. Por fim, em seu período noturno ele vai para academia para se exercítar, e ao final do seu dia planeja seu amanhã|
+|**Cargo**|Arquiteto|
+|**Idade**|42 anos|
+|**Relacionamentos**|Casado|
+|**Comportamento**|Criterioso, Agitado e Atencioso|
+|**Requisitos**|Para Paulo, o site de seua prefeitura deve conter um grande leque de funcionalidades, entretanto Paulo não se importa muito com design e com a identidade visual do domínio|
+|**Expectativas**|Paulo deseja, conseguir realizar virtualmente todas as tarefas que necessitaria fazer presencialmente em uma prefeitura.|
+<h6 align = "center">Tabela 3: Persona Paulo</h6>
+<h6 align = "center">Fonte: Autor</h6>
+
+</center>
+
+### 2.4 Josiane Kafka
+<center>
+<img src="../../images/personas/josiane.jpeg" width="400px">
+<h6 align = "center">Figura 4: Foto de Josiane</h6>
+<h6 align = "center">Fonte: This Person Does Not Exist [2]</h6>
 
 |**Perfil** | |
 |--|-----|
-|**Nome**| Maria Clara Fernandes  |
-| **Escolaridade**| Ensino Superior Completo|
-| **Tarefas**| Pelo período da manhã e tarde ela vai para sua micro-empresa de desenvolvimento de software. No seu período noturno consiste em planeijar o proximo dia e fazer exercícios físicos|
-|**Cargo**| Desenvolvedora de Software  |
-|**Idade**| 28 anos   |
-|**Relacionamentos**| Casada|
-|**Comportamento**| Atenciosa, Comunicativa, Amante dos animas|
-| **Requisitos** | Para Maria, o site deve centralizar todas informações e facil acesso. |
-|**Expectativas**|Procurar informações sobre a legalização de negócios da cidade de maneira mas rapidas|
+|**Nome**|Josiane Kafka|
+|**Escolaridade**| Cursando ensino médio|
+|**Tarefas**| Suas tarefas consistem em ir para a escola durante o período da manhã e realizar suas tarefas pela tarde. O resto do seu dia é gasto brincando com seus amigos na rua|
+|**Cargo**|Estudante|
+|**Idade**|8 anos|
+|**Relacionamentos**|Solteira|
+|**Comportamento**|Animada e Extrovertida|
+|**Requisitos** |Josiane Kafka não tem muita experiência com equipamentos eletrônicos, pois não os utiliza diariamente. Porém acha que uma aplicação deve ser bem colorida e chamativa|
+|**Expectativas**|Por ainda ser criança e por não ter muito acesso com aparelhos eletrônicos, o site da Prefeitura de Concórdia (sua cidade), não tem importância para ela. Portanto, essa persona não é atendidada pelo domínio e não faz parte do público alvo do site|
+<h6 align = "center">Tabela 4: Persona Josiane</h6>
+<h6 align = "center">Fonte: This Person Does Not Exist [2]</h6>
 
 </center>
 
+## 3. Referência
+<p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
 
-### Paulo Baruk
-
-<center>
-
-![](../images/personas/paulo.jpeg)
-
-[Persona 3](../images/personas/paulo.jpeg) 
-
-|**Perfil** | |
-|--|-----|
-|**Nome**| Paulo Baruk  |
-| **Escolaridade**| Ensino Superior Completo|
-| **Tarefas**| Pelo período da manhã ele vai para sua empresa de arquitetura, e pela tarde atua diretamente em um projeto da empresa. Por fim, em seu período noturno ele var para academia e depois planejar seu proximo dia. |
-|**Cargo**| Arquiteto  |
-|**Idade**| 42 anos   |
-|**Relacionamentos**| Casado|
-|**Comportamento**| Criterioso, Agitado e Atencioso.|
-| **Requisitos** | Para paulo, o site deve centralizar todas informações e facil acesso. |
-|**Expectativas**| Visiualizar legislação da cidade em projetos arquitetônico na cidade.|
-
-</center>
-
-## 3- Anti-persona
-
-### Josiane Kafka
-
-<center>
-
-![](../images/personas/josiane.jpeg)
-
-[Anti-Persona 1](../images/personas/josiane.jpeg) 
-
-|**Perfil** | |
-|--|-----|
-|**Nome**| Josiane Kafka  |
-| **Escolaridade**| Cursando ensino médio|
-| **Tarefas**| Suas tarefas consistem em ir para a escola durante o período da manhã e realizar suas tarefas pela tarde. O resto do seu dia é gasto brincando com seus amigos na rua.|
-|**Cargo**| Estudante  |
-|**Idade**| 8 anos.  |
-|**Relacionamentos**| Solteira|
-|**Comportamento**| Animado e Extrovertido |
-| **Requisitos** | Josiane Kafka não tem muita experiência com equipamentos eletrônicos, pois não os utiliza diariamente. Porém acha que uma aplicação deve ser bem colorida e chamativa.|
-|**Expectativas**| Por ainda ser criança e por não ter muito acesso com aparelhos eletrônicos, o site da Prefeitura de Concórdia (sua cidade), não tem importância para ela. Portanto, excluindo-a do público alvo do site.|
-
-</center>
-
-
-## 4- Referência
-
-
-<p style="text-align: justify; text-indent: 20px">[1] BARBOSA, Simone Diniz Junqueira. <b>Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: [s. n.],</b>2021.</p>
-
+<p style="text-align: justify; text-indent: 20px">[2] <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. Acesso em: 27 de ago. de 2021.</p>
