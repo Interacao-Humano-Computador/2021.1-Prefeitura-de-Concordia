@@ -1,19 +1,30 @@
 # Personas
 
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+|0.1|17/08/2021| Abertura de Documento | Francisco Emanoel Ferreira |
+| 1.0 | 17/08/2021| Criando personas| Francisco Emanoel Ferreiras|
+| 1.1 | 17/08/2021| Adicionando imagens das personas| Francisco Emanoel Ferreira |
+| 1.2 | 20/08/2021 | Refatorando o arquivo de personas | Francisco Emanoel Ferreira |
+| 1.3 | 26/08/2021| Corrigindo e padronizando a estrutura do documento| Francisco Emanoel Ferreira|
+
 ## 1- Introdução
 
 
-<p align = "justify"> &emsp;&emsp; As personas são personagem fictício e hipotético, que é constituido por um grupo de usuários reais, com o objetivo de descrver um usuário so sistema. (Cooper et al., 2007; Pruitt e Adlin,
-2006; Cooper, 1999). </p>
+<p align = "justify"> &emsp;&emsp; As personas são personagem fictício e hipotético, que é constituido por um grupo de usuários reais, com o objetivo de descrver um usuário no sistema. É utilizada principalmente para representar um grupo de usuários ﬁnais durante discussões de design, mantendo todos focados no mesmo alvo.
+As personas são deﬁnidas principalmente por seus objetivos, que são determinados
+num processo de reﬁnamentos sucessivos durante a investigação inicial do domínio
+de atividade do usuário. </p>
 
 
 ## 2- Personas
 
 
-### 2.1- Persona 1: Pedro Moreira Santiago
+### Pedro Moreira Santiago
 <center>
 
-![](../images/personas/pedro.png)
+![](../images/personas/pedro.jpeg)
 
 [Persona 1](../images/personas/pedro.png) 
 
@@ -32,11 +43,11 @@
 </center>
 
 
-### 2.2- Persona 2: Maria Clara Fernandes
+### Maria Clara Fernandes
 
 <center>
 
-![](../images/personas/maria.png) 
+![](../images/personas/maria.jpeg) 
 
 [Persona 2](../images/personas/maria.png) 
 
@@ -44,71 +55,66 @@
 |--|-----|
 |**Nome**| Maria Clara Fernandes  |
 | **Escolaridade**| Ensino Superior Completo|
-| **Tarefas**| Pelo período da manhã e tarde ela vai para sua micro-empresa de desenvolvimento de software. No seu período noturno consiste na preparação de sua aula para o dia seguinte|
+| **Tarefas**| Pelo período da manhã e tarde ela vai para sua micro-empresa de desenvolvimento de software. No seu período noturno consiste em planeijar o proximo dia e fazer exercícios físicos|
 |**Cargo**| Desenvolvedora de Software  |
 |**Idade**| 28 anos   |
 |**Relacionamentos**| Casada|
 |**Comportamento**| Atenciosa, Comunicativa, Amante dos animas|
-| **Requisitos** | Procurar informações sobre a legalização de negócios da cidade de maneira mas rapidas|
-|**Expectativas**| Para Maria, o site deve centralizar todas informações e facil acesso.|
+| **Requisitos** | Para Maria, o site deve centralizar todas informações e facil acesso. |
+|**Expectativas**|Procurar informações sobre a legalização de negócios da cidade de maneira mas rapidas|
 
 </center>
 
 
-### 2.3- Persona 3: Paulo Baruk
+### Paulo Baruk
 
 <center>
 
-![](../images/personas/paulo.png)
+![](../images/personas/paulo.jpeg)
 
-[Persona 3](../images/personas/paulo.png) 
+[Persona 3](../images/personas/paulo.jpeg) 
 
 |**Perfil** | |
 |--|-----|
-|**Nome**| Paulo Cesar  |
+|**Nome**| Paulo Baruk  |
 | **Escolaridade**| Ensino Superior Completo|
-| **Tarefas**| Pelo período da manhã ele vai para sua empresa de arquitetura, e pela tarde atua diretamente em um projeto da empresa. Por fim, em seu período noturno ele var para academia e depois planejar seu proximo dia |
+| **Tarefas**| Pelo período da manhã ele vai para sua empresa de arquitetura, e pela tarde atua diretamente em um projeto da empresa. Por fim, em seu período noturno ele var para academia e depois planejar seu proximo dia. |
 |**Cargo**| Arquiteto  |
 |**Idade**| 42 anos   |
 |**Relacionamentos**| Casado|
-|**Comportamento**| Criterioso, Agitado e Atencioso|
-| **Requisitos** | Visiualizar legislação da cidade em projetos arquitetônico na cidade.|
-|**Expectativas**| Para paulo, o site deve centralizar todas informações e facil acesso|
+|**Comportamento**| Criterioso, Agitado e Atencioso.|
+| **Requisitos** | Para paulo, o site deve centralizar todas informações e facil acesso. |
+|**Expectativas**| Visiualizar legislação da cidade em projetos arquitetônico na cidade.|
 
 </center>
 
-### 2.4-  Anti-persona 1: João Pedro
+## 3- Anti-persona
+
+### Josiane Kafka
 
 <center>
 
-![](../images/personas/joao.png)
+![](../images/personas/josiane.jpeg)
 
-[Anti-Persona 1](../images/personas/joao.png) 
+[Anti-Persona 1](../images/personas/josiane.jpeg) 
 
 |**Perfil** | |
 |--|-----|
-|**Nome**| João Pedro  |
+|**Nome**| Josiane Kafka  |
 | **Escolaridade**| Cursando ensino médio|
-| **Tarefas**| João acorda no horario da tarde , e toma seu café da manhã, a tarde ele vai para a escola, e a noite sair para se divetir com seus amigos|
+| **Tarefas**| Suas tarefas consistem em ir para a escola durante o período da manhã e realizar suas tarefas pela tarde. O resto do seu dia é gasto brincando com seus amigos na rua.|
 |**Cargo**| Estudante  |
-|**Idade**| 16 anos   |
-|**Relacionamentos**| Solteiro|
+|**Idade**| 8 anos.  |
+|**Relacionamentos**| Solteira|
 |**Comportamento**| Animado e Extrovertido |
-| **Requisitos** | João não conhece a cidade, mas ele espera que a cidade seja bem organizada|
-|**Expectativas**| O potal para joão não tem sentindo nenhum, para as suas atividades|
+| **Requisitos** | Josiane Kafka não tem muita experiência com equipamentos eletrônicos, pois não os utiliza diariamente. Porém acha que uma aplicação deve ser bem colorida e chamativa.|
+|**Expectativas**| Por ainda ser criança e por não ter muito acesso com aparelhos eletrônicos, o site da Prefeitura de Concórdia (sua cidade), não tem importância para ela. Portanto, excluindo-a do público alvo do site.|
 
 </center>
 
 
-## Bibliografia
+## 4- Referência
 
 
-<p style="text-align: justify; text-indent: 20px">[1] BARBOSA, Gabriel Diniz Junqueira. <b>Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: [s. n.],</b>2021</p>
+<p style="text-align: justify; text-indent: 20px">[1] BARBOSA, Simone Diniz Junqueira. <b>Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: [s. n.],</b>2021.</p>
 
-## Versionamento
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-|0.1|17/08/2021| Abertura de Documento | Francisco Emanoel Ferreira |
-| 1.0 | 17/08/2021| Criando personas| Francisco Emanoel Ferreiras|
-| 1.1 | 17/08/2021| Adicionando imagens das personas| Francisco Emanoel Ferreira |
-| 1.2 | 20/08/2021 | Refatorando o arquivo de personas | Francisco Emanoel Ferreira |
