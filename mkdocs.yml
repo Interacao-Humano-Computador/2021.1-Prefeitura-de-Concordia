@@ -16,7 +16,7 @@ nav:
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
   - Análise de Requisitos:
     - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
-    - Personas: "analise_de_requisitos/Personas.md"
+    - Personas: "analiseRequisitos/personas.md"
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes (CTT): "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
