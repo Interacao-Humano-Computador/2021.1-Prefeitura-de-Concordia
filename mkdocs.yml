@@ -16,6 +16,8 @@ nav:
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
+  - Analise de Tarefa:
+    - Entrevista: "analise_de_requisitos/entrevista.md"
 
 markdown_extensions:
   - attr_list
