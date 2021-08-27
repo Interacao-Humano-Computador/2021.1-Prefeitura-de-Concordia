@@ -14,10 +14,10 @@ nav:
     - Processo de Design: "planejamento/processoDeDesign.md"
     - Ferramentas: "planejamento/ferramentas.md"
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
+  - Análise de Requisitos:
+    - Entrevista: "analiseRequisitos/entrevista.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
-  - Analise de Tarefa:
-    - Entrevista: "analise_de_requisitos/entrevista.md"
 
 markdown_extensions:
   - attr_list
