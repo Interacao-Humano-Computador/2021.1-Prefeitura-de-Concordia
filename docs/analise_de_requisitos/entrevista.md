@@ -5,7 +5,8 @@
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-|1.0|17/08/2021| Criar documento de entrevista | Francisco Emanoel Ferreira |
+|1.0| 27/08/2021| Criar documento de entrevista | Francisco Emanoel Ferreira |
+| 1.2 | 27/08/2021 | Refatorando documento      | Francisco Emanoel Ferreira | 
 
 ## 1. Introdução
 <p align="justify">&emsp;&emsp; A entrevista é tecnica que tráz bons resultados mesmo sendo uma tecnica tão tradicional e simples, na fase de coleta de dados dos possiveis usuários do sistema, com objetivo bem direto de coleta de dados, e é traçado um roteiro de entrevista com o objetivo de não haja disperssão do conteudo principal, assim obtendo informções de qualidade.
@@ -18,9 +19,9 @@
 * 4- Você já sabe que a prefeitura de Concordia possui um site?
 * 5- Você já acessou o cite da prefeitura?
 * 6- Como que você faz para se atualizar sobre noticias das cidades?
-* 7- Você sabia que no portal existe auto-atendimento?
-* 8- Você já usou o auto-atendimento do porta? se sim, oque vocês achou do auto-atendimento?
-* 9- Caso você tem usado o site, qual a nota que você daria para o auto-atendimento?
+* 7- Você ja utilizou qual ou quais serviços do domínio da Prefeitura de Concórdia ?
+* 8- Como foi sua experiência com tal serviço ?
+* 9- Como você considera a organização, design e usabilidade do site ?
 
 
 ## 3. Entrevistas realizadas
@@ -35,9 +36,9 @@
 | 4 | Você já sabe que a prefeitura de Concordia possui um site?| Apenas ouvi falar |
 | 5 | Você já acessou o cite da prefeitura?| não |
 | 6 | Você acha que tem necessidade da prefeitura tem um site proprio?| Com certeza! |
-| 7 | Você sabia que no portal existe auto-atendimento?| Serio! não sabia. |
-| 8 |  Você já usou o auto-atendimento do porta? se sim, oque vocês achou do auto-atendimento? | não |
-| 9 | Caso você tem usado o site, qual a nota que você daria para o auto-atendimento? | nem posso opinar, mas vou dar uma olhada no site. |
+| 7 | Você ja utilizou qual ou quais serviços do domínio da Prefeitura de Concórdia?| Não, ainda não mexi no site |
+| 8 | Como foi sua experiência com tal serviço?| não tive experiência com os serviçoes ainda |
+| 9 | Como você considera a organização, design e usabilidade do site? | não vi ainda. |
 
 ### 3.2 Maria Clara Fernandes
 
@@ -49,9 +50,9 @@
 | 4 | Você já sabe que a prefeitura de Concordia possui um site?|Sim |
 | 5 | Você já acessou o cite da prefeitura?| Sim |
 | 6 | Você acha que tem necessidade da prefeitura tem um site proprio?| Com certeza, acaba centralizando muita coisa.|
-| 7 | Você sabia que no portal existe auto-atendimento?| Sim, achei genial!|
-| 8 |  Você já usou o auto-atendimento do porta? se sim, oque vocês achou do auto-atendimento? | Achei exelente, tem muita infomaçoes e consigo revolver muita coisa por lá mesmo. |
-| 9 | Caso você tem usado o site, qual a nota que você daria para o auto-atendimento? por que? | 8, até gosto de mexer nele, mas dar para mlehorar algumas coisas, como deixa-lo minimalista|
+| 7 | Você ja utilizou qual ou quais serviços do domínio da Prefeitura de Concórdia?| Ultilizei os serviços de Lesgilação  municipal de  concórdia/SC  |
+| 8 | Como foi sua experiência com tal serviço?| Tive uma boa experiência nos serviços, bem claro e objetivos |
+| 9 | Como você considera a organização, design e usabilidade do site? | Achei bem interessante, ele centraliza a maioria dos serviços. |
 
 ### 3.3 Paulo Baruk
 
@@ -63,9 +64,9 @@
 | 4 | Você já sabe que a prefeitura de Concordia possui um site?| Sim |
 | 5 | Você já acessou o cite da prefeitura?| não |
 | 6 | Você acha que tem necessidade da prefeitura tem um site proprio?| Super importante, eu prefiro realizar minhas tarefas tudo online mesmo |
-| 7 | Você sabia que no portal existe auto-atendimento?| sim |
-| 8 |  Você já usou o auto-atendimento do porta? se sim, oque vocês achou do auto-atendimento? | Achei otimo, e vi que tem bastantes funcionalidade, isso eu gostei bastante|
-| 9 | Caso você tem usado o site, qual a nota que você daria para o auto-atendimento? | nota 10 |   
+| 7 | Você ja utilizou qual ou quais serviços do domínio da Prefeitura de Concórdia?| Ultilizo bastante, principalmente sobre leis municipais, mas especificamente sobre normas relativas  ás edificações do municipio de concordia. |
+| 8 | Como foi sua experiência com tal serviço?| está sendo uma experiencia relativamente boa, mas acredito que possa melhorar algumas experiencias. |
+| 9 | Como você considera a organização, design e usabilidade do site? | A principio está legal, mas acredito que der para colocar um design mas minimalista|
 
 ## 4. Referência
 
