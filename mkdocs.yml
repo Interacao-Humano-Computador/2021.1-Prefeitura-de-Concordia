@@ -16,6 +16,7 @@ nav:
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
   - Análise de Requisitos:
     - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
+    - Personas: "analise_de_requisitos/Personas.md"
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes (CTT): "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
@@ -23,8 +24,6 @@ nav:
     - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
-  - Analise de Requisitos:
-    - Personas: "analise_de_requisitos/Personas.md"
 
 markdown_extensions:
   - attr_list
