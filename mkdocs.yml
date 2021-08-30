@@ -18,6 +18,7 @@ nav:
     - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
     - Personas: "analiseRequisitos/personas.md"
     - Entrevista: "analiseRequisitos/entrevista.md"
+    - Metas de Usabilidade: "analiseRequisitos/metasUsabilidade.md"
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes CTT: "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
