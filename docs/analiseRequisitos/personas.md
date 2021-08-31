@@ -2,14 +2,16 @@
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-|0.1|17/08/2021| Abertura de Documento | Francisco Emanoel Ferreira |
-| 1.0 | 17/08/2021| Criando personas| Francisco Emanoel Ferreiras|
-| 1.1 | 17/08/2021| Adicionando imagens das personas| Francisco Emanoel Ferreira |
-| 1.2 | 20/08/2021 | Refatorando o arquivo de personas | Francisco Emanoel Ferreira |
-| 1.3 | 26/08/2021| Corrigindo e padronizando a estrutura do documento| Francisco Emanoel Ferreira|
+|0.1|17/08| Abertura de Documento | Francisco Emanoel Ferreira |
+| 1.0 | 17/08| Criando personas| Francisco Emanoel Ferreiras|
+| 1.1 | 17/08| Adicionando imagens das personas| Francisco Emanoel Ferreira |
+| 1.2 | 20/08| Refatorando o arquivo de personas | Francisco Emanoel Ferreira |
+| 1.3 | 26/08| Corrigindo e padronizando a estrutura do documento| Francisco Emanoel Ferreira|
+| 1.4 | 31/08| Adicionando parágrafo sobre elenco de personas | João Pedro |
 
 ## 1. Introdução
-<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituidos por um grupo de usuários reais, com o objetivo de descrver um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1]. </p>
+<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituidos por um grupo de usuários reais, com o objetivo de descrver um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1].</p>
+<p align = "justify"> &emsp;&emsp; De acordo então, com o questionário e com o recomendado por Courage e Baxter (2005), foi criado um elenco de personas reduzido e memorável a fim de evitar confusões, cobrindo os principais grupos de usuários. Ainda seguindo às recomendações, foi criado um elenco contendo quatro personas, sendo três delas primárias e uma antipersona.</p>
 
 ## 2. Personas
 ### 2.1 Pedro Moreira Santiago
