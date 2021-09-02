@@ -28,3 +28,19 @@
 
 <p align = "justify"> &emsp;&emsp; Ao acessar o site o usuário se depara com uma página que é voltada a mostrar as noticías mais recentes da cidade de Concórdia , a página inicial também possui uma navbar com diversos botões e uma campo de pesquisa. Ao clicar em qualquer um dos botões ou usar o campo de pesquisa da navbar o usuário consegue navegar por todas as regiões do site.</p>
 
+## 3. Elementos de interface
+
+### 3.3 Tipografia
+
+<p align = "justify"> &emsp;&emsp; O site possui dois tipos de tipografia, sendo um principal usado na maior parte dos textos e outro utilizado apenas para títulos. Temos como principal a fonte Open Sans, utilizada sempre no estado regular com algumas variações de tamanho.</p>
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/openSansTipografia.png"></center>
+<h6 align = "center">Imagem X: tamanhos da tipografia Open Sans no sistema.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<p align = "justify"> &emsp;&emsp; Já a Roboto Condensed também aparece no estado regular, porém, aparece em tamanhos maiores por se tratar de títulos. </p>
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/robotoCondensedTipografia.png"></center>
+<h6 align = "center">Imagem X: tamanhos da tipografia Roboto Condensed no sistema.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
