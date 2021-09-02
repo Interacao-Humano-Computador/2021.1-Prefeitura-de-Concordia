@@ -4,15 +4,15 @@
 |02/09|1.0|Criação do documento guia de estilo|Natanael Filho e Abraão|
 
 
-## Introdução
+## 1. Introdução
 
 <p align = "justify"> &emsp;&emsp;O guia de estilo é um documento que auxilia as equipes a acompanhar as decisões de design tomadas durante o projeto pela equipe de design. Dessa forma, asseguram que o estilo seja implementado no produto final.</p>
 
 <p align = "justify"> &emsp;&emsp; O documento possui como público alvo os gerentes do projeto, equipes de desenvolvimento, programadores e equipes de suporte. Por ser um documento que registro o design, ele será constantemente consultado e reutilizado pelas equipes. </p>
 
-<p align = "justify"> &emsp;&emsp;Além disso, o guia facilita a manutenção de padrão da interface do sistema, pois ajudam as equipes de desenvolvimento a não se perderem.</p>
+<p align = "justify"> &emsp;&emsp;Além disso, o guia facilita a manutenção de padrão da interfaces do sistema, pois ajudam as equipes de desenvolvimento a não se perderem.</p>
 
-## Metodologia
+### 1.1 Metodologia
 
 <p align = "justify"> &emsp;&emsp; A metodologia usada para a construção deste projeto e a metodologia proposta por Marcus(1992), é foram considerados os seguintes elementos de design:</p>
 
@@ -23,16 +23,16 @@
 - Visualização de informação: design de gráficos, diagramas e mapas;
 - Design de telas e elementos de interface(widgets).
 
-## Resultado de análise
-### Descrição do ambiente de trabalho do usuário
+## 2. Resultado de análise
+### 2.1 Descrição do ambiente de trabalho do usuário
 
-<p align = "justify"> &emsp;&emsp; Ao acessar o site o usuário se depara com uma página que é voltada a mostrar as noticías mais recentes da cidade de Concórdia , a página inicial também possui uma navbar com diversos botões e uma campo de pesquisa. Ao clicar em qualquer um dos botões ou usar o campo de pesquisa da navbar o usuário consegue navegar por todas as regiões do site.</p>
+<p align = "justify"> &emsp;&emsp; Ao acessar o site o usuário se depara com uma página voltada a mostrar as notícias mais recentes da cidade de Concórdia, a página inicial também possui uma navbar com diversos botões e uma campo de pesquisa. Ao clicar em qualquer um dos botões ou usar o campo de pesquisa da navbar o usuário consegue navegar por todas as regiões do site.</p>
 
 ## 3. Elementos de interface
 
 ### 3.3 Tipografia
 
-<p align = "justify"> &emsp;&emsp; O site possui dois tipos de tipografia, sendo um principal usado na maior parte dos textos e outro utilizado apenas para títulos. Temos como principal a fonte Open Sans, utilizada sempre no estado regular com algumas variações de tamanho.</p>
+<p align = "justify"> &emsp;&emsp; O site possui duas categorias de tipografia, sendo um principal usado na maior parte dos textos e outro utilizado apenas para títulos. Temos como principal a fonte Open Sans, utilizada sempre no estado regular com algumas variações de tamanho.</p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/openSansTipografia.png"></center>
 <h6 align = "center">Imagem X: tamanhos da tipografia Open Sans no sistema.</h6>
@@ -44,3 +44,4 @@
 <h6 align = "center">Imagem X: tamanhos da tipografia Roboto Condensed no sistema.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
+## Referências
