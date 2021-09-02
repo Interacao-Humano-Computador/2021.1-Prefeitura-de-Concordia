@@ -44,4 +44,10 @@
 <h6 align = "center">Imagem X: tamanhos da tipografia Roboto Condensed no sistema.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
+### 3.4 Símbolos não tipográficos
+
+### 3.6 Animações
+
+<p align = "justify"> &emsp;&emsp;Os elementos interativos do site são animados, logo, quando passamos o mouse neles, apresentam alguma animação, desde mudança de cor, avanço de tela, mostrando que aquele elemento é interativo. Além disso, o site possui animações que dão feedback sobre o carregamento de páginas, dessa forma o usuário consegue ter certeza que a sua interação está sendo efetuada.</p>
+
 ## Referências
