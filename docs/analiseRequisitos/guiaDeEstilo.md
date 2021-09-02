@@ -30,6 +30,22 @@
 
 ## 3. Elementos de interface
 
+### 3.2 Janelas
+<p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, encontra-se alguns exemplos de janelas do site.</p>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janela_galeria.png" width="400px"></center>
+<h6 align = "center">Figura 4: Janela de galeria de fotos</h6>
+<h6 align = "center">Fonte: Autor</h6>
+
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janela_informacao.png" width="400px"></center>
+<h6 align = "center">Figura 4: janela de acesso à informação</h6>
+<h6 align = "center">Fonte: Autor</h6>
+
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janela_noticia.png" width="400px"></center>
+<h6 align = "center">Figura 4: Janela de notícias</h6>
+<h6 align = "center">Fonte: Autor</h6>
+
 ### 3.3 Tipografia
 
 <p align = "justify"> &emsp;&emsp; O site possui duas categorias de tipografia, sendo um principal usado na maior parte dos textos e outro utilizado apenas para títulos. Temos como principal a fonte Open Sans, utilizada sempre no estado regular com algumas variações de tamanho.</p>
