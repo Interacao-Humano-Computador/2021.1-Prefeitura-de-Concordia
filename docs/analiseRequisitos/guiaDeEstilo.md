@@ -33,17 +33,17 @@
 ### 3.2 Janelas
 <p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, encontra-se alguns exemplos de janelas do site.</p>
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_galeria.png" width="400px"></center>
-<h6 align = "center">Figura 4: Janela de galeria de fotos</h6>
+<h6 align = "center">Imagem X: Janela de galeria de fotos</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_informacao.png" width="400px"></center>
-<h6 align = "center">Figura 4: janela de acesso à informação</h6>
+<h6 align = "center">Imagem X: janela de acesso à informação</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_noticia.png" width="400px"></center>
-<h6 align = "center">Figura 4: Janela de notícias</h6>
+<h6 align = "center">Imagem X: Janela de notícias</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 ### 3.3 Tipografia
@@ -61,6 +61,38 @@
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.4 Símbolos não tipográficos
+
+<p align = "justify"> &emsp;&emsp; Os símbolos não tipográficos que o site apresenta estão relacionados a acessos rápidos, sendo eles :</p>
+
+- Relacionados a redes social da prefeitura.
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/redesSociais.png"></center>
+
+<h6 align = "center">Imagem X: símbolos de redes sociais.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+- Imagem relacionadas a interação realizada pelo usuário, de modo a ajudar a reconhecer a funcionalidade.
+
+<center>
+
+|**Icone**|**Descrição**|
+|--|--|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/processoDigital.png">|Processo Digital|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/atendimentosConselhoTutelar.png">|Atendimentos conselho tutelar|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/salaEmpreendedor.png">|Sala do empreendedor|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/gerencieImovel.png">|Gerencie seu imóvel|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/solicitaIluminacao.png">|Solicitação iluminação pública|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/ouvidoria.png">|Ouvidoria|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/licitacao.png">|Licitações|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/recursosMultaCovid.png">|Recursos multa covid|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/legislacaoMunicipal.png">|Legislação municipal|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/defesaCivil.png">|Defesa Civil|
+
+</center>
+
+<h6 align = "center">Tabela X: símbolos do menu rápido rotativo.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
 
 ### 3.6 Animações
 
