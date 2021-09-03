@@ -3,6 +3,7 @@
 |--|--|--|--|
 |02/09|1.0|Inicialização do documento guia de estilo|Natanael Filho e Abraão|
 |02/09|1.1|Adição dos elementos de interface|Natanael Filho e Abraão|
+|02/09|1.2|Adição dos documento de elementos de ação, elementos de  interação e vocabulário e padrões de interface|Natanael Filho e Abraão|
 
 
 ## 1. Introdução
@@ -15,7 +16,7 @@
 
 ### 1.1 Metodologia
 
-<p align = "justify"> &emsp;&emsp; A metodologia usada para a construção deste projeto e a metodologia proposta por Marcus(1992), é foram considerados os seguintes elementos de design:</p>
+<p align = "justify"> &emsp;&emsp; A metodologia usada para a construção deste projeto e a metodologia proposta por Marcus(1992) [1], é foram considerados os seguintes elementos de design:</p>
 
 - Layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas.
 -  Tipografia e seu uso em diálogos, formulários e relatórios.
@@ -27,32 +28,32 @@
 ## 2. Resultado de análise
 ### 2.1 Descrição do ambiente de trabalho do usuário
 
-<p align = "justify"> &emsp;&emsp; Ao acessar o site o usuário se depara com uma página voltada a mostrar as notícias mais recentes da cidade de Concórdia, a página inicial também possui uma navbar com diversos botões e uma campo de pesquisa. Ao clicar em qualquer um dos botões ou usar o campo de pesquisa da navbar o usuário consegue navegar por todas as regiões do site.</p>
+<p align = "justify"> &emsp;&emsp; O grid está apresentado de uma forma um pouco confusa em relação a barras de menu, pois existem três opções na parte superior de todas as páginas, causando desorientação do usuário. A barra de menu de autoatendimento ocupa muito espaço lateral da página com um conteúdo pouco relevante, atrapalhando a experiência de usuário ao ler o conteúdo principal da página.</p>
 
 ## 3. Elementos de interface
 
 ### 3.1 Disposição espacial e grid
-<p align = "justify"> &emsp;&emsp; O grid está apresentado de uma forma um pouco confusa em relação aos menus, pois existem três menus na parte superior de todas as paginas causando desorientação do usuário. O menu de autoatendimento ocupa muito espaço lateral da página com um conteúdo pouco relevante, atrapalhando a experiência de usuário ao ler o conteúdo principal da página.  </p>
+<p align = "justify"> &emsp;&emsp; O grid está apresentado de uma forma um pouco confusa em relação aos menus, pois existem três menus na parte superior de todas as paginas causando desorientação do usuário. O menu de autoatendimento ocupa muito espaço lateral da página com um conteúdo pouco relevante, atrapalhando a experiência de usuário ao ler o conteúdo principal da página.</p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/gridPaginaAtual.png" width="400px"></center>
-<h6 align = "center">Imagem 1: Grid da pagina</h6>
-<h6 align = "center">Fonte: Autor</h6>
+<h6 align = "center">Imagem 1: Grid da página.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.2 Janelas
-<p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, encontra-se alguns exemplos de janelas do site.</p>
+<p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, alguns exemplos de janelas do site.</p>
 <center><img src="../../images/analiseRequisitos/guiaEstilo/Janela_galeria.png" width="400px"></center>
-<h6 align = "center">Imagem 2: Janela de galeria de fotos</h6>
-<h6 align = "center">Fonte: Autor</h6>
+<h6 align = "center">Imagem 2: Janela de galeria de fotos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_informacao.png" width="400px"></center>
-<h6 align = "center">Imagem 3: janela de acesso à informação</h6>
-<h6 align = "center">Fonte: Autor</h6>
+<h6 align = "center">Imagem 3: janela de acesso à informação.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_noticia.png" width="400px"></center>
-<h6 align = "center">Imagem 4: Janela de notícias</h6>
-<h6 align = "center">Fonte: Autor</h6>
+<h6 align = "center">Imagem 4: Janela de notícias.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.3 Tipografia
 
@@ -70,9 +71,9 @@
 
 ### 3.4 Símbolos não tipográficos
 
-<p align = "justify"> &emsp;&emsp; Os símbolos não tipográficos que o site apresenta estão relacionados a acessos rápidos, sendo eles :</p>
+<p align = "justify"> &emsp;&emsp; Os símbolos não tipográficos que o site apresenta estão relacionados a acessos rápidos, sendo eles:</p>
 
-- Relacionados a redes social da prefeitura.
+- Relacionados a redes sociais da prefeitura.
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/redesSociais.png"></center>
 
@@ -89,7 +90,7 @@
 |<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/atendimentosConselhoTutelar.png">|Atendimentos conselho tutelar|
 |<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/salaEmpreendedor.png">|Sala do empreendedor|
 |<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/gerencieImovel.png">|Gerencie seu imóvel|
-|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/solicitaIluminacao.png">|Solicitação iluminação pública|
+|<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/solicitaIluminacao.png">|Solicitação de iluminação pública|
 |<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/ouvidoria.png">|Ouvidoria|
 |<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/licitacao.png">|Licitações|
 |<img src="../../images/analiseRequisitos/guiaEstilo/iconesRotativos/recursosMultaCovid.png">|Recursos multa covid|
@@ -110,7 +111,7 @@
 <h6 align = "center">Imagem 8: Paleta de cores a partir da logo.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
-<p align = "justify"> &emsp;&emsp; Já o site apresenta em sua estrutura apenas o verde escuro ao longo da navegação, e apenas em icones pequenos as outras cores. Com isso, formamos a seguinte paleta para o site:</p>
+<p align = "justify"> &emsp;&emsp; Já o site apresenta em sua estrutura apenas o verde-escuro ao longo da navegação, e apenas em ícones pequenos as outras cores. Com isso, formamos a seguinte paleta para o site:</p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/paletaSite.png"></center>
 
@@ -124,11 +125,11 @@
 ## 4 Elementos de interação
 
 ### 4.1 Estilos de interação
-<p align = "justify"> &emsp;&emsp; Os estilos de interação mais utilizados no site são: os de menus, que possibilitam a navegação do usuário pelo site e linguagem natural que indicam onde e o que o usuário pode fazer; WIMP (window, icon, menu, pointing device) que é a utilização de ícones, menus e ações com o mouse e Preenchimento de Formulários que são  utilizadas  principalmente  para entrada  de  dados  em  sistemas  de  informação aumentando o nível de comunicação. </p>
+<p align = "justify"> &emsp;&emsp; Os estilos de interação mais utilizados no site são: os de menus, que possibilitam a navegação do usuário pelo site e linguagem natural que indicam onde e o que o usuário pode fazer; WIMP (window, icon, menu, pointing device) sendo a utilização de ícones, barras de menu e ações com o mouse e Preenchimento de Formulários utilizados principalmente para entrada de dados em sistemas de informação aumentando o nível de comunicação. </p>
 
 ### 4.2 Seleção de um estilo
 <p align = "justify"> &emsp;&emsp;  
-Os menus são o estilo com mais presença no site. Dessa forma o usuário seleciona o menu e tenta realizar a função contida no menu. </p>
+O menu é o estilo com mais presença no site. Dessa forma, o usuário seleciona opções na barra de menu e tenta realizar suas funcionalidades. </p>
 
 
 ### 4.3 Aceleradores (Teclas de atalho)
@@ -145,7 +146,7 @@ Os menus são o estilo com mais presença no site. Dessa forma o usuário seleci
 <p align = "justify"> &emsp;&emsp; Não existe opção de seleção no procedimento anterior. </p>
 
 ### 5.3 Ativação
- <p align = "justify"> &emsp;&emsp; Apos todos os campos preenchidos corretamente, basta o usuário clicar no botão "enviar" ou entrar. </p>
+ <p align = "justify"> &emsp;&emsp; Apos todos os campos preenchidos corretamente, basta o usuário clicar no botão "confirmar" ou entrar. </p>
 
 ## 6. Vocabulário e padrões
 
@@ -155,10 +156,13 @@ Os menus são o estilo com mais presença no site. Dessa forma o usuário seleci
 
 ### 6.2 Tipo de tela
 
-<p align = "justify"> &emsp;&emsp;  O site possui uma tela padronizada durante a navegação principal (notícia, galeria, etc.), porém, durante acesso à emissão de documentos e transparências o site não está padronizado o que gera nos usuários um sentimento de confusão e desconforto.</p>
+<p align = "justify"> &emsp;&emsp;  O site possui uma tela padronizada durante a navegação principal (notícia, galeria, etc.), porém, durante acesso à emissão de documentos e transparências o site não está padronizado o que gera nos usuários um sentimento de confusão.</p>
 
 ### 6.3 Sequências de diálogos
 
 <p align = "justify"> &emsp;&emsp;  Após preenchimento de formulários, de forma correta, o sistema mostra uma mensagem escrita na tela "SUA SOLICITAÇÃO FOI ENVIADA COM SUCESSO", indicando ao usuário que a operação finalizou corretamente.</p>
 
-## Referências
+## 7. Referências
+
+<p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
+<p style="text-align: justify; text-indent: 20px">[2] 2020.1-Prefeiturade-Aguas-Lindas-de-Goias. <b>Guia de estilo</b>. Disponível em: <a href="https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_requisitos/guia_estilo/">https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/analise_requisitos/guia_estilo/</a>. Acesso em: 2 de set. de 2021</p>
