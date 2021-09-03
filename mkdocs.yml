@@ -20,6 +20,7 @@ nav:
       - Personas: "analiseRequisitos/personas.md"
       - Entrevista: "analiseRequisitos/entrevista.md"
     - Metas de Usabilidade: "analiseRequisitos/metasUsabilidade.md"
+    - Características da Plataforma: "analiseRequisitos/caracteristicasDaPlatafoma.md"
   - Análise de Tarefas:
     - Árvores de Tarefas Concorrentes CTT: "analiseTarefas/ctt.md"
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
