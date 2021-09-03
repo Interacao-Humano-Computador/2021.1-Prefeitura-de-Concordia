@@ -103,11 +103,18 @@
 
 ### 3.5 Cores
 
-Seguindo o padrão de cores da prefeitura de Concórdia temos a seguinte paleta:
+<p align = "justify"> &emsp;&emsp; Seguindo o padrão de cores da logo da prefeitura de Concórdia temos a seguinte paleta:</p>
 
-<center><img src="../../images/analiseRequisitos/guiaEstilo/paleta.png"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/paletaLogo.png"></center>
 
-<h6 align = "center">Imagem X: Paleta de cores.</h6>
+<h6 align = "center">Imagem X: Paleta de cores a partir da logo.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<p align = "justify"> &emsp;&emsp; Já o site apresenta em sua estrutura apenas o verde escuro ao longo da navegação, e apenas em icones pequenos as outras cores. Com isso, formamos a seguinte paleta para o site:</p>
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/paletaSite.png"></center>
+
+<h6 align = "center">Imagem X: Paleta de cores a partir da análise do site.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.6 Animações
