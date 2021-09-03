@@ -3,8 +3,12 @@ repo_url: https://github.com/Interacao-Humano-Computador/2021.1-Grupo01
 edit_uri: ""
 
 theme:
-  name: material
+  logo: images/brasaoPrefeitura.png
+  favicon: images/brasaoPrefeituraFavicon.png
   features: navigation.tabs
+  name: material
+  palette:
+    primary: green
 
 nav:
   - Home: "index.md"
@@ -16,9 +20,10 @@ nav:
     - Heatmap e Cronogramas: "planejamento/cronograma.md"
   - Análise de Requisitos:
     - Perfil de Usuário:
-      - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
-      - Personas: "analiseRequisitos/personas.md"
-      - Entrevista: "analiseRequisitos/entrevista.md"
+        - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
+        - Personas: "analiseRequisitos/personas.md"
+        - Entrevista: "analiseRequisitos/entrevista.md"
+    - Guia de estilo: "analiseRequisitos/guiaDeEstilo.md"
     - Metas de Usabilidade: "analiseRequisitos/metasUsabilidade.md"
     - Características da Plataforma: "analiseRequisitos/caracteristicasDaPlatafoma.md"
   - Análise de Tarefas:
