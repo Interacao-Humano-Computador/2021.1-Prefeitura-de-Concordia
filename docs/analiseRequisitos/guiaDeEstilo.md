@@ -35,23 +35,23 @@
 <p align = "justify"> &emsp;&emsp; O grid está apresentado de uma forma um pouco confusa em relação aos menus, pois existem três menus na parte superior de todas as paginas causando desorientação do usuário. O menu de autoatendimento ocupa muito espaço lateral da página com um conteúdo pouco relevante, atrapalhando a experiência de usuário ao ler o conteúdo principal da página.  </p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/gridPaginaAtual.png" width="400px"></center>
-<h6 align = "center">Imagem X: Grid da pagina</h6>
+<h6 align = "center">Imagem 1: Grid da pagina</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 ### 3.2 Janelas
 <p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, encontra-se alguns exemplos de janelas do site.</p>
 <center><img src="../../images/analiseRequisitos/guiaEstilo/Janela_galeria.png" width="400px"></center>
-<h6 align = "center">Imagem X: Janela de galeria de fotos</h6>
+<h6 align = "center">Imagem 2: Janela de galeria de fotos</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_informacao.png" width="400px"></center>
-<h6 align = "center">Imagem X: janela de acesso à informação</h6>
+<h6 align = "center">Imagem 3: janela de acesso à informação</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/janela_noticia.png" width="400px"></center>
-<h6 align = "center">Imagem X: Janela de notícias</h6>
+<h6 align = "center">Imagem 4: Janela de notícias</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 ### 3.3 Tipografia
@@ -59,13 +59,13 @@
 <p align = "justify"> &emsp;&emsp; O site possui duas categorias de tipografia, sendo um principal usado na maior parte dos textos e outro utilizado apenas para títulos. Temos como principal a fonte Open Sans, utilizada sempre no estado regular com algumas variações de tamanho.</p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/openSansTipografia.png"></center>
-<h6 align = "center">Imagem X: tamanhos da tipografia Open Sans no sistema.</h6>
+<h6 align = "center">Imagem 5: tamanhos da tipografia Open Sans no sistema.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 <p align = "justify"> &emsp;&emsp; Já a Roboto Condensed também aparece no estado regular, porém, aparece em tamanhos maiores por se tratar de títulos. </p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/robotoCondensedTipografia.png"></center>
-<h6 align = "center">Imagem X: tamanhos da tipografia Roboto Condensed no sistema.</h6>
+<h6 align = "center">Imagem 6: tamanhos da tipografia Roboto Condensed no sistema.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.4 Símbolos não tipográficos
@@ -76,7 +76,7 @@
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/redesSociais.png"></center>
 
-<h6 align = "center">Imagem X: símbolos de redes sociais.</h6>
+<h6 align = "center">Imagem 7: símbolos de redes sociais.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 - Imagem relacionadas a interação realizada pelo usuário, de modo a ajudar a reconhecer a funcionalidade.
@@ -98,7 +98,7 @@
 
 </center>
 
-<h6 align = "center">Tabela X: símbolos do menu rápido rotativo.</h6>
+<h6 align = "center">Tabela 1: símbolos do menu rápido rotativo.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.5 Cores
@@ -107,14 +107,14 @@
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/paletaLogo.png"></center>
 
-<h6 align = "center">Imagem X: Paleta de cores a partir da logo.</h6>
+<h6 align = "center">Imagem 8: Paleta de cores a partir da logo.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 <p align = "justify"> &emsp;&emsp; Já o site apresenta em sua estrutura apenas o verde escuro ao longo da navegação, e apenas em icones pequenos as outras cores. Com isso, formamos a seguinte paleta para o site:</p>
 
 <center><img src="../../images/analiseRequisitos/guiaEstilo/paletaSite.png"></center>
 
-<h6 align = "center">Imagem X: Paleta de cores a partir da análise do site.</h6>
+<h6 align = "center">Imagem 9: Paleta de cores a partir da análise do site.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.6 Animações
