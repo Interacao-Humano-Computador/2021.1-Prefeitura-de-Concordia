@@ -121,7 +121,7 @@
 
 <p align = "justify"> &emsp;&emsp;Os elementos interativos do site são animados, logo, quando passamos o mouse neles, apresentam alguma animação, desde mudança de cor, avanço de tela, mostrando que aquele elemento é interativo. Além disso, o site possui animações que dão feedback sobre o carregamento de páginas, dessa forma o usuário consegue ter certeza que a sua interação está sendo efetuada.</p>
 
-## 4 Elemntos de interação
+## 4 Elementos de interação
 
 ### 4.1 Estilos de interação
 <p align = "justify"> &emsp;&emsp; Os estilos de interação mais utilizados no site são: os de menus, que possibilitam a navegação do usuário pelo site e linguagem natural que indicam onde e o que o usuário pode fazer; WIMP (window, icon, menu, pointing device) que é a utilização de ícones, menus e ações com o mouse e Preenchimento de Formulários que são  utilizadas  principalmente  para entrada  de  dados  em  sistemas  de  informação aumentando o nível de comunicação. </p>
@@ -135,5 +135,18 @@ Os menus são o estilo com mais presença no site. Dessa forma o usuário seleci
 <p align = "justify"> &emsp;&emsp; Não foi encontrado nenhum mecanismo facilitador no uso do site.</p>
 
 
+## 6. Vocabulário e padrões
+
+### 6.1 Terminologia
+
+<p align = "justify"> &emsp;&emsp;  O site utiliza de uma linguagem simples e de fácil entendimento, na maior parte do conteúdo, o que corresponde com a linguagem usada pelos usuários. Apenas em documentos e conteúdos relacionados ao legislativo e administrativo, as terminologias não se adéquam aos usuários comuns, visto que o vocábulo não é passível de alteração.</p>
+
+### 6.2 Tipo de tela
+
+<p align = "justify"> &emsp;&emsp;  O site possui uma tela padronizada durante a navegação principal (notícia, galeria, etc.), porém, durante acesso à emissão de documentos e transparências o site não está padronizado o que gera nos usuários um sentimento de confusão e desconforto.</p>
+
+### 6.3 Sequências de diálogos
+
+<p align = "justify"> &emsp;&emsp;  Após preenchimento de formulários, de forma correta, o sistema mostra uma mensagem escrita na tela "SUA SOLICITAÇÃO FOI ENVIADA COM SUCESSO", indicando ao usuário que a operação finalizou corretamente.</p>
 
 ## Referências
