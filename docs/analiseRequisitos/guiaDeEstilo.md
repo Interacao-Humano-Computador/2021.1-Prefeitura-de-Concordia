@@ -33,23 +33,23 @@
 ### 3.1 Disposição espacial e grid
 <p align = "justify"> &emsp;&emsp; O grid está apresentado de uma forma um pouco confusa em relação aos menus, pois existem três menus na parte superior de todas as paginas causando desorientação do usuário. O menu de autoatendimento ocupa muito espaço lateral da página com um conteúdo pouco relevante, atrapalhando a experiência de usuário ao ler o conteúdo principal da página.</p>
 
-<center><img src="../../images/analiseRequisitos/guiaEstilo/gridPaginaAtual.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/gridPaginaAtual.png" width="550px"></center>
 <h6 align = "center">Imagem 1: Grid da página.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.2 Janelas
 <p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, alguns exemplos de janelas do site.</p>
-<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaGaleria.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaGaleria.png" width="550px"></center>
 <h6 align = "center">Imagem 2: Janela de galeria de fotos.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 
-<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaInformacao.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaInformacao.png" width="550px"></center>
 <h6 align = "center">Imagem 3: janela de acesso à informação.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 
-<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaNoticia.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaNoticia.png" width="550px"></center>
 <h6 align = "center">Imagem 4: Janela de notícias.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
