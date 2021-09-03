@@ -23,6 +23,7 @@ nav:
         - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
         - Personas: "analiseRequisitos/personas.md"
         - Entrevista: "analiseRequisitos/entrevista.md"
+    - Principios e Diretrizes: "analiseRequisitos/principios_e_diretrizes.md"    
     - Guia de estilo: "analiseRequisitos/guiaDeEstilo.md"
     - Metas de Usabilidade: "analiseRequisitos/metasUsabilidade.md"
   - Análise de Tarefas:
