@@ -3,8 +3,12 @@ repo_url: https://github.com/Interacao-Humano-Computador/2021.1-Grupo01
 edit_uri: ""
 
 theme:
-  name: material
+  logo: images/brasaoPrefeitura.png
+  favicon: images/brasaoPrefeituraFavicon.png
   features: navigation.tabs
+  name: material
+  palette:
+    primary: green
 
 nav:
   - Home: "index.md"
