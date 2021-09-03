@@ -134,6 +134,18 @@ Os menus são o estilo com mais presença no site. Dessa forma o usuário seleci
 ### 4.3 Aceleradores (Teclas de atalho)
 <p align = "justify"> &emsp;&emsp; Não foi encontrado nenhum mecanismo facilitador no uso do site.</p>
 
+## Elementos de ação
+
+### 5.1 Preenchimento de campo 
+
+<p align = "justify"> &emsp;&emsp; Existem diversos campos de preenchimento pelo site entre eles a solicitação iluminação em alguma residência, login, o usuário deve preencher as informações dos campos de cada formulário, sem isso fica impossibilitado a realização da ação.  </p>
+
+### 5.2 Seleção
+
+<p align = "justify"> &emsp;&emsp; Não existe opção de seleção no procedimento anterior. </p>
+
+### 5.3 Ativação
+ <p align = "justify"> &emsp;&emsp; Apos todos os campos preenchidos corretamente, basta o usuário clicar no botão "enviar" ou entrar. </p>
 
 ## 6. Vocabulário e padrões
 
