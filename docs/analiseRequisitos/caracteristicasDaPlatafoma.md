@@ -27,7 +27,8 @@ A figura abaixo contém todas as tecnologias a partir da extensão webalyzer do 
 <h6 align = "center">Fonte: Webalyzer.</h6>
 
 ## 5. Funcionálidades
-<p align = "justify"> &emsp;&emsp; O site é focado em resolver problemas do cotidiano dos moradores da cidade, empresários e pessoas que prestam serviços, ele contem diversas funcionálidades e seções com diferentes objetivos, sendo possível:</p> <br/>
+<p align = "justify"> &emsp;&emsp; O site é focado em resolver problemas do cotidiano dos moradores da cidade, empresários e pessoas que prestam serviços, ele contem diversas funcionálidades e seções com diferentes objetivos, sendo possível:</p>
+
 - Ler notícias sobre a cidade;<br/>
 - Emitir documentos de impostos como IPTU;<br/>
 - Emitir certidão negativa de débitos;<br/>
@@ -71,5 +72,5 @@ A figura abaixo contém todas as tecnologias a partir da extensão webalyzer do 
 
 ## 7. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
-<p style="text-align: justify; text-indent: 20px">[2] ISO / IEC 25010. ISO 25000, 2011. Disponível em: [<a href="https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6">https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6</a>]. Acesso em: 01 de setembro de 2021.</p>
-<p style="text-align: justify; text-indent: 20px">[3] Prefeitura de Concórdia. Disponível em: [<a href="https://concordia.atende.net/">https://concordia.atende.net/</a>]. Acesso em: 01 de setembro de 2021.</p>
+<p style="text-align: justify; text-indent: 20px">[2] ISO / IEC 25010. ISO 25000, 2011. Disponível em: <a href="https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6">https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6</a>. Acesso em: 01 de set de 2021.</p>
+<p style="text-align: justify; text-indent: 20px">[3] Prefeitura de Concórdia. Disponível em: <a href="https://concordia.atende.net/">https://concordia.atende.net/</a>. Acesso em: 01 de set de 2021.</p>
