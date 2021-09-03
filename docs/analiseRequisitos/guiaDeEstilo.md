@@ -121,4 +121,19 @@
 
 <p align = "justify"> &emsp;&emsp;Os elementos interativos do site são animados, logo, quando passamos o mouse neles, apresentam alguma animação, desde mudança de cor, avanço de tela, mostrando que aquele elemento é interativo. Além disso, o site possui animações que dão feedback sobre o carregamento de páginas, dessa forma o usuário consegue ter certeza que a sua interação está sendo efetuada.</p>
 
+## 4 Elemntos de interação
+
+### 4.1 Estilos de interação
+<p align = "justify"> &emsp;&emsp; Os estilos de interação mais utilizados no site são: os de menus, que possibilitam a navegação do usuário pelo site e linguagem natural que indicam onde e o que o usuário pode fazer; WIMP (window, icon, menu, pointing device) que é a utilização de ícones, menus e ações com o mouse e Preenchimento de Formulários que são  utilizadas  principalmente  para entrada  de  dados  em  sistemas  de  informação aumentando o nível de comunicação. </p>
+
+### 4.2 Seleção de um estilo
+<p align = "justify"> &emsp;&emsp;  
+Os menus são o estilo com mais presença no site. Dessa forma o usuário seleciona o menu e tenta realizar a função contida no menu. </p>
+
+
+### 4.3 Aceleradores (Teclas de atalho)
+<p align = "justify"> &emsp;&emsp; Não foi encontrado nenhum mecanismo facilitador no uso do site.</p>
+
+
+
 ## Referências
