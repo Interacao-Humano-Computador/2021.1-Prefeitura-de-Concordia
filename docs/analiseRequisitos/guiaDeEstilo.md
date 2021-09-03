@@ -10,13 +10,11 @@
 
 <p align = "justify"> &emsp;&emsp;O guia de estilo é um documento que auxilia as equipes a acompanhar as decisões de design tomadas durante o projeto pela equipe de design. Dessa forma, asseguram que o estilo seja implementado no produto final.</p>
 
-<p align = "justify"> &emsp;&emsp; O documento possui como público alvo os gerentes do projeto, equipes de desenvolvimento, programadores e equipes de suporte. Por ser um documento que registro o design, ele será constantemente consultado e reutilizado pelas equipes. </p>
-
-<p align = "justify"> &emsp;&emsp;Além disso, o guia facilita a manutenção de padrão da interfaces do sistema, pois ajudam as equipes de desenvolvimento a não se perderem.</p>
+<p align = "justify"> &emsp;&emsp; O documento possui como público alvo os gerentes do projeto, equipes de desenvolvimento, programadores e equipes de suporte. Por ser um documento que registra o design, ele será constantemente consultado e reutilizado pelas equipes. Além disso, o guia facilita a manutenção de padrão das interfaces do sistema, pois ajudam as equipes de desenvolvimento a não se perderem.</p>
 
 ### 1.1 Metodologia
 
-<p align = "justify"> &emsp;&emsp; A metodologia usada para a construção deste projeto e a metodologia proposta por Marcus(1992) [1], é foram considerados os seguintes elementos de design:</p>
+<p align = "justify"> &emsp;&emsp; A metodologia usada para a construção deste projeto é a metodologia proposta por Marcus(1992) [1], onde são considerados os seguintes elementos de design:</p>
 
 - Layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas.
 -  Tipografia e seu uso em diálogos, formulários e relatórios.
@@ -41,17 +39,17 @@
 
 ### 3.2 Janelas
 <p align = "justify"> &emsp;&emsp; O site possui inúmeras janelas. Existem janelas para visualizar notícias, para saber mais sobre a história da cidade, acessar contatos, entre outras janelas. A seguir, alguns exemplos de janelas do site.</p>
-<center><img src="../../images/analiseRequisitos/guiaEstilo/Janela_galeria.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaGaleria.png" width="400px"></center>
 <h6 align = "center">Imagem 2: Janela de galeria de fotos.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 
-<center><img src="../../images/analiseRequisitos/guiaEstilo/janela_informacao.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaInformacao.png" width="400px"></center>
 <h6 align = "center">Imagem 3: janela de acesso à informação.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 
-<center><img src="../../images/analiseRequisitos/guiaEstilo/janela_noticia.png" width="400px"></center>
+<center><img src="../../images/analiseRequisitos/guiaEstilo/janelaNoticia.png" width="400px"></center>
 <h6 align = "center">Imagem 4: Janela de notícias.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
@@ -129,24 +127,43 @@
 
 ### 4.2 Seleção de um estilo
 <p align = "justify"> &emsp;&emsp;  
-O menu é o estilo com mais presença no site. Dessa forma, o usuário seleciona opções na barra de menu e tenta realizar suas funcionalidades. </p>
+O menu é o estilo com mais presença no site. Dessa forma, o usuário seleciona opções na barra de menu e tenta utilizar suas funcionalidades. </p>
 
 
 ### 4.3 Aceleradores (Teclas de atalho)
-<p align = "justify"> &emsp;&emsp; Não foi encontrado nenhum mecanismo facilitador no uso do site.</p>
+<p align = "justify"> &emsp;&emsp; A aplicação possui apenas um acelerador, sendo um acelerador ligado a ferramenta de busca da aplicação. Ao pressionar a sequência de botões "CTRL+SHIFT+F", o sistema é direcionado para efetuar uma busca.</p>
 
 ## Elementos de ação
 
 ### 5.1 Preenchimento de campo 
 
-<p align = "justify"> &emsp;&emsp; Existem diversos campos de preenchimento pelo site entre eles a solicitação iluminação em alguma residência, login, o usuário deve preencher as informações dos campos de cada formulário, sem isso fica impossibilitado a realização da ação.  </p>
+<p align = "justify"> &emsp;&emsp; No site os campos de preenchimento estão relacionados a formulários e a campos acesso do usuário. Um exemplo de formulários temos a solicitação de iluminação pública, onde o usuário preenche campos com informações de endereço e de quem é o solicitante.</p>
+
+<center><img style="width:500px;" src="../../images/analiseRequisitos/guiaEstilo/formularioIluminacao.png"></center>
+
+<h6 align = "center">Imagem 10: formulário de solicitação de iluminação pública.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+
+<p align = "justify"> &emsp;&emsp;Também, já como exemplo de campo de acesso, temos o campo de autoatendimento, que é um campo onde o usuário informa seu CPF e sua senha para ter acesso ao auto atendimento.</p>
+
+<center><img style="width:500px;" src="../../images/analiseRequisitos/guiaEstilo/formularioAutoatendimento.png"></center>
+
+<h6 align = "center">Imagem 11: formulário de solicitação de autoatendimento.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 ### 5.2 Seleção
 
-<p align = "justify"> &emsp;&emsp; Não existe opção de seleção no procedimento anterior. </p>
+<p align = "justify"> &emsp;&emsp; No caso apresentado na imagem 12 é necessário fazer o preenchimento dos campos de data de abertura e data de resposta, e selecionar o formato de impressão.</p>
+
+<center><img style="width:500px;" src="../../images/analiseRequisitos/guiaEstilo/formularioSelecao.png"></center>
+
+<h6 align = "center">Imagem 12: formulário de solicitação de documentos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
 
 ### 5.3 Ativação
- <p align = "justify"> &emsp;&emsp; Apos todos os campos preenchidos corretamente, basta o usuário clicar no botão "confirmar" ou entrar. </p>
+ <p align = "justify"> &emsp;&emsp; Após todos os campos preenchidos corretamente, basta o usuário clicar no botão "confirmar", "imprimir" ou "entrar". </p>
 
 ## 6. Vocabulário e padrões
 
