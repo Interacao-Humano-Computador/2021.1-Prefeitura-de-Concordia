@@ -1,7 +1,8 @@
 ## Versionamento
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
-|02/09|1.0|Criação do documento guia de estilo|Natanael Filho e Abraão|
+|02/09|1.0|Inicialização do documento guia de estilo|Natanael Filho e Abraão|
+|02/09|1.1|Adição dos elementos de interface|Natanael Filho e Abraão|
 
 
 ## 1. Introdução
@@ -100,6 +101,14 @@
 <h6 align = "center">Tabela X: símbolos do menu rápido rotativo.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
+### 3.5 Cores
+
+Seguindo o padrão de cores da prefeitura de Concórdia temos a seguinte paleta:
+
+<center><img src="../../images/analiseRequisitos/guiaEstilo/paleta.png"></center>
+
+<h6 align = "center">Imagem X: Paleta de cores.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.6 Animações
 
