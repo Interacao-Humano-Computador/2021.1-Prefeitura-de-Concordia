@@ -10,6 +10,9 @@ theme:
   palette:
     primary: green
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: "index.md"
   - Planejamento:
@@ -31,6 +34,9 @@ nav:
     - Análise de Tarefa KLM: "analiseTarefas/klm.md"
     - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
     - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Storyboards: "nivel1/storyboards.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
