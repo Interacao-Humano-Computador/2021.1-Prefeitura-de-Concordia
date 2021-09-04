@@ -34,6 +34,7 @@ nav:
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
+    - Ponto de Controle 3: "apresentacoes/p3.md"
 
 markdown_extensions:
   - attr_list
