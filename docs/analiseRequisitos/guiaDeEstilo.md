@@ -26,7 +26,7 @@
 ## 2. Resultado de análise
 ### 2.1 Descrição do ambiente de trabalho do usuário
 
-<p align = "justify"> &emsp;&emsp; O grid está apresentado de uma forma um pouco confusa em relação a barras de menu, pois existem três opções na parte superior de todas as páginas, causando desorientação do usuário. A barra de menu de autoatendimento ocupa muito espaço lateral da página com um conteúdo pouco relevante, atrapalhando a experiência de usuário ao ler o conteúdo principal da página.</p>
+<p align = "justify"> &emsp;&emsp;Ao usuário entrar na pagina, ele se depara com um aviso e logo em seguida entra na home do site onde encontra informações referentes a notícias da cidade de Concórdia, junto com diversos menus em formato de barra que dão acesso a diversas funcionalidades contidas no site. Ao lado das informação e noticias da pagina pode se encontrar um formulário para ser realizado o login da pagina.</p>
 
 ## 3. Elementos de interface
 
