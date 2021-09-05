@@ -5,14 +5,14 @@
 |05/09|1.1|Adição do termo de consentimento|João Pedro|
 
 ## 2. Introdução
-<p align = "justify"> &emsp;&emsp; A avalição de IHC é uma atividade essencial, quando se busca produzir sistemas interativos de alta qualidade e que atenda as necessidades do usuários. Além disso, a avaliação orienta o avaliador no julgamento do software analisado, bem como, auxilia na identificação de problemas de interação na interface que prejudiquem a experiência do usuário.</p>
-<p align = "justify"> &emsp;&emsp; Como já explicado anteriormente, a preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa <i>et al.</i>, 2021, pág. 106)[1], e com o objetivo de conduzir a avaliação das análise de tarefas da Prefeitura de Concórdia, a criação e utilização desse documento se faz essencial.</p>
+<p align = "justify"> &emsp;&emsp; A avalição de IHC é uma atividade essencial, quando se busca produzir sistemas interativos de alta qualidade e que atenda as necessidades dos usuários. Além disso, a avaliação orienta o avaliador no julgamento do software analisado, bem como, auxilia na identificação de problemas de interação na interface que prejudiquem a experiência do usuário.</p>
+<p align = "justify"> &emsp;&emsp; Como já explicado anteriormente, a preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa <i>et al.</i>, 2021, pág. 106)[1], e com o objetivo de conduzir a avaliação das análises de tarefas da Prefeitura de Concórdia, a criação e utilização desse documento se faz essencial.</p>
 
 ## 3. Escopo
 <p align = "justify"> &emsp;&emsp; O escopo dessa avaliação se limita ao site da Prefeitura de Concórdia, onde no nível 1 do ciclo de vida de Mayhew [1], foram produzidos os artefatos sobre a análise de tarefas <a href="../ctt" target="_blanck">CTT</a>, <a href="../klm" target="_blanck">KLM</a>, <a href="../hta" target="_blanck">HTA</a> e <a href="../cmn" target="_blanck">CMN GOMS</a>.</p>
 
 ## 3. Metodologia
-<p align = "justify"> &emsp;&emsp; A metodologia utilizada para a estruturação desse documento é baseada no <i>Framework</i> <b>DECIDE</b>, argumentada por Sharp, Rogers e Preece (2007). O nome desse <i>framework</i> é um acrônomo que pode ser sintetizado nos seguintes tópicos:</p>
+<p align = "justify"> &emsp;&emsp; A metodologia utilizada para a estruturação desse documento é baseada no <i>Framework</i> <b>DECIDE</b>, argumentada por Sharp, Rogers e Preece (2007). O nome desse <i>framework</i> é um acrônimo que pode ser sintetizado nos seguintes tópicos:</p>
 - <b>D</b>eterminar os objetivos da avaliação;
 - <b>E</b>xplorar as perguntas a serem respondidas;
 - <b>C</b>hoose (escolher) os métodos de avaliação à serem utilizados;
@@ -40,7 +40,7 @@
 ## 5. Termo de Consentimento
 <p align = "justify"> &emsp;&emsp; Conforme o acrônimo do <i>Framework</i> <b>DECIDE</b>, os avaliadores devem decidir como lidar com as questões éticas. Por esse motivo a equipe formulou um termo de consentimento, para que todos aqueles participantes voluntários estejam de acordo ao participarem das entrevistas.</p>
 
-<iframe width=900 height=990 src="https://docs.google.com/document/d/e/2PACX-1vQLGcjUNjYQZf4pqXqKkisaoiuFazMoAk4AtXOBhxvaqwNBduossHcddxqj18ti2EvCPV18OTNDtgd0/pub?embedded=true"></iframe>
+<iframe width=900 height=1090 src="https://docs.google.com/document/d/e/2PACX-1vQLGcjUNjYQZf4pqXqKkisaoiuFazMoAk4AtXOBhxvaqwNBduossHcddxqj18ti2EvCPV18OTNDtgd0/pub?embedded=true"></iframe>
 
 ## 5. Resultados
 <p align = "justify"> &emsp;&emsp; Por se tratar da preparação para a avaliação e devido ao fato desse documento estar em constante alteração, os resultados ainda não estão disponíveis para visualização.</p>
