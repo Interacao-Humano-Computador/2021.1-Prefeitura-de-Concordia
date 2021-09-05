@@ -5,19 +5,19 @@
 |04/09|1.1|Adição do storyboard de história da cidade|João Pedro|
 
 ## 2. Introdução
+<p align = "justify"> &emsp;&emsp; O storyboard "é um exemplo de prototipação de baixa-fidelidade, geralmente utilizado em um conjunto de cenários" (Preece <i>et al.</i>, 2013, pág. 263) [1]. Sua construção, ainda segundo Preece <i>et al.</i> [1], é feita através de um conjunto de quadrinhos, desenhados ou através de softwares, que demonstram como um usuário pode progredir em uma tarefa utilizando uma ou mais funcionalidades do sistema que se está sendo desenvolvido.</p>
+<p align = "justify"> &emsp;&emsp; Para a realização dessa metodologia, além dos quadrinhos, também foi feito um detalhamento textual acerca das histórias representadas nos storyboards, de forma a facilitar o entendimento sobre a história representada e as pessoas envolvidas</p>
 
-## 3. Objetivo
+## 3. Resultados
+### 3.1 Solicitar Iluminação
 
-## 4. Resultados
-### 4.1 Solicitar Iluminação
+### 3.2 Gerar Certidão Negativa de Débitos
 
-### 4.2 Gerar Certidão Negativa de Débitos
+### 3.3 Acessar Dado de Gasto no Portal da Transparência
 
-### 4.3 Acessar Dado de Gasto no Portal da Transparência
+### 3.4 Acessar Notícias
 
-### 4.4 Acessar Notícias
-
-### 4.5 Acessar História da Cidade
+### 3.5 Acessar História da Cidade
 |Atividade|Tarefa|Definição|
 |:-:|:--|:--|
 ||<b>Definição das pessoas envolvidas</b>|<b>Persona</b> Pedro Moreira Santiago|
@@ -39,7 +39,7 @@
 <h6 align = "center">Fonte: Autor</h6>
 
 ## 5. Referências
-
+<p style="text-align: justify; text-indent: 20px">[1] Preece, J.; Roger, Y.; Sharp, H. <b>Design de Interação: Além da Interação Humano-Computador</b>. Bookman, 3º ed. 2013.</p>
 
 <!-- Exemplo da tabela e imagem que devem ser seguidos
 |Atividade|Tarefa|Definição|
@@ -56,7 +56,7 @@
 <h6 align = "center">Tabela X: </h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
-<center><img src="../../images/" class="zoom"></center>
+<center><img src="../../images/nivel1/" class="zoom"></center>
 <h6 align = "center">Figura X: Storyboard da História da Cidade.</h6>
 <h6 align = "center">Fonte: Autor</h6>
 -->
