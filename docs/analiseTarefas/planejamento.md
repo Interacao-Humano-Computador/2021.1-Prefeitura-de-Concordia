@@ -2,6 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |05/09|1.0|Criação de documento|João Pedro|
+|05/09|1.1|Adição do termo de consentimento|João Pedro|
 
 ## 2. Introdução
 <p align = "justify"> &emsp;&emsp; A avalição de IHC é uma atividade essencial, quando se busca produzir sistemas interativos de alta qualidade e que atenda as necessidades do usuários. Além disso, a avaliação orienta o avaliador no julgamento do software analisado, bem como, auxilia na identificação de problemas de interação na interface que prejudiquem a experiência do usuário.</p>
@@ -35,6 +36,11 @@
 |4|Você acredita que faltou algo no diagrama ?|[ ] - Sim e discursiva</br>[ ] - Não|
 <h6 align = "center">Tabela 1: Roteiro para utilização durante a entrevista.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
+
+## 5. Termo de Consentimento
+<p align = "justify"> &emsp;&emsp; Conforme o acrônimo do <i>Framework</i> <b>DECIDE</b>, os avaliadores devem decidir como lidar com as questões éticas. Por esse motivo a equipe formulou um termo de consentimento, para que todos aqueles participantes voluntários estejam de acordo ao participarem das entrevistas.</p>
+
+<iframe width=900 height=990 src="https://docs.google.com/document/d/e/2PACX-1vQLGcjUNjYQZf4pqXqKkisaoiuFazMoAk4AtXOBhxvaqwNBduossHcddxqj18ti2EvCPV18OTNDtgd0/pub?embedded=true"></iframe>
 
 ## 5. Resultados
 <p align = "justify"> &emsp;&emsp; Por se tratar da preparação para a avaliação e devido ao fato desse documento estar em constante alteração, os resultados ainda não estão disponíveis para visualização.</p>
