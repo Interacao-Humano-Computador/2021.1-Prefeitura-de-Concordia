@@ -9,7 +9,29 @@
 <p align = "justify"> &emsp;&emsp; Para a realização dessa metodologia, além dos quadrinhos, também foi feito um detalhamento textual acerca das histórias representadas nos storyboards, de forma a facilitar o entendimento sobre a história representada e as pessoas envolvidas</p>
 
 ## 3. Resultados
-### 3.1 Solicitar Iluminação
+### 3.1 Solicitar Iluminação Pública
+
+|Atividade|Tarefa|Definição|
+|:-:|:--|:--|
+||**Definição das pessoas envolvidas**|**Persona** Maria Clara Fernandes.|
+|**Preparo**|**Definição do ambiente da historia**| Bairro onde se encontra a moradia da persona, especificamente no período noturno.|
+||**Definição da tarefa a ser abordada**| Solicitação de iluminação pública.|
+||||
+||**Definição de quais passos estão envolvidos para realização da tarefa**|1. Acessar o site da prefeitura.</br>2.Acessar **Portal do Cidadão** no centro da página.</br>3. Ao centro, acessar menu rotativo opção **Solicitação Iluminação Pública**. </br>|
+|**Sequência**|**Definição do que leva a pessoa a usar a aplicação**| Falta de iluminação nas ruas da cidade.|
+||**Definição de qual e como a tarefa será ilustrada**|Solicitar iluminação pública, será ilustrada por uma persona ao andar por seu bairro durante a noite se depara com uma avenida sem iluminação.|
+||||
+||**Definição da motivação principal da pessoa que usa a aplicação**|Contatar o responsável pela iluminação o mais rápido possível.|
+|**Satisfação**|**Definição das realizações que a aplicação permite**|Permite o contato rápido do morador com a secretária da prefeitura para solicitar iluminação pública.|
+||**Definição das necessidades que a aplicação se propõe a sanar**|Auxilia aos moradores a comunicar quando a iluminação de uma rua não está funcionando corretamente. Então, a funcionalidade gera sentimentos de conforto, pois a solicitação é rápido e fácil de ser feito, e satisfação, já que o morador se sentirá atendido pela prefeitura.|
+
+<h6 align = "center">Tabela X: Tabela de storyboard para realização da Solicitação de Iluminação Pública.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<center><img src="../../images/nivel1/storyboardSolicitacaoIluminacao.png" class="zoom"></center>
+<h6 align = "center">Figura X: Storyboard da Solicitação de Iluminação Pública.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
 
 ### 3.2 Gerar Certidão Negativa de Débitos
 
@@ -36,7 +58,7 @@
 
 <center><img src="../../images/nivel1/storyboardHistoriaCidade.png" class="zoom"></center>
 <h6 align = "center">Figura X: Storyboard da História da Cidade.</h6>
-<h6 align = "center">Fonte: Autor</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 ## 5. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Preece, J.; Roger, Y.; Sharp, H. <b>Design de Interação: Além da Interação Humano-Computador</b>. Bookman, 3º ed. 2013.</p>
