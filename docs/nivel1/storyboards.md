@@ -39,6 +39,27 @@
 
 ### 3.4 Acessar Notícias
 
+|Atividade|Tarefa|Definição|
+|:-:|:--|:--|
+||**Definição das pessoas envolvidas**|**Persona** Pedro Moreira Santiago.|
+|**Preparo**|**Definição do ambiente da historia**| Escritório de Pedro em sua residência|
+||**Definição da tarefa a ser abordada**| Acessar notícias.|
+||||
+||**Definição de quais passos estão envolvidos para realização da tarefa**|1. Acessar o site da prefeitura.</br>2.Acessar **Portal do Cidadão** no centro da página.</br>|
+|**Sequência**|**Definição do que leva a pessoa a usar a aplicação**| A busca por noticias da cidade|
+||**Definição de qual e como a tarefa será ilustrada**|Acessar notícias, será ilustrada por uma persona em seu escritório em busca de noticias sobre a volta as aulas.|
+||||
+||**Definição da motivação principal da pessoa que usa a aplicação**|Encontrar informações sobre a volta as aulas.|
+|**Satisfação**|**Definição das realizações que a aplicação permite**|Traz aos usuários informações relevantes sobre a cidade.|
+||**Definição das necessidades que a aplicação se propõe a sanar**|Ajuda os moradores da cidade a se informarem de maneira segura e confiável sobre questões importantes da cidade como a volta das aulas e diversas outras noticias que a população tem interesse em saber.|
+
+<h6 align = "center">Tabela X: Tabela de storyboard de acesso a noticias.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<center><img src="../../images/nivel1/storyboardAcessoNoticias.png" class="zoom"></center>
+<h6 align = "center">Figura X: Storyboard de acesso a noticias.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
 ### 3.5 Acessar História da Cidade
 |Atividade|Tarefa|Definição|
 |:-:|:--|:--|
