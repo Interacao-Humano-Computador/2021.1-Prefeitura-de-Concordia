@@ -37,6 +37,27 @@
 
 ### 3.3 Acessar Dado de Gasto no Portal da Transparência
 
+|Atividade|Tarefa|Definição|
+|:-:|:--|:--|
+||**Definição das pessoas envolvidas**|**Persona** Paulo Baruk|
+|**Preparo**|**Definição do ambiente da historia**| No escritório da persona junto com seu colega de trabalho|
+||**Definição da tarefa a ser abordada**| Acessar o portal da transparência para visualizar os gastos do municipio|
+||||
+||**Definição de quais passos estão envolvidos para realização da tarefa**|1. Acessar o portal da transparência.</br>2.Porcurar pelo processo específico no menu prinpal</br>3. Procurar documento sobre orçamento do governo municipal e abrir o documento. </br>|
+|**Sequência**|**Definição do que leva a pessoa a usar a aplicação**| Ter mas transparência sobre os gastos públicos|
+||**Definição de qual e como a tarefa será ilustrada**| O personar quer saber quanto custou a obra publica na sua cidade, nesse caso a construção de uma nova escola.|
+||||
+||**Definição da motivação principal da pessoa que usa a aplicação**| Ter uma copia do orçamento da obra da sua cidade.|
+|**Satisfação**|**Definição das realizações que a aplicação permite**|É um dos meios mais rapidos, eficientes e baratos para mostrar a transparência dos gastos publicos|
+||**Definição das necessidades que a aplicação se propõe a sanar**|É uma das maneiras mais simples e rapida para fazer a fiscalização do governo municipal atual, para evitar o maximo possivel super faturamento com o dinheiro público|
+
+<h6 align = "center">Tabela X: Tabela de storyboard para Acessar Dado de Gasto no Portal da Transparência .</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<center><img src="../../images/nivel1/storyboard-Gasto-no-portal-da-transparencia.png" class="zoom"></center>
+<h6 align = "center">Figura X: Storyboard da Solicitação de Iluminação Pública.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
 ### 3.4 Acessar Notícias
 
 |Atividade|Tarefa|Definição|
