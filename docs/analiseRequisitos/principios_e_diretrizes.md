@@ -25,13 +25,18 @@
 * Modificar a natureza da tarefa.
 
 <center>
-<img src="../../images/principios_de_diretrizes/1.png" width="500px">
+<img src="../../images/principios_de_diretrizes/image1.png" width="500px">
 <h6 align = "center">Figura 1: Foto de simplicidade da estruturas de buscas</h6>
 </center>
 
 ### 3.2 Equilíbrio entre controle e liberdade do usuário
 <p align = "justify"> &emsp;&emsp;Quando é dada a liberdade para o usuário, devemos fazer algumas verificações, principalmente no sentindo de expor muitas informações para o usuário, visto que isso pode causar uma sensação de perda ou angústia. Devemos sempre que possível mostrar apenas a opções nescessárias para o usuário, assim ele tem uma grande curva de aprendizado, tendo a sensação de maestria no que está fazendo. Dessa maneira, devemos manter o sistema, o mais equilibrado possível.
 </p>
+
+<center>
+<img src="../../images/principios_de_diretrizes/image3.png" width="500px">
+<h6 align = "center">Figura 2: Visão geral de controle e liberdade do usuário da página de licitação </h6>
+</center>
 
 ### 3.3 Consistência e padronização
 <p align = "justify"> &emsp;&emsp;Devemos manter a consistência e padronização da interface do modelo conceitual que está embutido no sistema, para assim facilitar o aprendizado e uso do sistema. Por assim dizer, os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa, por outro lado, se dois elementos de interface possuem comportamentos diferentes eles devem ter aparências distintas.</p>
@@ -43,8 +48,18 @@
 ### 3.5 Antecipação 
 <p align = "justify"> &emsp;&emsp;As aplicações devem, sempre que possível, tentar prever o que o usuário quer e precisa naquele momento específico para que assim não se espere que os mesmos busquem ou coletem informações, ou invoquem ferramentas para resolver seu problema. Portanto, a aplicação deve ajudar o usuário fornecendo todas as informações e ferramentas necessárias para cada passo do processo.</p>
 
+<center>
+<img src="../../images/principios_de_diretrizes/image2.png" width="500px">
+<h6 align = "center">Figura 3: Página que requer uma certa eficiencia tecnológica do usuário  </h6>
+</center>
+
 ### 3.6 Visibilidade e reconhecimento 
 <p align = "justify"> &emsp;&emsp;Segundo Norman(1988), o designer deve tornar as coisas o mais visível possível, abreviar possibilidades de execução e avaliação. Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas, diferentemente disso o sistema não deve exigir que o usuário memorize muitas informações durante a interação com o sistema.</p>
+
+<center>
+<img src="../../images/principios_de_diretrizes/image-erro-2.png" width="500px">
+<h6 align = "center">Figura 4: Avisos bem claros e diretos   </h6>
+</center>
 
 ### 3.7 Conteúdo relevante e expressão adequada:
 <p align = "justify"> &emsp;&emsp; Uma interação de boa qualidade segue quatro tópicos: qualidade, quantidade, relação e clareza.</p>
@@ -56,6 +71,11 @@
 
 ### 3.8 Projeto para erros
 <p align = "justify"> &emsp;&emsp; Assumimos que qualquer erro potencial será cometido. O designer deve preparar o sistema para ajudar o usuário a se recuperar de um erro que ele não conhece informando-lhe sobre o que, o porque e como resolver esse problema.</p>
+
+<center>
+<img src="../../images/principios_de_diretrizes/image-erro1.png" width="500px">
+<h6 align = "center">Figura 3: Alerta de erro objetivo </h6>
+</center>
 
 ## 4 Bibliografia
 <p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
