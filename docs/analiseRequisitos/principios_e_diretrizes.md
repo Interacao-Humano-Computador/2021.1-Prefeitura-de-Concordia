@@ -26,7 +26,8 @@
 
 <center>
 <img src="../../images/principios_de_diretrizes/image1.png" width="500px">
-<h6 align = "center">Figura 1: Foto de simplicidade da estruturas de buscas</h6>
+<h6 align = "center">Figura 1: Foto de simplicidade da estruturas de buscas.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 </center>
 
 ### 3.2 Equilíbrio entre controle e liberdade do usuário
@@ -35,7 +36,8 @@
 
 <center>
 <img src="../../images/principios_de_diretrizes/image3.png" width="500px">
-<h6 align = "center">Figura 2: Visão geral de controle e liberdade do usuário da página de licitação </h6>
+<h6 align = "center">Figura 2: Visão geral de controle e liberdade do usuário da página de licitação.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 </center>
 
 ### 3.3 Consistência e padronização
@@ -50,7 +52,8 @@
 
 <center>
 <img src="../../images/principios_de_diretrizes/image2.png" width="500px">
-<h6 align = "center">Figura 3: Página que requer uma certa eficiencia tecnológica do usuário  </h6>
+<h6 align = "center">Figura 3: Página que requer uma certa eficiencia tecnológica do usuário.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 </center>
 
 ### 3.6 Visibilidade e reconhecimento 
@@ -58,7 +61,8 @@
 
 <center>
 <img src="../../images/principios_de_diretrizes/image-erro-2.png" width="500px">
-<h6 align = "center">Figura 4: Avisos bem claros e diretos   </h6>
+<h6 align = "center">Figura 4: Avisos bem claros e diretos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 </center>
 
 ### 3.7 Conteúdo relevante e expressão adequada:
@@ -74,7 +78,8 @@
 
 <center>
 <img src="../../images/principios_de_diretrizes/image-erro1.png" width="500px">
-<h6 align = "center">Figura 3: Alerta de erro objetivo </h6>
+<h6 align = "center">Figura 5: Alerta de erro objetivo.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 </center>
 
 ## 4 Bibliografia
