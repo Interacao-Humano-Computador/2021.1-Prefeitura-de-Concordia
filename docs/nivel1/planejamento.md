@@ -19,7 +19,7 @@
 - <b>D</b>ecidir como lidar com as questões éticas;
 - <b>E</b>valuate (avaliar), interpretar e apresentar os dados coletados;
 
-<p align = "justify"> &emsp;&emsp; De acordo com o <i>Framework</i> <b>DECIDE</b> e com as diversas técnicas apresentadas por Barbosa <i>et al.</i> [1], o método escolhido para a avaliação foi o de <b>Participação Ativa</b>, através de <b>Entrevistas</b> com as personas pensadas para o projeto. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva, além da impossibilidade momentânea de se realizar entrevistas com os usuários reais da aplicação.</p>
+<p align = "justify"> &emsp;&emsp; De acordo com o <i>Framework</i> <b>DECIDE</b> e com as diversas técnicas apresentadas por Barbosa <i>et al.</i> [1], o método escolhido para a avaliação foi o de <b>Participação Ativa</b> em um <b>Percurso Cognitivo</b>, através de <b>Entrevistas</b> com as personas pensadas para o projeto. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva, além da impossibilidade momentânea de se realizar entrevistas com os usuários reais da aplicação.</p>
 
 ## 4. Roteiro
 <p align = "justify"> &emsp;&emsp; Levando em conta os objetivos de um planejamento, foi preparado um roteiro contendo as perguntas que serão utilizadas durante as entrevistas, sendo possível também a adição de novas perguntas durante a entrevista.</p>
