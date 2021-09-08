@@ -105,6 +105,26 @@
 <h6 align = "center">Figura 5: Storyboard da História da Cidade.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
+### 3.6 Emitir Certidão Negativa de Débitos
+|Atividade|Tarefa|Definição|
+|:-:|:--|:--|
+||<b>Definição das pessoas envolvidas</b>|<b>Persona</b> Paulo Baruk|
+|Preparo|<b>Definição do ambiente da historia</b>|Escritório de arquitetura onde trabalha|
+||<b>Definição da tarefa a ser abordada</b>|Emitir Certidão Negativa de Débitos|
+||||
+||<b>Definição de quais passos estão envolvidos para realização da tarefa</b>|1. Acesso ao site da prefeitura</br>2. Na Navbar acessar a aba de <b>Autoatendimento</b></br>3. Acessar no menu de serviços destaque <b>Emissão da Certidão Negativa de Débitos - CND</b></br>4. Clicar no botão <b>Acessar</b></br>5. Preencher captcha <b>Não sou um robô</b></br>6. Selecionar opção de emissão <b>Por CPF/CNPJ</b></br>7. Digitar o  <b>CNPJ e selecionar a finalidade geral</b></br>8. Clicar em  <b>Confirmar</b>|
+|Sequência|<b>Definição do que leva a pessoa a usar a aplicação</b>|Emitir a CND para meios fiscais e jurídicos|
+||<b>Definição de qual e como a tarefa será ilustrada</b>|Emitira uma Certidão Negativa de Débitos para provar que seu imóvel está em dia com a prefeitura.|
+||||
+||<b>Definição da motivação principal da pessoa que usa a aplicação</b>|Emitir a Certidão Negativa de Débitos de seus imóveis na cidade de Concórdia.|
+|Satisfação|<b>Definição das realizações que a aplicação permite</b>|Conforto e praticidade por não ser necessária a ida em locais físicos para gerar o documento.|
+||<b>Definição das necessidades que a aplicação se propõe a sanar</b>|Necessidade de confiabilidade das informações, bem como, facilidade e conforto aos usuários que realizam a emissão, além de formas de verificar se o documento é original.|
+<h6 align = "center">Tabela 6: Tabela de storyboard para acesso à Emissão da Certidão Negativa de Débitos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<center><img src="../../images/nivel1/storyboardCertidaoNegativa.png" class="zoom"></center>
+<h6 align = "center">Figura 6: Storyboard da Emissão da Certidão Negativa de Débitos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 ## 5. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Preece, J.; Roger, Y.; Sharp, H. <b>Design de Interação: Além da Interação Humano-Computador</b>. Bookman, 3º ed. 2013.</p>
 
