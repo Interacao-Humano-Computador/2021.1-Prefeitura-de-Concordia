@@ -3,6 +3,9 @@
 |--|--|--|--|
 |04/09|1.0|Criação do documento|João Pedro|
 |04/09|1.1|Adição do storyboard de história da cidade|João Pedro|
+|05/09|1.2|Adição do storyboard de iluminação pública|Natanael|
+|05/09|1.3|Adição do storyboard de notícias|Abraão|
+|07/09|1.4|Adição do storyboard de gastos no portal da transparência|Francisco|
 
 ## 2. Introdução
 <p align = "justify"> &emsp;&emsp; O storyboard "é um exemplo de prototipação de baixa-fidelidade, geralmente utilizado em um conjunto de cenários" (Preece <i>et al.</i>, 2013, pág. 263) [1]. Sua construção, ainda segundo Preece <i>et al.</i> [1], é feita através de um conjunto de quadrinhos, desenhados ou através de softwares, que demonstram como um usuário pode progredir em uma tarefa utilizando uma ou mais funcionalidades do sistema que se está sendo desenvolvido.</p>
@@ -23,13 +26,13 @@
 ||||
 ||**Definição da motivação principal da pessoa que usa a aplicação**|Contatar o responsável pela iluminação o mais rápido possível.|
 |**Satisfação**|**Definição das realizações que a aplicação permite**|Permite o contato rápido do morador com a secretária da prefeitura para solicitar iluminação pública.|
-||**Definição das necessidades que a aplicação se propõe a sanar**|Auxilia aos moradores a comunicar quando a iluminação de uma rua não está funcionando corretamente. Então, a funcionalidade gera sentimentos de conforto, pois a solicitação é rápido e fácil de ser feito, e satisfação, já que o morador se sentirá atendido pela prefeitura.|
+||**Definição das necessidades que a aplicação se propõe a sanar**|Auxilia aos moradores a comunicar quando a iluminação de uma rua não está funcionando corretamente. Então, a funcionalidade gera sentimentos de conforto, pois a solicitação é rápido e fácil de ser feito. E satisfação, já que o morador se sentirá atendido pela prefeitura.|
 
-<h6 align = "center">Tabela X: Tabela de storyboard para realização da Solicitação de Iluminação Pública.</h6>
+<h6 align = "center">Tabela 1: Tabela de storyboard para realização da Solicitação de Iluminação Pública.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 <center><img src="../../images/nivel1/storyboardSolicitacaoIluminacao.png" class="zoom"></center>
-<h6 align = "center">Figura X: Storyboard da Solicitação de Iluminação Pública.</h6>
+<h6 align = "center">Figura 1: Storyboard da Solicitação de Iluminação Pública.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 
@@ -45,17 +48,17 @@
 ||||
 ||**Definição de quais passos estão envolvidos para realização da tarefa**|1. Acessar o portal da transparência.</br>2.Porcurar pelo processo específico no menu prinpal</br>3. Procurar documento sobre orçamento do governo municipal e abrir o documento. </br>|
 |**Sequência**|**Definição do que leva a pessoa a usar a aplicação**| Ter mas transparência sobre os gastos públicos|
-||**Definição de qual e como a tarefa será ilustrada**| O personar quer saber quanto custou a obra publica na sua cidade, nesse caso a construção de uma nova escola.|
+||**Definição de qual e como a tarefa será ilustrada**| A persona quer saber quanto custou a obra publica na sua cidade, nesse caso a construção de uma nova escola.|
 ||||
 ||**Definição da motivação principal da pessoa que usa a aplicação**| Ter uma copia do orçamento da obra da sua cidade.|
 |**Satisfação**|**Definição das realizações que a aplicação permite**|É um dos meios mais rapidos, eficientes e baratos para mostrar a transparência dos gastos publicos|
-||**Definição das necessidades que a aplicação se propõe a sanar**|É uma das maneiras mais simples e rapida para fazer a fiscalização do governo municipal atual, para evitar o maximo possivel super faturamento com o dinheiro público|
+||**Definição das necessidades que a aplicação se propõe a sanar**|É uma das maneiras mais simples e rapidas para fazer a fiscalização do governo municipal atual, para evitar ao máximo o super faturamento do dinheiro público|
 
-<h6 align = "center">Tabela X: Tabela de storyboard para Acessar Dado de Gasto no Portal da Transparência .</h6>
+<h6 align = "center">Tabela 3: Tabela de storyboard para Acessar Dado de Gasto no Portal da Transparência .</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 <center><img src="../../images/nivel1/storyboard-Gasto-no-portal-da-transparencia.png" class="zoom"></center>
-<h6 align = "center">Figura X: Storyboard da Solicitação de Iluminação Pública.</h6>
+<h6 align = "center">Figura 3: Storyboard do Acesso de Dados de Gasto no Portal da Transparência.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.4 Acessar Notícias
@@ -72,13 +75,13 @@
 ||||
 ||**Definição da motivação principal da pessoa que usa a aplicação**|Encontrar informações sobre a volta as aulas.|
 |**Satisfação**|**Definição das realizações que a aplicação permite**|Traz aos usuários informações relevantes sobre a cidade.|
-||**Definição das necessidades que a aplicação se propõe a sanar**|Ajuda os moradores da cidade a se informarem de maneira segura e confiável sobre questões importantes da cidade como a volta das aulas e diversas outras noticias que a população tem interesse em saber.|
+||**Definição das necessidades que a aplicação se propõe a sanar**|Ajuda os moradores da cidade a se informarem de maneira segura e confiável sobre questões importantes da cidade como a volta das aulas e diversas outras notícias que a população tem interesse em saber.|
 
-<h6 align = "center">Tabela X: Tabela de storyboard de acesso a noticias.</h6>
+<h6 align = "center">Tabela 4: Tabela de storyboard de Acesso a Noticias.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 <center><img src="../../images/nivel1/storyboardAcessoNoticias.png" class="zoom"></center>
-<h6 align = "center">Figura X: Storyboard de acesso a noticias.</h6>
+<h6 align = "center">Figura 4: Storyboard de Acesso a Noticias.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.5 Acessar História da Cidade
@@ -95,11 +98,11 @@
 ||<b>Definição da motivação principal da pessoa que usa a aplicação</b>|Encontrar informações oficiais, confiáveis e de forma rápida sobre a história de Concórdia.|
 |Satisfação|<b>Definição das realizações que a aplicação permite</b>|Conforto e praticidade por não ser necessária a pesquisa em diversos sites para se encontrar informações de fontes confiáveis.|
 ||<b>Definição das necessidades que a aplicação se propõe a sanar</b>|Necessidade de confiabilidade das informações, bem como, facilidade e conforto aos usuários que realizam a pesquisa.|
-<h6 align = "center">Tabela X: Tabela de storyboard para acesso à histórias da cidade de Concórdia.</h6>
+<h6 align = "center">Tabela 5: Tabela de storyboard para acesso à Histórias da Cidade de Concórdia.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 <center><img src="../../images/nivel1/storyboardHistoriaCidade.png" class="zoom"></center>
-<h6 align = "center">Figura X: Storyboard da História da Cidade.</h6>
+<h6 align = "center">Figura 5: Storyboard da História da Cidade.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
 ## 5. Referências
