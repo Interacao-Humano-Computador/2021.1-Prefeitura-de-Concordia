@@ -3,6 +3,7 @@
 |--|--|--|--|
 |30/08|1.0|Criação do documento|João Pedro|
 |30/08|1.1|Adição das metas de usabilidade|João Pedro|
+|09/09|2.0|Revisão do documento|João Pedro|
 
 ## 2. Introdução
 <p align = "justify"> &emsp;&emsp; Para se assegurar que um produto de software interativo seja de fácil aprendizagem e utilização, eficaz e agradável, se utiliza princípios da usabilidade. A usabilidade se divide em seis metas, que são normalmente operacionalizadas em perguntas com o objetivo de fornecer ao designer uma forma de avaliação dos diversos aspectos de um sistema e da experiência do usuário [1]. A seguir, cada uma dessas metas serão explicadas e demonstradas como podem ser alcançadas no domínio da Prefeitura de Concórdia.</p>
@@ -38,5 +39,8 @@
 <p align = "justify"> &emsp;&emsp;<b>Pergunta</b>: Que tipo e quais suportes são oferecidos ao usuário para se lembrar como realizar uma tarefa ?</p>
 <p align = "justify"> &emsp;&emsp;<b>Meta aplicada</b>: O sistema deve ser intuitivo, além de possuir ícones, imagens e linguagem consistente com as tarefas e com o perfil de usuário do domínio.</p>
 
-## 4. Referências
+## 4. Aplicação dos Conceitos no Domínio
+<p align = "justify"> &emsp;&emsp; Após a análise e respostas das perguntas ao domínio da prefeitura de Concórdia, é perceptível que nem todas as metas de usabilidade são alcançadas. As metas de eficácia e utilidade são atendidas perfeitamente pelo sistema, em contrapartida as metas de eficiência, segurança, aprendizagem e memorização são raramente ou nunca aplicadas de acordo com as perguntas anteriormente formuladas.</p>
+
+## 5. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Preece, J.; Rogers, Y.; Sharp, H. <b>Design de Interação: Além da Interação Humano-Computador</b>. Bookman, 3ª ed. 2013.</p>

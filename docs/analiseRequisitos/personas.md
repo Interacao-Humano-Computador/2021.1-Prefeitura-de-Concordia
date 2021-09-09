@@ -8,9 +8,10 @@
 | 1.2 | 20/08| Refatorando o arquivo de personas | Francisco Emanoel Ferreira |
 | 1.3 | 26/08| Corrigindo e padronizando a estrutura do documento| Francisco Emanoel Ferreira|
 | 1.4 | 31/08| Adicionando parágrafo sobre elenco de personas | João Pedro |
+|2.0 |09/09|Revisão do documento|João Pedro|
 
 ## 1. Introdução
-<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituidos por um grupo de usuários reais, com o objetivo de descrver um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1].</p>
+<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituidos por um grupo de usuários reais, com o objetivo de descrever um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1].</p>
 <p align = "justify"> &emsp;&emsp; De acordo então, com o questionário e com o recomendado por Courage e Baxter (2005), foi criado um elenco de personas reduzido e memorável a fim de evitar confusões, cobrindo os principais grupos de usuários. Ainda seguindo às recomendações, foi criado um elenco contendo quatro personas, sendo três delas primárias e uma antipersona.</p>
 
 ## 2. Personas
@@ -73,7 +74,7 @@
 |**Idade**|42 anos|
 |**Relacionamentos**|Casado|
 |**Comportamento**|Criterioso, Agitado e Atencioso|
-|**Requisitos**|Para Paulo, o site de seua prefeitura deve conter um grande leque de funcionalidades, entretanto Paulo não se importa muito com design e com a identidade visual do domínio|
+|**Requisitos**|Para Paulo, o site de sua prefeitura deve conter um grande leque de funcionalidades, entretanto Paulo não se importa muito com design e com a identidade visual do domínio|
 |**Expectativas**|Paulo deseja, conseguir realizar virtualmente todas as tarefas que necessitaria fazer presencialmente em uma prefeitura.|
 <h6 align = "center">Tabela 3: Persona Paulo</h6>
 <h6 align = "center">Fonte: Autor</h6>
