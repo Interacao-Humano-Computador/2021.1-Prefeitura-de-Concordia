@@ -6,6 +6,7 @@
 |05/09|1.2|Adição do storyboard de iluminação pública|Natanael|
 |05/09|1.3|Adição do storyboard de notícias|Abraão|
 |07/09|1.4|Adição do storyboard de gastos no portal da transparência|Francisco|
+|08/09|1.5|Adição do storyboard de certidão negativa de débitos|Leonardo|
 
 ## 2. Introdução
 <p align = "justify"> &emsp;&emsp; O storyboard "é um exemplo de prototipação de baixa-fidelidade, geralmente utilizado em um conjunto de cenários" (Preece <i>et al.</i>, 2013, pág. 263) [1]. Sua construção, ainda segundo Preece <i>et al.</i> [1], é feita através de um conjunto de quadrinhos, desenhados ou através de softwares, que demonstram como um usuário pode progredir em uma tarefa utilizando uma ou mais funcionalidades do sistema que se está sendo desenvolvido.</p>
@@ -37,6 +38,26 @@
 
 
 ### 3.2 Gerar Certidão Negativa de Débitos
+
+|Atividade|Tarefa|Definição|
+|:-:|:--|:--|
+||<b>Definição das pessoas envolvidas</b>|<b>Persona</b> Paulo Baruk|
+|Preparo|<b>Definição do ambiente da historia</b>|Escritório de arquitetura onde trabalha|
+||<b>Definição da tarefa a ser abordada</b>|Emitir Certidão Negativa de Débitos|
+||||
+||<b>Definição de quais passos estão envolvidos para realização da tarefa</b>|1. Acesso ao site da prefeitura</br>2. Na Navbar acessar a aba de <b>Autoatendimento</b></br>3. Acessar no menu de serviços destaque <b>Emissão da Certidão Negativa de Débitos - CND</b></br>4. Clicar no botão <b>Acessar</b></br>5. Preencher captcha <b>Não sou um robô</b></br>6. Selecionar opção de emissão <b>Por CPF/CNPJ</b></br>7. Digitar o  <b>CNPJ e selecionar a finalidade geral</b></br>8. Clicar em  <b>Confirmar</b>|
+|Sequência|<b>Definição do que leva a pessoa a usar a aplicação</b>|Emitir a CND para meios fiscais e jurídicos|
+||<b>Definição de qual e como a tarefa será ilustrada</b>|Emitira uma Certidão Negativa de Débitos para provar que seu imóvel está em dia com a prefeitura.|
+||||
+||<b>Definição da motivação principal da pessoa que usa a aplicação</b>|Emitir a Certidão Negativa de Débitos de seus imóveis na cidade de Concórdia.|
+|Satisfação|<b>Definição das realizações que a aplicação permite</b>|Conforto e praticidade por não ser necessária a ida em locais físicos para gerar o documento.|
+||<b>Definição das necessidades que a aplicação se propõe a sanar</b>|Necessidade de confiabilidade das informações, bem como, facilidade e conforto aos usuários que realizam a emissão, além de formas de verificar se o documento é original.|
+<h6 align = "center">Tabela 2: Tabela de storyboard para acesso à Emissão da Certidão Negativa de Débitos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+<center><img src="../../images/nivel1/storyboardCertidaoNegativa.png" class="zoom"></center>
+<h6 align = "center">Figura 2: Storyboard da Emissão da Certidão Negativa de Débitos.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
 ### 3.3 Acessar Dado de Gasto no Portal da Transparência
 
@@ -105,45 +126,5 @@
 <h6 align = "center">Figura 5: Storyboard da História da Cidade.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
-### 3.6 Emitir Certidão Negativa de Débitos
-|Atividade|Tarefa|Definição|
-|:-:|:--|:--|
-||<b>Definição das pessoas envolvidas</b>|<b>Persona</b> Paulo Baruk|
-|Preparo|<b>Definição do ambiente da historia</b>|Escritório de arquitetura onde trabalha|
-||<b>Definição da tarefa a ser abordada</b>|Emitir Certidão Negativa de Débitos|
-||||
-||<b>Definição de quais passos estão envolvidos para realização da tarefa</b>|1. Acesso ao site da prefeitura</br>2. Na Navbar acessar a aba de <b>Autoatendimento</b></br>3. Acessar no menu de serviços destaque <b>Emissão da Certidão Negativa de Débitos - CND</b></br>4. Clicar no botão <b>Acessar</b></br>5. Preencher captcha <b>Não sou um robô</b></br>6. Selecionar opção de emissão <b>Por CPF/CNPJ</b></br>7. Digitar o  <b>CNPJ e selecionar a finalidade geral</b></br>8. Clicar em  <b>Confirmar</b>|
-|Sequência|<b>Definição do que leva a pessoa a usar a aplicação</b>|Emitir a CND para meios fiscais e jurídicos|
-||<b>Definição de qual e como a tarefa será ilustrada</b>|Emitira uma Certidão Negativa de Débitos para provar que seu imóvel está em dia com a prefeitura.|
-||||
-||<b>Definição da motivação principal da pessoa que usa a aplicação</b>|Emitir a Certidão Negativa de Débitos de seus imóveis na cidade de Concórdia.|
-|Satisfação|<b>Definição das realizações que a aplicação permite</b>|Conforto e praticidade por não ser necessária a ida em locais físicos para gerar o documento.|
-||<b>Definição das necessidades que a aplicação se propõe a sanar</b>|Necessidade de confiabilidade das informações, bem como, facilidade e conforto aos usuários que realizam a emissão, além de formas de verificar se o documento é original.|
-<h6 align = "center">Tabela 6: Tabela de storyboard para acesso à Emissão da Certidão Negativa de Débitos.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<center><img src="../../images/nivel1/storyboardCertidaoNegativa.png" class="zoom"></center>
-<h6 align = "center">Figura 6: Storyboard da Emissão da Certidão Negativa de Débitos.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
 ## 5. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Preece, J.; Roger, Y.; Sharp, H. <b>Design de Interação: Além da Interação Humano-Computador</b>. Bookman, 3º ed. 2013.</p>
-
-<!-- Exemplo da tabela e imagem que devem ser seguidos
-|Atividade|Tarefa|Definição|
-|:-:|:--|:--|
-||<b>Definição das pessoas envolvidas</b>||
-|Preparo|<b>Definição do ambiente da historia</b>||
-||<b>Definição da tarefa a ser abordada</b>||
-||<b>Definição de quais passos estão envolvidos para realização da tarefa</b>||
-|Sequência|<b>Definição do que leva a pessoa a usar a aplicação</b>||
-||<b>Definição de qual e como a tarefa será ilustrada</b>||
-||<b>Definição da motivação principal da pessoa que usa a aplicação</b>||
-|Satisfação|<b>Definição das realizações que a aplicação permite</b>||
-||<b>Definição das necessidades que a aplicação se propõe a sanar</b>||
-<h6 align = "center">Tabela X: </h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<center><img src="../../images/nivel1/" class="zoom"></center>
-<h6 align = "center">Figura X: Storyboard da História da Cidade.</h6>
-<h6 align = "center">Fonte: Autor</h6>
--->
