@@ -10,6 +10,9 @@ theme:
   palette:
     primary: green
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: "index.md"
   - Planejamento:
@@ -36,6 +39,7 @@ nav:
         - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
         - Planejamento de Avaliação: "analiseTarefas/planejamento.md"
       - Storyboards:
+        - Storyboards: "nivel1/storyboards.md"
         - Planejamento de Avaliação: "nivel1/planejamento.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
