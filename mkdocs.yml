@@ -26,17 +26,21 @@ nav:
         - Questionário e Perfis de Usuários: "analiseRequisitos/questionarioEPerfil.md"
         - Personas: "analiseRequisitos/personas.md"
         - Entrevista: "analiseRequisitos/entrevista.md"
+    - Principios e Diretrizes: "analiseRequisitos/principios_e_diretrizes.md"    
     - Guia de estilo: "analiseRequisitos/guiaDeEstilo.md"
     - Metas de Usabilidade: "analiseRequisitos/metasUsabilidade.md"
     - Características da Plataforma: "analiseRequisitos/caracteristicasDaPlatafoma.md"
-  - Análise de Tarefas:
-    - Árvores de Tarefas Concorrentes CTT: "analiseTarefas/ctt.md"
-    - Análise de Tarefa KLM: "analiseTarefas/klm.md"
-    - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
-    - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-      - Storyboards: "nivel1/storyboards.md"
+      - Análise de Tarefas:
+        - Árvores de Tarefas Concorrentes CTT: "analiseTarefas/ctt.md"
+        - Análise de Tarefa KLM: "analiseTarefas/klm.md"
+        - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
+        - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
+        - Planejamento de Avaliação: "analiseTarefas/planejamento.md"
+      - Storyboards:
+        - Storyboards: "nivel1/storyboards.md"
+        - Planejamento de Avaliação: "nivel1/planejamento.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
