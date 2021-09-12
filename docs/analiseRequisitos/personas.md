@@ -11,7 +11,7 @@
 |2.0 |09/09|Revisão do documento|João Pedro|
 
 ## 1. Introdução
-<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituidos por um grupo de usuários reais, com o objetivo de descrever um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1].</p>
+<p align = "justify"> &emsp;&emsp; As personas são personagem fictícios e hipotéticos, que são constituídos por um grupo de usuários reais, com o objetivo de descrever um usuário no sistema. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário [1].</p>
 <p align = "justify"> &emsp;&emsp; De acordo então, com o questionário e com o recomendado por Courage e Baxter (2005), foi criado um elenco de personas reduzido e memorável a fim de evitar confusões, cobrindo os principais grupos de usuários. Ainda seguindo às recomendações, foi criado um elenco contendo quatro personas, sendo três delas primárias e uma antipersona.</p>
 
 ## 2. Personas

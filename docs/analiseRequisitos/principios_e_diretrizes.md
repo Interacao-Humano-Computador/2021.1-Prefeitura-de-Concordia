@@ -36,7 +36,7 @@
 ### 3.2 Equilíbrio entre controle e liberdade do usuário
 <p align = "justify"> &emsp;&emsp;Quando é dada a liberdade para o usuário, devemos fazer algumas verificações, principalmente no sentindo de expor muitas informações para o usuário, visto que isso pode causar uma sensação de perda ou angústia. Devemos sempre que possível mostrar apenas a opções nescessárias para o usuário, assim ele tem uma grande curva de aprendizado, tendo a sensação de maestria no que está fazendo. Dessa maneira, devemos manter o sistema, o mais equilibrado possível.
 </p>
-<p align = "justify"> &emsp;&emsp; A seguir está demonstrado no site uma funcionalidade que atende esse princípio, visto que, o usuário possui a liberdade para realização da tarefa, porém é devidamente controlado pela aplicação de forma a imperdir a sensação de perda ou angústia.</p>
+<p align = "justify"> &emsp;&emsp; A seguir está demonstrado no site uma funcionalidade que atende esse princípio, visto que, o usuário possui a liberdade para realização da tarefa, porém é devidamente controlado pela aplicação de forma a impedir a sensação de perda ou angústia.</p>
 
 <center>
 <img src="../../images/principios_de_diretrizes/image3.png" width="500px">
@@ -48,7 +48,7 @@
 <p align = "justify"> &emsp;&emsp;Devemos manter a consistência e padronização da interface do modelo conceitual que está embutido no sistema, para assim facilitar o aprendizado e uso do sistema. Por assim dizer, os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa, por outro lado, se dois elementos de interface possuem comportamentos diferentes eles devem ter aparências distintas. É notável que em todo o domínio principal da prefeitura de Concórdia se encontra padronizado, entretanto, entre seus subdomínios esse princípio não é atendido, conforme demonstrado nas <a href="../caracteristicasDaPlatafoma/#6-caracteristicas-negativas">Características Negativas da Plataforma</a>.</p>
 
 ### 3.4 Promoção da eficiência do usuário
-<p align = "justify"> &emsp;&emsp;Segundo Tognazzini(2003), devemos sempre considerar a eficiência do usuário em primeiro lugar, e não do computador. Esse cuidado costumam trazer bem mais benefícios do que investimentos em processamentos ou armazenamento. No site da prefeitura, diversas formas de promoção à eficiência foram observadas, atendendo a esse princípio.</p>
+<p align = "justify"> &emsp;&emsp;Segundo Tognazzini(2003), devemos sempre considerar a eficiência do usuário em primeiro lugar, e não do computador. Esse cuidado costuma trazer bem mais benefícios do que investimentos em processamentos ou armazenamento. No site da prefeitura, diversas formas de promoção à eficiência foram observadas, atendendo a esse princípio.</p>
 
 ### 3.5 Antecipação 
 <p align = "justify"> &emsp;&emsp;As aplicações devem, sempre que possível, tentar prever o que o usuário quer e precisa naquele momento específico para que assim não se espere que os mesmos busquem ou coletem informações, ou invoquem ferramentas para resolver seu problema. Portanto, a aplicação deve ajudar o usuário fornecendo todas as informações e ferramentas necessárias para cada passo do processo.</p>
@@ -80,8 +80,8 @@
 <p align = "justify"> &emsp;&emsp; O domínio da Prefeitura de Concórdia atende parcialmente esse princípio. Isso porque, apenas o tópico da quantidade não é respeitado, visto a quantidade excessiva de informações dispostas na interface.</p>
 
 ### 3.8 Projeto para erros
-<p align = "justify"> &emsp;&emsp; Assumimos que qualquer erro potêncial será cometido. O designer deve preparar o sistema para ajudar o usuário a se recuperar de um erro que ele não conhece informando-lhe sobre o que, o porque e como resolver esse problema.</p>
-<p align = "justify"> &emsp;&emsp; O site da prefeitura de Concórdia não atende totalmente esse princípio, visto que, o domínio não busca evitar erros em potêncial e quando os mesmos ocorrem, as mensagens apresentadas apenas informam sobre o erro, não indicando possíveis soluções de recuperação.</p>
+<p align = "justify"> &emsp;&emsp; Assumimos que qualquer erro potencial será cometido. O designer deve preparar o sistema para ajudar o usuário a se recuperar de um erro que ele não conhece informando-lhe sobre o que, o porque e como resolver esse problema.</p>
+<p align = "justify"> &emsp;&emsp; O site da prefeitura de Concórdia não atende totalmente esse princípio, visto que, o domínio não busca evitar erros em potencial e quando os mesmos ocorrem, as mensagens apresentadas apenas informam sobre o erro, não indicando possíveis soluções de recuperação.</p>
 
 <center>
 <img src="../../images/principios_de_diretrizes/image-erro1.png" width="500px">
