@@ -42,7 +42,12 @@
 <iframe width=900 height=1090 src="https://docs.google.com/document/d/e/2PACX-1vTSIZj8nqCPszx8uCQDf-lLUs-0N4OkujT2QMwv7w2bTF1BzAWnNl9BfyzXUMt2uCABUQIoXRh6pP4v/pub?embedded=true"></iframe>
 
 ## 5. Resultados
-<p align = "justify"> &emsp;&emsp; Por se tratar da preparação para a avaliação e devido ao fato desse documento estar em constante alteração, os resultados ainda não estão disponíveis para visualização.</p>
+<p align = "justify"> &emsp;&emsp; A seguir, estão apresentados o planejamento e a avaliação de cada um dos Storyboards mencionados anteriormente:</p>
+
+- <a href="nivel1/avaliacoesStoryboards/storyboardIluminacao.md">Avaliação do Storyboard: Solicitar iluminação pública </a>
+- <a href="#">Avaliação do Storyboard: Gerar Certidão Negativa de Débitos </a>
+- <a href="#">Acessar História da Cidade </a>
+
 
 ## 6. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>

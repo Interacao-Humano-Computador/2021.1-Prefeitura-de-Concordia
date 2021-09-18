@@ -37,10 +37,10 @@ nav:
         - Análise de Tarefa KLM: "analiseTarefas/klm.md"
         - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
         - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
-        - Planejamento de Avaliação: "analiseTarefas/planejamento.md"
+        - Planejamento e Avaliação: "analiseTarefas/planejamento.md"
       - Storyboards:
         - Storyboards: "nivel1/storyboards.md"
-        - Planejamento de Avaliação: "nivel1/planejamento.md"
+        - Planejamento e Avaliação: "nivel1/planejamentoAvaliacao.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
