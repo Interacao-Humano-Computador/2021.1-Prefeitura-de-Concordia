@@ -30,7 +30,7 @@
 |2|Você já havia acessado o site da prefeitura ?|[ ] - Sim</br>[ ] - Não|
 |2.1|(Caso a resposta do item 2 tenha sido "SIM") Você já utilizou a funcionalidade x ?|[ ] - Sim</br>[ ] - Não|
 |2.1.1|(Caso a resposta do item 2.1 tenha sido "SIM") Como você descreveria a dificuldade no acesso/utilização da funcionalidade x ?|Discursiva|
-|2.1.2|(Caso a resposta do item 2 tenha sido "SIM", ou o item 2.1 tenha sido "NÃO") Nós pediremos então que você realize o acesso a funcionalidade x e descreva qual foi sua dificuldade no acesso/utilização da mesma.|Demonstrativa e Discursiva|
+|2.1.2|(Caso a resposta do item 2.1 tenha sido "NÃO") Nós pediremos então que você realize o acesso a funcionalidade x e descreva qual foi sua dificuldade no acesso/utilização da mesma.|Demonstrativa e Discursiva|
 |3|Após ter realizado a interação com a funcionalidade x, você notou alguma diferênça com a tarefa representada nesse diagrama ?|[ ] - Sim</br>[ ] - Não|
 |3.1|(Caso a resposta do item 3 tenha sido "SIM") Por favor destaque quais foram os aspectos e passos notados que não estão representados no diagrama|Discursiva|
 |4|Você acredita que faltou algo no diagrama ?|[ ] - Sim e discursiva</br>[ ] - Não|
