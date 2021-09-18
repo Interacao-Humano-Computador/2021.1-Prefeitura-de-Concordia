@@ -25,13 +25,15 @@
 
 ## 5. Perguntas a serem respondidas
 
-<p align = "justify">  &emsp;&emsp; Com está entrevista buscamos responder perguntas relacionadas a tarefa representada nos <a href="../../planejamentoAvaliacao">storyboards</a>. Sendo assim, as perguntas que buscamos responder são:</p>
+<p align = "justify">  &emsp;&emsp; Com está entrevista buscamos responder perguntas relacionadas ao storyboard e a tarefa representada no <a href="../../storyboards">storyboard</a>. Sendo assim, as perguntas que buscamos responder são:</p>
 
+- O storyboard está bem definido?
+- As cenas do storyboard representam uma situação real? Os diálogos são naturais?
 - O storyboard representa de forma real a realização da tarefa?
 
 
 ## 6. Questões práticas
-<p align = "justify">  &emsp;&emsp;Entrevista foi feita com Carla Núbia. empreendedora de 33 anos. A entrevista foi realizada pela plataforma "jitsi meet", em 18/09/2021.</p>
+<p align = "justify">  &emsp;&emsp;Entrevista foi feita com Carla Núbia, empreendedora de 33 anos. A entrevista foi realizada pela plataforma "jitsi meet", em 18/09/2021.</p>
 
 ## 7. Questões éticas
 <p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
@@ -44,7 +46,7 @@
 <p align = "justify">  &emsp;&emsp;A execução prática se deu da seguinte forma:</p>
 
 - Via vídeo chamada o participante iniciou o compartilhamento de tela de seu computador.
-- O participante foi orientado de acordo com a tarefa descrita no storyboard.
+- O participante foi orientado conforme a tarefa descrita no storyboard.
 - Houve uma breve apresentação da plataforma ao participante.
 
 ### 8.2. Roteiro de perguntas
@@ -52,7 +54,7 @@
 
 ## 9. Considerações finais
 
-<p align = "justify">  &emsp;&emsp; Assim como no storyboard a participante teve problemas para conseguir completar a tarefa, visto que ela afirmou que a tarefa é confusa e que se não fosse pela dica vista no storyboard, de que o acesso seria pela área de autoatendimento, ela não seria capaz de executar a tarefa.</p>
+<p align = "justify">  &emsp;&emsp; Assim como no storyboard a participante teve problemas para conseguir completar a tarefa, visto que ela afirmou que a tarefa é confusa e que se não fosse pela dica vista no storyboard, de que o acesso seria pela área de autoatendimento, ela não conseguiria a tarefa.</p>
 <p align = "justify">  &emsp;&emsp; Além disso, a entrevistada afirma que o storyboard caracteriza bem um uso real da tarefa e que a tarefa facilita muito a vida de empreendedores e comerciantes. Entretanto, os textos estão longos e com fontes pequenas o que dificulta na leitura do usuário.</p>
 
 ## 10. Referências
