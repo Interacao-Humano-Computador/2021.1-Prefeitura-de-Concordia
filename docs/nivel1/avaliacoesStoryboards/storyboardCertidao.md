@@ -3,39 +3,57 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |17/09|1.0|Criação de documento|Natanael Filho e Abraão Alves| 
+|18/09|1.1|Reorganização de tópicos eadição de informações|Natanael Filho| 
 
 ## Participante
- - Carla Nubia
+
+|Função|Nome|
+|--|--|
+|Entrevistador|Abraão Alves|
+|Entrevistada|Carla Núbia|
+|Cinegrafista|Natanael Filho|
+
 ## Objetivos da avaliação
 
 <p align = "justify">  &emsp;&emsp;Validar a tarefa descrita no storyboard de gerar certidão negativa de débitos.</p>
-
-## Perguntas a serem respondidas e questões éticas
-
-<p align = "justify">  &emsp;&emsp; Tanto as perguntas que serão realizadas para validar o conteúdo do storyboard  quanto as questões éticas como por exemplo o termo de consentimento, ja foram descritas no Documento de <a href="../../planejamentoAvaliacao">storyboards</a>.</p>
 
 ## Método de avaliação 
 
 <p align = "justify">  &emsp;&emsp; O método escolhido foi o de entrevista por possuir uma maior facilidade de diálogo entre entrevistado e entrevistador.</p>
 
+<p align = "justify">  &emsp;&emsp; A reunião foi ministrada pela plataforma "jitsi meet", onde o responsável pela filmagem compartilhou a tela de seu computador, de modo que a entrevistada e o entrevistador pudessem visualizar.</p>
+
+## Perguntas a serem respondidas
+
+<p align = "justify">  &emsp;&emsp; Com está entrevista buscamos responder perguntas relacionadas a tarefa representada nos <a href="../../planejamentoAvaliacao">storyboards</a>. Sendo assim, as perguntas que buscamos responder são:</p>
+
+- O storyboard representa de forma real a realização da tarefa?
+
+
 ## Questões práticas
-<p align = "justify">  &emsp;&emsp;Foi escolhido por ser uma moradora da região. A entrevista foi realizada pela plataforma "jitsi meet", em 17/09/2021.</p>
+<p align = "justify">  &emsp;&emsp;Entrevista foi feita com Carla Núbia. empreendedora de 33 anos. A entrevista foi realizada pela plataforma "jitsi meet", em 18/09/2021.</p>
+
+## Questões éticas
+<p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
+
+<iframe width=900 height=1090 src="https://docs.google.com/document/d/e/2PACX-1vTSIZj8nqCPszx8uCQDf-lLUs-0N4OkujT2QMwv7w2bTF1BzAWnNl9BfyzXUMt2uCABUQIoXRh6pP4v/pub?embedded=true"></iframe>
 
 ## Avaliação
 
-
+### Entrevista
 <p align = "justify">  &emsp;&emsp;A execução prática se deu da seguinte forma:</p>
 
-- Via vídeo chamada o participante iniciou o compartilhamento de tela de seu computador
-- O participante foi orientado de acordo com a tarefa descrita no storyboard
-- Houve uma breve apresentação da plataforma ao participante
+- Via vídeo chamada o participante iniciou o compartilhamento de tela de seu computador.
+- O participante foi orientado de acordo com a tarefa descrita no storyboard.
+- Houve uma breve apresentação da plataforma ao participante.
 
-### Entrevista
-<p align = "justify">  &emsp;&emsp;As perguntas respondidas na entrevista foram as perguntas já descritas no <a href="../../planejamentoAvaliacao">roteiro de avaliação do storyboard</a></p>
+### Roteiro de perguntas
+<p align = "justify">  &emsp;&emsp;As perguntas respondidas na entrevista foram as perguntas já descritas no <a href="../../planejamentoAvaliacao">roteiro de avaliação do storyboard.</a></p>
 
 ## Considerações finais
 
-<p align = "justify">  &emsp;&emsp;Conforme foi mostrado no Storyboard, a entrevistada Vanda foi instruído a realizar a mesma tarefa, mas ficou insatisfeita com a falta de imagens e e com uma quantidade de texto muito grande o que acabou dificultando sua interação. Mas fora esses detalhes, ele conseguiu realizar a tarefa desejada. </p>
+<p align = "justify">  &emsp;&emsp; Assim como no storyboard a participante teve problemas para conseguir completar a tarefa, visto que ela afirmou que a tarefa é confusa e que se não fosse pela dica vista no storyboard, de que o acesso seria pela área de autoatendimento, ela não seria capaz de executar a tarefa.</p>
+<p align = "justify">  &emsp;&emsp; Além disso, a entrevistada afirma que o storyboard caracteriza bem um uso real da tarefa e que a tarefa facilita muito a vida de empreendedores e comerciantes. Entretanto, os textos estão longos e com fontes pequenas o que dificulta na leitura do usuário.</p>
 
 ## Referências
 

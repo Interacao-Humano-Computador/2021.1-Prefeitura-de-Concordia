@@ -5,7 +5,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |17/09|1.0|Criação de documento|Natanael Filho e Abraão Alves| 
-|17/09|1.0|Adição de tópico participantes e questões éticas |Natanael Filho| 
+|18/09|1.0|Adição das considerações finais |Natanael Filho| 
 
 ## 2. Participantes
 |Função|Nome|
@@ -28,15 +28,13 @@
 
 - O storyboard representa de forma real a realização da tarefa?
 
-## 6. Questões éticas
+## 6. Questões práticas
+<p align = "justify">  &emsp;&emsp; A entrevistada se trata de uma moradora da cidade de Concórdia. A entrevista foi realizada pela plataforma "jitsi meet", em 17/09/2021.</p>
+
+## 7. Questões éticas
 <p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
 
 <iframe width=900 height=1090 src="https://docs.google.com/document/d/e/2PACX-1vTSIZj8nqCPszx8uCQDf-lLUs-0N4OkujT2QMwv7w2bTF1BzAWnNl9BfyzXUMt2uCABUQIoXRh6pP4v/pub?embedded=true"></iframe>
-
-
-
-## 7. Questões práticas
-<p align = "justify">  &emsp;&emsp; A entrevistada se trata de uma moradora da cidade de Concórdia. A entrevista foi realizada pela plataforma "jitsi meet", em 17/09/2021.</p>
 
 ## 8. Avaliação
 
@@ -44,8 +42,8 @@
 
 <iframe width="1350" height="480" src="https://www.youtube.com/embed/MvFXtaI8MZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 8.2 Perguntas feitas ao entrevistado
-
+### 8.2 Roteiro de perguntas elaborado
+<p align = "justify">  &emsp;&emsp;As perguntas respondidas na entrevista foram :</p>
 - Qual o seu nome completo e idade?
 - Você já havia acessado o site da prefeitura?
 - Você já utilizou a funcionalidade Acesso a história da cidade?
@@ -56,7 +54,7 @@
 
 ## 9. Considerações finais
 
-<p align = "justify">  &emsp;&emsp;Conforme foi mostrado no Storyboard, a entrevistada Vanda foi instruído a realizar a mesma tarefa, mas ficou insatisfeita com a falta de imagens e e com uma quantidade de texto muito grande o que acabou dificultando sua interação. Mas fora esses detalhes, ele conseguiu realizar a tarefa desejada. </p>
+<p align = "justify">  &emsp;&emsp;Conforme foi mostrado no Storyboard, a entrevistada Alessandra foi instruída a realizar a mesma tarefa, mas ficou insatisfeita com a falta de imagens e e com uma quantidade de texto muito grande o que acabou dificultando sua interação. Mas fora esses detalhes, ele conseguiu realizar a tarefa desejada. </p>
 
 ## 10. Referências
 
