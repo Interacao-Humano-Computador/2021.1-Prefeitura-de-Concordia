@@ -44,9 +44,9 @@
 ## 5. Resultados
 <p align = "justify"> &emsp;&emsp; A seguir, estão apresentados o planejamento e a avaliação de cada um dos Storyboards mencionados anteriormente:</p>
 
-- <a href="nivel1/avaliacoesStoryboards/storyboardIluminacao.md">Avaliação do Storyboard: Solicitar iluminação pública </a>
-- <a href="#">Avaliação do Storyboard: Gerar Certidão Negativa de Débitos </a>
-- <a href="#">Acessar História da Cidade </a>
+- <a href="../avaliacoesStoryboards/storyboardIluminacao">Avaliação do Storyboard: Solicitar iluminação pública </a>
+- <a href="../avaliacoesStoryboards/storyboardCertidao">Avaliação do Storyboard: Gerar Certidão Negativa de Débitos </a>
+- <a href="../avaliacoesStoryboards/storyboardHistoria">Acessar História da Cidade </a>
 
 
 ## 6. Referências
