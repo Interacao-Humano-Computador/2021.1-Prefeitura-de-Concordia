@@ -24,8 +24,10 @@
 
 ## 5. Perguntas a serem respondidas
 
-<p align = "justify">  &emsp;&emsp; Com está entrevista buscamos responder perguntas relacionadas a tarefa representada nos <a href="../../planejamentoAvaliacao">storyboards</a>. Sendo assim, as perguntas que buscamos responder são:</p>
+<p align = "justify">  &emsp;&emsp; Com está entrevista buscamos responder perguntas relacionadas ao storyboard e a tarefa representada no <a href="../../storyboards">storyboard</a>. Sendo assim, as perguntas que buscamos responder são:</p>
 
+- O storyboard está bem definido?
+- As cenas do storyboard representam uma situação real? Os diálogos são naturais?
 - O storyboard representa de forma real a realização da tarefa?
 
 ## 6. Questões práticas
@@ -44,6 +46,7 @@
 
 ### 8.2 Roteiro de perguntas elaborado
 <p align = "justify">  &emsp;&emsp;As perguntas respondidas na entrevista foram :</p>
+
 - Qual o seu nome completo e idade?
 - Você já havia acessado o site da prefeitura?
 - Você já utilizou a funcionalidade Acesso a história da cidade?
@@ -54,7 +57,7 @@
 
 ## 9. Considerações finais
 
-<p align = "justify">  &emsp;&emsp;Conforme foi mostrado no Storyboard, a entrevistada Alessandra foi instruída a realizar a mesma tarefa, mas ficou insatisfeita com a falta de imagens e e com uma quantidade de texto muito grande o que acabou dificultando sua interação. Mas fora esses detalhes, ele conseguiu realizar a tarefa desejada. </p>
+<p align = "justify">  &emsp;&emsp;Conforme foi mostrado no Storyboard, a entrevistada Alessandra foi instruída a realizar a mesma tarefa, mas ficou insatisfeita com a falta de imagens e com uma quantidade de texto muito grande o que acabou dificultando sua interação. Mas fora esses detalhes, ele conseguiu realizar a tarefa desejada. </p>
 
 ## 10. Referências
 
