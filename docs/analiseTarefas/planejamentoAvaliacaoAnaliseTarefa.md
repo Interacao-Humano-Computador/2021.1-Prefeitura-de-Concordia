@@ -45,7 +45,7 @@
 ## 5. Resultados
 <p align = "justify"> &emsp;&emsp; A seguir, estão apresentados o planejamento e a avaliação das análises de tarefas elaboradas:</p>
 
-- <a href="../avaliacoesTarefas/tarefaDadoGasto">Tarefa: Acessar Dado de Gasto no Portal da Transparência </a>
+- <a href="../avaliacoesTarefas/copiaTelefone">Tarefa: Copiar Telefone de atendimento </a>
 - <a href="../avaliacoesTarefas/tarefaHistoriaCidade">Tarefa: Acessar História da Cidade </a>
 - <a href="../avaliacoesTarefas/tarefaNoticias">Tarefa: Acessar Notícias </a>
 
