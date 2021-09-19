@@ -42,12 +42,14 @@
 
 <iframe width=900 height=1110 src="https://docs.google.com/document/d/e/2PACX-1vQLGcjUNjYQZf4pqXqKkisaoiuFazMoAk4AtXOBhxvaqwNBduossHcddxqj18ti2EvCPV18OTNDtgd0/pub?embedded=true"></iframe>
 
-## 5. Resultados
+## 6. Resultados
 <p align = "justify"> &emsp;&emsp; A seguir, estão apresentados o planejamento e a avaliação das análises de tarefas elaboradas:</p>
 
-- <a href="../avaliacoesTarefas/copiaTelefone">Tarefa: Copiar Telefone de atendimento </a>
-- <a href="../avaliacoesTarefas/tarefaHistoriaCidade">Tarefa: Acessar História da Cidade </a>
-- <a href="../avaliacoesTarefas/tarefaNoticias">Tarefa: Acessar Notícias </a>
+- <a href="../avaliacoesTarefas/tarefaNoticias">Análise de Tarefa CTT: Acesso Notícias </a>
+- <a href="../avaliacoesTarefas/tarefaDefesaCivil">Análise de Tarefa KLM: Acesso Defesa Civil </a>
+- <a href="../avaliacoesTarefas/tarefaConselhoTutelar">Análise de Tarefa HTA: Consultar Informações Conselho Tutelar </a>
+- <a href="../avaliacoesTarefas/copiaTelefone">Análise de Tarefa CMN: Copiar Telefone de atendimento </a>
 
-## 6. Referências
+
+## 7. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
