@@ -34,14 +34,18 @@
 |**menu rotativo  Defesa Civil**|**M**|preparação|<center><center>1,20</center></center>|
 ||**H**|levar a mão do teclado ao mouse|<center>0,40</center>|
 ||**P**|levar cursor até menu Acesso Portal do cidadão|<center>1,10</center>|
-||**W**|esperando que a página carregar|<center>1,78</center>|
+||**W**|esperando que a página carregar|<center>11,78</center>|
 ||**B**|pressionar botão do mouse|<center>0,10</center>|
 ||**B**|soltar botão do mouse|<center>0,10</center>|
 ||**P**|levar cursor até a opção  Defesa Civil do menu rotativo|<center>1,56</center>|
 ||**B**|pressionar botão do mouse|<center>0,10</center>|
 ||**B**|soltar botão do mouse|<center>0,10</center>|
-||**W**|esperando que a página carregar|<center>2,03</center>|
-|||**TOTAL**|<center>**8,47**</center>|
+||**W**|esperando que a página carregar|<center>19,03</center>|
+|||**TOTAL**|<center>**32,47**</center>|
+
+### 3.1.
+
+<iframe width="1150" height="647" src="https://www.youtube.com/embed/4XGMTup5gho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 4. Relatório de resultados
 
