@@ -4,8 +4,9 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |18/09|1.0|Criação de documento|Natanael Filho| 
+|20/09|1.1|Correção ortográfica|Natanael Filho|
 
-## 2. Participante
+## 2. Participantes
 
 |Função|Nome|
 |--|--|
@@ -15,7 +16,7 @@
 
 ## 3. Objetivos da avaliação
 
-<p align = "justify">  &emsp;&emsp;Validar a tarefa descrita no storyboard de solicitar iluminação pública.</p>
+<p align = "justify">  &emsp;&emsp; Validar a tarefa descrita no storyboard de solicitar iluminação pública.</p>
 
 ## 4. Método de avaliação 
 
@@ -32,7 +33,7 @@
 - O storyboard representa de forma real a realização da tarefa?
 
 ## 6. Questões práticas
-<p align = "justify">  &emsp;&emsp;Entrevista foi feita com a persona Maria Clara Fernandes, desenvolvedora de software, 28 anos. A entrevista foi realizada pela plataforma "jitsi meet", em 18/09/2021.</p>
+<p align = "justify">  &emsp;&emsp; Entrevista foi feita com a persona Maria Clara Fernandes, desenvolvedora de software, 28 anos. A entrevista foi realizada pela plataforma "jitsi meet", em 18/09/2021.</p>
 
 ## 7. Questões éticas
 <p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
@@ -50,7 +51,7 @@
 - Qual o seu nome completo e idade?
 - Você já havia acessado o site da prefeitura?
 - Você já utilizou a funcionalidade solicitar iluminação pública?
-- Nós pediremos então que você realize o acesso a funcionalidade solicitar iluminação pública e descreva qual foi sua dificuldade no acesso/utilização da mesma.
+- Nós pediremos então que você realize o acesso à funcionalidade solicitar iluminação pública e descreva qual foi sua dificuldade no acesso/utilização da mesma.
 - Após ter realizado a interação com a funcionalidade solicitar iluminação pública, você notou alguma diferença com o storyboard apresentado?
 - Você acredita que faltou algo no storyboard?
 
