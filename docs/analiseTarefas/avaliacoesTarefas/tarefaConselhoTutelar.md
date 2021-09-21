@@ -1,4 +1,4 @@
-# Consultar Informações Conselho Tutelar
+# Avaliação Análise de Tarefa HTA: Consultar Informações Conselho Tutelar
 
 ## 1. Versionamento
 |Data|Versão|Descrição|Autor(es)
@@ -29,7 +29,7 @@
 - Computadores com acesso à internet (Notebook, celular ou, etc.).
 - Webcam para gravar os participantes da entrevista.
 - Site da prefeitura de Concórdia.
-- Software de gravação "jitsi meet".
+- Software de reunião e gravação "jitsi meet".
 - Teclado e mouse para digitação e interação.
 
 ## 3. Coleta de dados
@@ -42,6 +42,10 @@
 |Essa mudança de design trouxe algum sentimento ruim? Poderia explicar um pouco?| Sim, bem acho que eu acabei ficando um pouco perdida, senti que talvez estivesse acessando uma página de outro lugar, o que confundiu a minha cabeça.|
 |O diagrama condiz com como a tarefa é realizada?| Sim, o diagrama está bem organizado e da pra identificar bem o processo de navegação representado.|
 |Você possui alguma sugestão para podermos melhorar o diagrama HTA?|Sim, Acho que ficaria mais visual se fosse adicionado cores ao diagrama.|
+
+### 3.1. Entrevista
+
+<p align = "justify">  &emsp;&emsp; As perguntas respondidas na entrevista foram as perguntas já descritas no <a href="../../planejamentoAvaliacaoAnaliseTarefa">roteiro de avaliação da análise de tarefa.</a></p>
 
 ## 4. Relatório de resultados
 

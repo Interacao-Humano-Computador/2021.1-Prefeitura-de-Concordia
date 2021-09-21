@@ -1,4 +1,4 @@
-# Acessar Defesa Civil
+# Avaliação Análise de Tarefa KLM: Acesso Defesa Civil
 
 ## 1. Versionamento
 |Data|Versão|Descrição|Autor(es)
@@ -22,6 +22,17 @@
 |Entrevistado|Marcus Marquetti|
 |Cinegrafista|Maria Clara Fernandes|
 
+### 2.2 Materiais
+
+<p align = "justify">  &emsp;&emsp; Para a execução desta entrevista foram necessários os seguintes materiais:</p>
+
+- Computadores com acesso à internet (Notebook, celular ou, etc.).
+- Webcam para gravar os participantes da entrevista.
+- Site da prefeitura de Concórdia.
+- Software de reunião e gravação "jitsi meet".
+- Teclado e mouse para digitação e interação.
+
+
 ## 3. Coleta de dados
 
 <p align = "justify">  &emsp;&emsp; Foi informado ao participante instruções de como seria realizado a entrevista, de modo que o participante executou a tarefa no site da prefeitura e também foi mostrado a análise de tarefas KLM, feita pela equipe, para o entrevistado. Desta forma as perguntas que a equipe buscou responder foram:</p>
@@ -44,7 +55,7 @@
 ||**W**|esperando que a página carregar|<center>19,03</center>|
 |||**TOTAL**|<center>**32,47**</center>|
 
-### 3.1.
+### 3.1. Entrevista
 
 <iframe width="1150" height="647" src="https://www.youtube.com/embed/4XGMTup5gho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
