@@ -37,10 +37,10 @@ nav:
         - Análise de Tarefa KLM: "analiseTarefas/klm.md"
         - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
         - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
-        - Planejamento de Avaliação: "analiseTarefas/planejamento.md"
+        - Planejamento e Avaliação das Análises de Tarefas: "analiseTarefas/planejamentoAvaliacaoAnaliseTarefa.md"
       - Storyboards:
         - Storyboards: "nivel1/storyboards.md"
-        - Planejamento de Avaliação: "nivel1/planejamento.md"
+        - Planejamento e Avaliação dos Storyboards: "nivel1/planejamentoAvaliacaoStoryboard.md"
     - Nível 2:
       - Protótipo de Papel:
         - Protótipo de Papel: "nivel2/prototipo.md"

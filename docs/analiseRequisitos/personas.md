@@ -27,11 +27,11 @@
 |**Escolaridade**| Ensino Superior Completo|
 |**Tarefas**| Pelo período da manhã ensina matemática em uma escola de ensino médio, e pela tarde atua dando monitorias. Por fim, seu período noturno consiste na preparação de sua aula para o dia seguinte|
 |**Cargo**| Professor de Matemática  |
-|**Idade**| 28 anos   |
+|**Idade**| 41 anos   |
 |**Relacionamentos**| Namorando|
 |**Comportamento**| Gentil, amigável|
-|**Requisitos** | Para Ademir, um site deve ter as funcionalidades essenciais para a realização de suas tarefas, com uma interface bonita e de fácil entendimento|
-|**Expectativas**| Ademir espera que a aplicação seja capaz de emitir todos os documentos que necessitar, de forma rápida e eficiente, sem passar horas procurando por uma opção|
+|**Requisitos** | Para Pedro, um site deve ter as funcionalidades essenciais para a realização de suas tarefas, com uma interface bonita e de fácil entendimento|
+|**Expectativas**| Pedro espera que a aplicação seja capaz de emitir todos os documentos que necessitar, de forma rápida e eficiente, sem passar horas procurando por uma opção|
 <h6 align = "center">Tabela 1: Persona Pedro</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
@@ -71,7 +71,7 @@
 |**Escolaridade**|Ensino Superior Completo|
 |**Tarefas**|Pelo período da manhã ele vai para sua empresa de arquitetura, e pela tarde atua diretamente em um projeto da empresa. Por fim, em seu período noturno ele vai para academia para se exercítar, e ao final do seu dia planeja seu amanhã|
 |**Cargo**|Arquiteto|
-|**Idade**|42 anos|
+|**Idade**|38 anos|
 |**Relacionamentos**|Casado|
 |**Comportamento**|Criterioso, Agitado e Atencioso|
 |**Requisitos**|Para Paulo, o site de sua prefeitura deve conter um grande leque de funcionalidades, entretanto Paulo não se importa muito com design e com a identidade visual do domínio|
