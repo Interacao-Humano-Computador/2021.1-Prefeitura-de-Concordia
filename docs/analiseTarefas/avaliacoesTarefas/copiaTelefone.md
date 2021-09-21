@@ -15,7 +15,7 @@
 
 <p align = "justify">  &emsp;&emsp; O perfil dos usuários que poderiam responder a essa avaliação pode ser encontrado no  <a href="../../../analiseRequisitos/personas">documento de personas.</a> </p>
 
-### 2.1 Participantes
+### 2.1. Participantes
 
 |Função| Participante|
 |--|--|
@@ -23,7 +23,7 @@
 |Entrevistado|Maria Clara Fernandes|
 |Cinegrafista|Abraão Alves|
 
-### 2.2 Materiais
+### 2.2. Materiais
 
 <p align = "justify">  &emsp;&emsp; Para a execução desta entrevista foram necessários os seguintes materiais:</p>
 

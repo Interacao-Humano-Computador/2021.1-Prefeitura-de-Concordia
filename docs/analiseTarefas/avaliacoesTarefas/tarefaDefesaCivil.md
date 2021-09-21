@@ -14,7 +14,7 @@
 
 <p align = "justify">  &emsp;&emsp; A entrevista será realizada pela plataforma "jitsi meet", no dia 19 de setembro de 2021.</p>
 
-### 2.1 Participantes
+### 2.1. Participantes
 
 |Função| Participante|
 |--|--|
@@ -22,7 +22,7 @@
 |Entrevistado|Marcus Marquetti|
 |Cinegrafista|Maria Clara Fernandes|
 
-### 2.2 Materiais
+### 2.2. Materiais
 
 <p align = "justify">  &emsp;&emsp; Para a execução desta entrevista foram necessários os seguintes materiais:</p>
 
