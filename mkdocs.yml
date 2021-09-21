@@ -44,11 +44,13 @@ nav:
     - Nível 2:
       - Protótipo de Papel:
         - Protótipo de Papel: "nivel2/prototipo.md"
+        - Planejamento de Avaliação: "nivel2/planejamento.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
     - Ponto de Controle 3: "apresentacoes/p3.md"
     - Ponto de Controle 4: "apresentacoes/p4.md"
+    - Ponto de Controle 5: "apresentacoes/p5.md"
 
 markdown_extensions:
   - attr_list
