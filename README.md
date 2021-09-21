@@ -5,7 +5,7 @@
 </center>
 
 ## Sobre o Projeto 
-<p align="justify">&emsp;&emsp; O objetivo deste projeto é analisar o domínio da <a href="https://concordia.atende.net">Prefeitura de Concórdioa</a>, a fim de estudar erros de usabilidade e propor sugestões de melhora e reprojeto. Com isso, seguindo o design de projeto proposto por Mayhew, além das diversas técnicas ensinadas durante a disciplina de Interação Humano Computador ministrarada pelo professor André Barros, da Universidade de Brasília, serão utilizadas para esse fim.</p>
+<p align="justify">&emsp;&emsp; O objetivo deste projeto é analisar o domínio da <a href="https://concordia.atende.net">Prefeitura de Concórdia</a>, a fim de estudar erros de usabilidade e propor sugestões de melhora e reprojeto. Com isso, seguindo o design de projeto proposto por Mayhew, além das diversas técnicas ensinadas durante a disciplina de Interação Humano Computador ministrarada pelo professor André Barros, da Universidade de Brasília, serão utilizadas para esse fim.</p>
   
 <p align="justify">&emsp;&emsp;O site da Prefeitura de Concórdia, é um domínio do governo onde os moradores de Concórdia podem usufruir para acessar e emitir diversos documentos, aprender mais sobre a história de sua cidade, visualizar notícias, entre muitas outras funções disponíveis nesse website.</p>
 
