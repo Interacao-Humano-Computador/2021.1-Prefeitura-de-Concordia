@@ -14,7 +14,7 @@
 <p style="text-align: justify; text-indent: 20px"> Em seguida, cada inspetor preparou um documento contendo perguntas e critérios que deveriam ser atendidos pelos artefatos que estavam sendo verificados. Para isso, utilizou-se a técnica de inspeção por <i>Checklist</i>, onde cada tópico poderia ser respondido com "✅" (Sim) ou "❌" (Não).</p>
 
 ### 3.3 Verificação e Documentação
-<p style="text-align: justify; text-indent: 20px"> Após realizada a preparação, cada inspertor realizou a verificação dos documentos de acordo com os tópicos presentes nos <i>Checklists</i>, e em seguida documentou todos as informações, de forma à esclarecer os principais defeitos encontrados e suas possíveis correções.</p>
+<p style="text-align: justify; text-indent: 20px"> Após realizada a preparação, cada inspetor realizou a verificação dos documentos de acordo com os tópicos presentes nos <i>Checklists</i>, e em seguida documentou todos as informações, de forma à esclarecer os principais defeitos encontrados e suas possíveis correções.</p>
 
 ### 3.4 Retrabalho
 <p style="text-align: justify; text-indent: 20px"> Por fim, a etapa final constitui da análise dos defeitos encontrados e aplicação das possíveis correções e retrabalhos documentados na fase anterior.</p>
