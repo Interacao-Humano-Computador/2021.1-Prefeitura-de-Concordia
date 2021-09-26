@@ -50,6 +50,8 @@
 <center>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTcnHzuI2BWJwdXK6aB1mpXktEJaBdX-2o4gHAS2RIel6y2FdxmWenphvThM4pvym1j47dBY6sxYGQD/pubchart?oid=1212844963&amp;format=interactive"></iframe>
 </center>
+<h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
+<h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>

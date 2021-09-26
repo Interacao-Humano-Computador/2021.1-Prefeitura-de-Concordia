@@ -43,6 +43,8 @@
 <!-- Eu fiz um template no planilhas pra gerar o gráfico, usem ele:
 https://docs.google.com/spreadsheets/d/11GlUNzYcxScAK_wkbOjoGplq6nsdGeo4iLWcwcpgdtk/edit?usp=sharing-->
 </center>
+<h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
+<h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
