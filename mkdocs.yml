@@ -45,6 +45,8 @@ nav:
       - Protótipo de Papel:
         - Protótipo de Papel: "nivel2/prototipo.md"
         - Planejamento de Avaliação: "nivel2/planejamento.md"
+  - Verificação:
+    - Storyboards: "verificacao/storyboards.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
