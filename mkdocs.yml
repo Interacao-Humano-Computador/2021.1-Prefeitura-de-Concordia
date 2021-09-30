@@ -30,13 +30,14 @@ nav:
     - Guia de estilo: "analiseRequisitos/guiaDeEstilo.md"
     - Metas de Usabilidade: "analiseRequisitos/metasUsabilidade.md"
     - Características da Plataforma: "analiseRequisitos/caracteristicasDaPlatafoma.md"
+  - Análise de Tarefas:
+    - Árvores de Tarefas Concorrentes CTT: "analiseTarefas/ctt.md"
+    - Análise de Tarefa KLM: "analiseTarefas/klm.md"
+    - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
+    - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-      - Análise de Tarefas:
-        - Árvores de Tarefas Concorrentes CTT: "analiseTarefas/ctt.md"
-        - Análise de Tarefa KLM: "analiseTarefas/klm.md"
-        - Análise Hierárquica de Tarefa HTA: "analiseTarefas/hta.md"
-        - Análise de Tarefa CMN: "analiseTarefas/cmn.md"
+      - Análise de tarefas:
         - Planejamento e Avaliação das Análises de Tarefas: "analiseTarefas/planejamentoAvaliacaoAnaliseTarefa.md"
       - Storyboards:
         - Storyboards: "nivel1/storyboards.md"

@@ -9,7 +9,7 @@
 <p align = "justify"> &emsp;&emsp; Como já explicado anteriormente, a preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa <i>et al.</i>, 2021, pág. 106)[1], e com o objetivo de conduzir a avaliação das análises de tarefas da Prefeitura de Concórdia, a criação e utilização desse documento se faz essencial.</p>
 
 ## 3. Escopo
-<p align = "justify"> &emsp;&emsp; O escopo dessa avaliação se limita ao site da Prefeitura de Concórdia, onde no nível 1 do ciclo de vida de Mayhew [1], foram produzidos os artefatos sobre a análise de tarefas <a href="../ctt" target="_blanck">CTT</a>, <a href="../klm" target="_blanck">KLM</a>, <a href="../hta" target="_blanck">HTA</a> e <a href="../cmn" target="_blanck">CMN GOMS</a>.</p>
+<p align = "justify"> &emsp;&emsp; O escopo dessa avaliação se limita ao site da Prefeitura de Concórdia, onde no nível 1 do ciclo de vida de Mayhew [1], foram produzidos os artefatos sobre a análise de tarefas <a href="../ctt">CTT</a>, <a href="../klm">KLM</a>, <a href="../hta">HTA</a> e <a href="../cmn">CMN GOMS</a>.</p>
 
 ## 3. Metodologia
 <p align = "justify"> &emsp;&emsp; A metodologia utilizada para a estruturação desse documento é baseada no <i>Framework</i> <b>DECIDE</b>, argumentada por Sharp, Rogers e Preece (2007). O nome desse <i>framework</i> é um acrônimo que pode ser sintetizado nos seguintes tópicos:</p>
@@ -20,7 +20,7 @@
 - <b>D</b>ecidir como lidar com as questões éticas;
 - <b>E</b>valuate (avaliar), interpretar e apresentar os dados coletados;
 
-<p align = "justify"> &emsp;&emsp; De acordo com o <i>Framwork</i> <b>DECIDE</b> e com as diversas técnicas apresentadas por Barbosa <i>et al.</i> [1], o método escolhido para a avaliação foi o de <b>Participação Ativa</b> em um <b>Percurso Cognitivo</b>, através de <b>Entrevistas</b> com as personas pensadas para o projeto. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva, além da impossibilidade momentânea de se realizar entrevistas com os usuários reais da aplicação.</p>
+<p align = "justify"> &emsp;&emsp; De acordo com o <i>Framework</i> <b>DECIDE</b> e com as diversas técnicas apresentadas por Barbosa <i>et al.</i> [1], o método escolhido para a avaliação foi o de <b>Participação Ativa</b> em um <b>Percurso Cognitivo</b>, onde o usuário percorrerá o domínio da Prefeitura de Concórida de acordo com o instruido pelo avaliador, através de uma <b>Entrevistas</b> com as <b>Personas</b> do projeto, para então comparar com as análises de tarefas confeccionadas pelo grupo. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva.</p>
 
 ## 4. Roteiro
 <p align = "justify"> &emsp;&emsp; Levando em conta os objetivos de um planejamento, foi preparado um roteiro contendo as perguntas que serão utilizadas durante as entrevistas, sendo possível também a adição de novas perguntas durante a entrevista.</p>
