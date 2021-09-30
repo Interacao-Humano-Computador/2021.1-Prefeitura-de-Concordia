@@ -5,10 +5,10 @@
 
 ## 2. Introdução
 <p align = "justify"> &emsp;&emsp; A avaliação de IHC é uma atividade essencial, quando se busca produzir sistemas interativos de alta qualidade e que atenda as necessidades dos usuários. Além disso, a avaliação orienta o avaliador no julgamento do software analisado, bem como, auxilia na identificação de problemas de interação na interface que prejudiquem a experiência do usuário.</p>
-<p align = "justify"> &emsp;&emsp; Como já explicado anteriormente, a preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa <i>et al.</i>, 2021, pág. 106)[1], e com o objetivo de conduzir a avaliação das análises de tarefas da Prefeitura de Concórdia, a criação e utilização desse documento se faz essencial.</p>
+<p align = "justify"> &emsp;&emsp; Como já explicado anteriormente, a preparação de uma avaliação permite a condução de um avaliador para que forneça resultados úteis e confiáveis. Dessa forma, seguindo o ciclo de vida de Mayhew (Barbosa <i>et al.</i>, 2021, pág. 106)[1], e com o objetivo de conduzir a avaliação do protótipo de papel da Prefeitura de Concórdia, a criação e utilização desse documento se faz essencial.</p>
 
 ## 3. Escopo
-<p align = "justify"> &emsp;&emsp; O escopo dessa avaliação se limita ao site da Prefeitura de Concórdia, onde no nível 2 do ciclo de vida de Mayhew [1], foi produzido o seguinte <a href="../prototipoPapel" target="_blanck">Protótipo de Papel</a>.</p>
+<p align = "justify"> &emsp;&emsp; O escopo dessa avaliação se limita ao site da Prefeitura de Concórdia, onde no nível 2 do ciclo de vida de Mayhew [1], foi produzido o seguinte <a href="../prototipo" target="_blanck">Protótipo de Papel</a>.</p>
 
 ## 3. Metodologia
 <p align = "justify"> &emsp;&emsp; A metodologia utilizada para a estruturação desse documento é baseada no <i>Framework</i> <b>DECIDE</b>, argumentada por Sharp, Rogers e Preece (2007). O nome desse <i>framework</i> é um acrônimo que pode ser sintetizado nos seguintes tópicos:</p>
@@ -19,7 +19,7 @@
 - <b>D</b>ecidir como lidar com as questões éticas;
 - <b>E</b>valuate (avaliar), interpretar e apresentar os dados coletados;
 
-<p align = "justify"> &emsp;&emsp; De acordo com o <i>Framework</i> <b>DECIDE</b> e com as diversas técnicas apresentadas por Barbosa <i>et al.</i> [1], o método escolhido para a avaliação foi o de <b>Participação Ativa</b> em um <b>Percurso Cognitivo</b>, onde o usuário percorrerá o protótipo de baixa fidelidade de acordo com o instruido pelo avaliador, através de uma <b>Entrevistas</b> com <b>moradores reais</b> da cidade de Concórdia. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva, além de a partir de agora ser possível realizar entrevistas <i>onlines</i> com os usuários reais do domínio.</p>
+<p align = "justify"> &emsp;&emsp; De acordo com o <i>Framework</i> <b>DECIDE</b> e com as diversas técnicas apresentadas por Barbosa <i>et al.</i> [1], o método escolhido para a avaliação foi o de <b>Participação Ativa</b> em um <b>Percurso Cognitivo</b>, onde o usuário percorrerá o protótipo de baixa fidelidade de acordo com o instruido pelo avaliador, através de uma <b>Entrevistas</b> com <b>pessoas reais</b>. A escolha por essa técnica se deve pela capacidade de obtenção de respostas de uma forma rápida e efetiva, além de a partir de agora ser possível realizar entrevistas <i>onlines</i> com os possíveis usuários reais do domínio.</p>
 
 ## 4. Roteiro
 <p align = "justify"> &emsp;&emsp; Levando em conta os objetivos de um planejamento, foi preparado um roteiro contendo as perguntas que serão utilizadas durante as entrevistas, sendo possível também a adição de novas perguntas durante a entrevista.</p>
