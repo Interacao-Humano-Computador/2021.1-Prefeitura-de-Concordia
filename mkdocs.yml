@@ -45,6 +45,9 @@ nav:
       - Protótipo de Papel:
         - Protótipo de Papel: "nivel2/prototipo.md"
         - Planejamento de Avaliação: "nivel2/planejamento.md"
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento de Avaliação: "nivel3/planejamento.md"
   - Verificação:
     - Introdução: "verificacao/introducao.md"
     - Características da Plataforma: "verificacao/caracteristicas_da_plataforma.md"
