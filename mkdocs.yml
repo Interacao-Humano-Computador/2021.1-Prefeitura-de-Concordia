@@ -48,6 +48,7 @@ nav:
     - Nível 3:
       - Protótipo de Alta Fidelidade:
         - Planejamento de Avaliação: "nivel3/planejamento.md"
+        - Protótipo de alta: "nivel3/prototipo.md"
   - Verificação:
     - Introdução: "verificacao/introducao.md"
     - Características da Plataforma: "verificacao/caracteristicas_da_plataforma.md"
