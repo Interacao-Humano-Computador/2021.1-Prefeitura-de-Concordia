@@ -12,7 +12,7 @@
 
 
 ## 3. Metodologia
-<p align = "justify"> &emsp;&emsp; A metodologia a ser utilizada, foi definida pelo próprio time, que uma parte da equipe ficaria responsável pelo desenvolvimento do protótipo de alta fidelidade, nesse consenso foi aberto issues em relação a esse tópico e foi feito discussões pela equipe, principalmente pelo feedback que obtivemos do protótipo de baixa fidelidade. Após essas discussões, os protótipos de alta foram feito no Figma onde receberão todas a telas discutidas e os mesmo receberam um fluxo possiveis para cada página </p>
+<p align = "justify"> &emsp;&emsp; A metodologia a ser utilizada foi baseada no framework DECIDE junto com entrevistas utilizado no protótipo, e foi definida pelo time, que uma parte da equipe ficaria responsável pelo desenvolvimento do protótipo de alta fidelidade, nesse consenso foi aberto issues em relação a esse tópico e foi feito discussões pela equipe, principalmente pelo feedback que obtivemos do protótipo de baixa fidelidade. Após essas discussões, os protótipos de alta foram feito no Figma onde receberão todas a telas discutidas e os mesmo receberam um fluxo possiveis para cada página </p>
  
 ## 4. Resultados
 <p align = "justify"> &emsp;&emsp; Para a prototipação de alta, foram escolhidas algumas funcionalidades e páginas  já levantadas no protótipo de baixa fidelidade. No final foi produzido as seguintes páginas.</p>
