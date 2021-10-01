@@ -17,7 +17,9 @@
 ## 4. Resultados
 <p align = "justify"> &emsp;&emsp; Para a prototipação de alta, foram escolhidas algumas funcionalidades e páginas  já levantadas no protótipo de baixa fidelidade. No final foi produzido as seguintes páginas.</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/uG0tujTW6YpcUEgM43CDxW/Concordia?node-id=114%3A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuG0tujTW6YpcUEgM43CDxW%2FConcordia%3Fnode-id%3D114%253A2" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuG0tujTW6YpcUEgM43CDxW%2FConcordia%3Fnode-id%3D289%253A382%26scaling%3Dscale-down%26page-id%3D114%253A2%26starting-point-node-id%3D289%253A382" allowfullscreen></iframe>
 
 
 
