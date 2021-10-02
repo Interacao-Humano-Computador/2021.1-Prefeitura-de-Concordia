@@ -59,6 +59,7 @@ nav:
     - Ponto de Controle 3: "apresentacoes/p3.md"
     - Ponto de Controle 4: "apresentacoes/p4.md"
     - Ponto de Controle 5: "apresentacoes/p5.md"
+    - Ponto de Controle 6: "apresentacoes/p6.md"
 
 markdown_extensions:
   - attr_list
