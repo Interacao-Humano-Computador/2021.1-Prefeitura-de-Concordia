@@ -20,7 +20,6 @@
 |6|É possível realizar a interação com o protótipo ?|
 |7|A preparação da avaliação possui um termo de consentimento ?|
 |8|Foi realizado um teste-piloto ?|
-|9|A preparação da avaliação possui as funcionalidades à serem avaliadas ?|
 
 </center>
 <center>
@@ -44,7 +43,6 @@
 |6|✅|
 |7|✅|
 |8|❌|
-|9|✅|
 
 
 </center>
@@ -55,8 +53,7 @@
 ## 5. Apresentação Gráfica
 <p style="text-align: justify; text-indent: 20px"> Realizada a verificação, foi gerado um gráfico para representação visual dos tópicos analisados no <i>checklist</i>, que pode ser visto a seguir:</p>
 <center>
-<!-- Eu fiz um template no planilhas pra gerar o gráfico, usem ele:
-https://docs.google.com/spreadsheets/d/11GlUNzYcxScAK_wkbOjoGplq6nsdGeo4iLWcwcpgdtk/edit?usp=sharing-->
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJA73H7ExHiy52VDh0W-JkWAvrnMt4SeLn86CmYt_79n47fYS5bzr-6D44na-gz88MkC5x-HDhdTcj/pubchart?oid=1212844963&amp;format=interactive"></iframe>
 </center>
 <h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
 <h6 align="center">Fonte: Autor</h6>
@@ -64,9 +61,7 @@ https://docs.google.com/spreadsheets/d/11GlUNzYcxScAK_wkbOjoGplq6nsdGeo4iLWcwcpg
 ## 6. Resultados
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
-- Corrigir erro 1 (Qual documento ta o erro ex.: Storyboard 1)
-- Corrigir erro 2 (mesma coisa, colocar o documento)
-- Corrigir erro x
+- Realizar um teste-piloto com o protótipo
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
