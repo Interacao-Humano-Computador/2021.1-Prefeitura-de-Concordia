@@ -24,7 +24,7 @@
 - Teclado e mouse para digitação e interação.
 
 ## 3. Questões práticas
-<p align = "justify">  &emsp;&emsp; Entrevista foi feita realizada no dia 29/09/2021 e durou cerca de 20 minutos</p>
+<p align = "justify">  &emsp;&emsp; Entrevista foi realizada no dia 29/09/2021 e durou cerca de 20 minutos.</p>
 
 ## 4. Questões éticas
 <p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
@@ -53,7 +53,7 @@
 ## 6. Relatório de resultados
 ### 6.1. Perspectiva do participante
 <p align = "justify">  &emsp;&emsp; O participante teve bastante dificuldade na utilização do site da Prefeitura de Concórdia, afirmando que o domínio é complexo e as opções são confusas. O mesmo ainda citou que o uso excessivo de menus e submenus para as diversas funcionalidades da aplicação tornou ainda mais confusa a sua utilização.</p>
-<p align = "justify">  &emsp;&emsp; Foi citado também que o site da Prefeitura de Concórida não possui uma linha lógica e que muitas informações são apresentadas na tela do usuário, o que causa desconforto, confusão e perda de produtividade na utilização das funcionalidades.</p>
+<p align = "justify">  &emsp;&emsp; Foi citado também que o site da Prefeitura de Concórdia não possui uma linha lógica e que muitas informações são apresentadas na tela do usuário, o que causa desconforto, confusão e perda de produtividade na utilização das funcionalidades.</p>
 
 ### 6.2. Problemas observados
 - O protótipo não apresenta uma área para realizar pesquisas, que foi bastante usada e citada pelo entrevistado.

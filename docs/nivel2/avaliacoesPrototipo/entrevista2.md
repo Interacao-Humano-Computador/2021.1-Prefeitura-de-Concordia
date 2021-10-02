@@ -24,7 +24,7 @@
 - Teclado e mouse para digitação e interação.
 
 ## 3. Questões práticas
-<p align = "justify">  &emsp;&emsp; Entrevista foi feita realizada no dia 29/09/2021 e durou cerca de 20 minutos</p>
+<p align = "justify">  &emsp;&emsp; Entrevista foi realizada no dia 29/09/2021 e durou cerca de 20 minutos</p>
 
 ## 4. Questões éticas
 <p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
@@ -59,7 +59,7 @@
 - Assim como relatado anteriormente, o entrevistado também não percebeu a mudança para a página de notícias.
 
 ### 6.3. Sugestões de melhorias
-- Alterar a forma como é apresentada a página de notícias ou enviar um feedback visual em relação a alteração das páginas.
+- Alterar como é apresentada a página de notícias ou enviar um feedback visual em relação a alteração das páginas.
 
 ## 7. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
