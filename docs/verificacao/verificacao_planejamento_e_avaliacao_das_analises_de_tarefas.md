@@ -19,7 +19,7 @@
 |5|As perguntas elaboradas no roteiro podem ser usadas para obter informações de qualidade ?|
 |6|As perguntas elaboradas no roteiro ajudam a obter informações para a realização de outras etapas do projeto ?|
 |7|Os resultados foram apresentados?|
-|8|Houve abrordagem de mais de uma metodologia de avaliação de tarefas?|
+|8|Houve abordagem de mais de uma metodologia de avaliação de tarefas?|
 
 </center>
 
