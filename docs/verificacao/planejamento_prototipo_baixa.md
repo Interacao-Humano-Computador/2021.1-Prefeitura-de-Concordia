@@ -10,15 +10,19 @@
 
 <center>
 
-|Número|Questão|
+| Número | Questão |
 |---|---|
-| 1 | Os títulos condizem com a tarefa proposta? |
-| 2 | A ortografia ou formatação estão corretas? |
+| 1 | A ortografia ou formatação estão corretas? |
+| 2 | Os links estão corretos? |
 | 3 | As imagens possuem legenda? |
-| 4 | O documento segue o padrão estabelecido pelo grupo? |
-| 5 | Existe uma introdução ao conceito abordado? |
-| 6 | Os links estão corretos? |
-| 7 | A referência está documentada de forma correta? |
+| 4 | Os links estão corretos? |
+| 5 | A referência está documentada de forma correta ? |
+| 6 | O método DECIDE foi empregado de maneira correta? |
+| 7 | Existe um roteiro pré-determinado? |
+| 8 | As perguntas elaboradas no roteiro podem ser usadas para obter informações de qualidade? |
+| 9 | As perguntas elaboradas no roteiro ajudam a obter informações para a realização de outras etapas do projeto? |
+
+
 
 </center>
 
@@ -29,15 +33,17 @@
 
 <center>
 
-|Número|Questão|
-|--|--|
-| 1 | ✅ |
-| 2 | ✅ |
-| 3 | ❌ |
-| 4 | ✅ |
-| 5 | ✅ |
-| 6 | ✅ |
-| 7 | ✅ |
+| Documento | Planejamento e avaliação | Entrevista 1 | Entrevista 2 |
+|---|---|---|---|
+| Questão 1 | ✅ | ✅ | ✅ |
+| Questão 2 | ✅ | ✅ | ✅ |
+| Questão 3 | ❌ | ❌ | ❌ |
+| Questão 4 | ✅ | ✅ | ✅ |
+| Questão 5 | ✅ | ✅ | ✅ |
+| Questão 6 | - | ✅ | ✅ |
+| Questão 7 | - | ✅ | ❌ |
+| Questão 8 | - | ✅ | ✅ |
+| Questão 9 | - | ✅ | ✅ |
 
 </center>
 
@@ -47,9 +53,7 @@
 ## 5. Apresentação Gráfica
 <p style="text-align: justify; text-indent: 20px"> Realizada a verificação, foi gerado um gráfico para representação visual dos tópicos analisados no <i>checklist</i>, que pode ser visto a seguir:</p>
 <center>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQyL8FWNYDHG5CG9O0yCNbEqGwAINjjpkUaE6-Z821NaZ4kNcIHi3X_rpea4UkTQ43h1R1z1SNG59Fm/pubchart?oid=438876594&amp;format=interactive"></iframe>
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRtNszcbO41oGCV9pO9IyqSPR4YVXI3taHdkrXEbTQ2YNeAUQ97XLm_LexRWBTBGiAaSWQNwf2260ES/pubchart?oid=401406549&amp;format=interactive"></iframe>
 </center>
 <h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
 <h6 align="center">Fonte: Autor</h6>
