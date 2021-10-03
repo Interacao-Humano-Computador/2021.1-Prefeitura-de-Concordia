@@ -56,6 +56,15 @@ nav:
     - Storyboards: "verificacao/storyboards.md"
     - Análise de Tarefas: "verificacao/analise-de-tarefas.md"
     - Protótipo de Alta Fidelidade: "verificacao/prototipo_alta_fidelidade.md"
+    - Questionário e Perfil e Usuário: "verificacao/questionário-e-perfil-e-usuário.md"
+    - Metas e Usabilidade: "verificacao/metas-e-usabilidade.md"
+    - Planejamento e avaliação dos Storyboard: "verificacao/planejamento_storyboard.md"
+    - Protótipo de Baixa Fidelidade: "verificacao/prototipo_baixa_fidelidade.md"
+    - Planejamento e Avaliação do Protótipo de Baixa Fidelidade: "verificacao/planejamento_prototipo_baixa.md"
+    - Protótipo de Alta Fidelidade: "verificacao/prototipo_alta_fidelidade.md"
+    - Planejamento e Avaliação do Protótipo de Alta Fidelidade: "verificacao/planejamento-avaliaca-alta-fidelidade.md"
+    - Entrevistas: "verificacao/entrevistas.md"
+    - Personas: "verificacao/personas.md"
 
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
