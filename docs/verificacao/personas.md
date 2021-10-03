@@ -14,8 +14,11 @@
 |:-:|--|
 |1|O documento está ortograficamente correto ?|
 |2|As personas foram bem definidas ?|
-|3|O grupo de personas cobrem todas as faixa etárias dos usuários do sistema ?|
-|4|As personas cobrem os grupo de usuários do sistema ?|
+|3|As descrições das personas seguem um determinado padrão ?|
+|4|As persona descreve um usuário típico?|
+|5|O grupo de personas cobrem todas as faixa etárias dos usuários do sistema ?|
+|6|As personas cobrem os grupo de usuários do sistema ?|
+|7|As personas possuem ideias de como devem ser as funcionalidades da aplicação ?|
 
 
 </center>
@@ -34,7 +37,9 @@
 |2|✅|
 |3|❌|
 |4|❌|
-
+|5|✅|
+|6|✅|
+|7|✅|
 </center>
 
 <h6 align="center">Tabela 2: Verificação do documento</h6>
