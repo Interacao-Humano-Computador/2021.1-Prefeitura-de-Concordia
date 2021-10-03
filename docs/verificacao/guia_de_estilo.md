@@ -18,7 +18,7 @@
 |4|A estrutura do artefato está de acordo com o padrão Marcus/Mayhew?|
 |5|As decisões de design foram listadas corretamente?|
 |6|Existem imagens do site para a referência visual?|
-|7|Foi definido a disposicao espacial e grid para mais de uma página?|
+|7|Foi definido a disposição espacial e grid para mais de uma página?|
 
 </center>
 
