@@ -52,7 +52,7 @@
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
 - Correção de erros ortográficos no Metas de usabilidade ( se refere a facilidade de aprendizagem de utilização de um sistema)
-- Correção de erros ortográficos no Metas de usabilidade ( O usuário tem facilidade em aprender à usar o site ?)
+- Correção de erros ortográficos no Metas de usabilidade ( O usuário tem facilidade em aprender a usar o site ?)
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
