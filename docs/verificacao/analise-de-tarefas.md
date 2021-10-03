@@ -13,11 +13,10 @@
 |Número|Questão|
 |--|--|
 |1|O documento está ortograficamente correto ?|
-|2|O documento apresenta as analises de tarefas de forma clara??|
+|2|O documento apresenta as analises de tarefas de forma clara?|
 |3|O documento apresenta planejamento ?|
-|4|São especificadas os principais artefatos ?|
-|5|Os artefato que representam os GOMS foram produzidos ?|
-|6|O documento apresenta os artefatos HTA e CTT ?|
+|4|O documento apresenta padronização?|
+|5|O documento apresenta conerência com o projeto?|
 
 </center>
 
@@ -29,14 +28,13 @@
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
 
-|Número|Analise de tarefas|
-|:-:|:-:|
-|1|✅|
-|2|✅|
-|3|✅|
-|4|✅|
-|5|✅|
-|6|✅|
+|Número| CMM| CTT| HTA| KLM|
+|:-:|:-:|:-:|:-:|:-:|
+|1|❌|❌|❌|❌|
+|2|✅|✅|✅|✅|
+|3|✅|✅|✅|✅|
+|4|✅|✅|✅|✅|
+|5|✅|✅|✅|✅|
 
 
 </center>
@@ -53,7 +51,12 @@
 <h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
-<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que não foram encontrados nenhum defeitos no artefato.
+<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
+- Correção de erros ortográficos no CTT (Nomenclaturas Utilizadas)
+- Correção de erros ortográficos no CMM (algumas tarefas comuns dentro do site.)
+- Correção de erros ortográficos no HTA (Nomenclaturas Utilizadas)
+- Correção de erros ortográficos no KLM (Durante a navegação)
+ 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
