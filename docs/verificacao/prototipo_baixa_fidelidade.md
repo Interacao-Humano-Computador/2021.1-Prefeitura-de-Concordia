@@ -15,7 +15,7 @@
 |1|O documento está ortograficamente correto ?|
 |2|A metodologia foi definida ?|
 |3|São especificadas as tecnologias utilizadas no protótipo ?|
-|4|Foram definidas e realizadas as funcionalidades principais que serão realizadas no protótipo ? |
+|4| O protótipo abrange as principais funcionalidades do site ? |
 |5|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
 |6|É possível realizar a interação com o protótipo ?|
 |7|A preparação da avaliação possui um termo de consentimento ?|
@@ -38,7 +38,7 @@
 |1|✅|
 |2|✅|
 |3|✅|
-|4|✅|
+|4|❌|
 |5|✅|
 |6|✅|
 |7|✅|
