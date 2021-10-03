@@ -12,6 +12,7 @@
 | Github | ![github](../images/planejamento/github.png){: style="height:10vh;"}  |Hospedador do repositório onde o projeto ficará armazenado.|
 | Google drive | ![Google drive](../images/planejamento/googleDrive.png){: style="height:10vh;"}  |Hospedador de arquivos relacionados a entrega, como apresentação em vídeo e entre outros relacionados.|
 | Telegram  | ![Telegram](../images/planejamento/telegram.png){: style="height:10vh;"}  |Aplicativo de mensagem de texto para comunicação rápida.|
+| Storyboard That | ![Storyboard That](../images/planejamento/storyboardThat.png){: style="height>10vh"}  |Aplicativo de criação de storyboards.|
 | Figma | ![Figma](../images/planejamento/figma.svg){: style="height:10vh;"}  |Editor gráfico vetorizado para prototipações.|
 
 
