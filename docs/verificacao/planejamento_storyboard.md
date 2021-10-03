@@ -22,8 +22,6 @@
 | 8 | As perguntas elaboradas no roteiro podem ser usadas para obter informações de qualidade? |
 | 9 | As perguntas elaboradas no roteiro ajudam a obter informações para a realização de outras etapas do projeto? |
 
-
-
 </center>
 
 <h6 align="center">Tabela 1: Questões para verificação.</h6>
@@ -33,17 +31,17 @@
 
 <center>
 
-| Documento | Planejamento e avaliação | Avaliação 1 | Avaliação 2 | Avaliação 3 |
-|---|---|---|---|---|
-| Questão 1 | ✅ | ✅ | ✅ | ✅ |
-| Questão 2 | ✅ | ✅ | ✅ | ✅ |
-| Questão 3 | ❌ | ❌ | ❌ | ❌ |
-| Questão 4 | ✅ | ✅ | ✅ | ✅ |
-| Questão 5 | ✅ | ✅ | ✅ | ✅ |
-| Questão 6 | ✅ | ✅ | ✅ | ✅ |
-| Questão 7 | ✅ | ✅ | ✅ | ✅ |
-| Questão 8 | ✅ | ✅ | ✅ | ✅ |
-| Questão 9 | ✅ | ✅ | ✅ | ✅ |
+| Documento | Avaliação 1 | Avaliação 2 | Avaliação 3 |
+|---|---|---|---|
+| Questão 1 | ✅ | ✅ | ✅ |
+| Questão 2 | ✅ | ✅ | ✅ |
+| Questão 3 | ❌ | ❌ | ❌ |
+| Questão 4 | ✅ | ✅ | ✅ |
+| Questão 5 | ✅ | ✅ | ✅ |
+| Questão 6 | ✅ | ✅ | ✅ |
+| Questão 7 | ✅ | ✅ | ✅ |
+| Questão 8 | ✅ | ✅ | ✅ |
+| Questão 9 | ✅ | ✅ | ✅ |
 
 </center>
 
