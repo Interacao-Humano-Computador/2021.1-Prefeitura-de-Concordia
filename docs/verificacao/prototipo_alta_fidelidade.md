@@ -1,7 +1,7 @@
 ## 1. Versionamento
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
-||1.0|Criação do Documento||
+|01/10|1.0|Criação do Documento|João Pedro|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href=../../nivel3/prototipo>Protótipo de Alta Fidelidade</a>, a verificação em si e por fim sugestões de retrabalho.</p>
