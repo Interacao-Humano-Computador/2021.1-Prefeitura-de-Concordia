@@ -46,7 +46,7 @@
 ## 5. Apresentação Gráfica
 <p style="text-align: justify; text-indent: 20px"> Realizada a verificação, foi gerado um gráfico para representação visual dos tópicos analisados no <i>checklist</i>, que pode ser visto a seguir:</p>
 <center>
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMqKIVGDFj6Fa2nLQ-bth4oW5Txq5_AcFfj7R7s199o-nqeV8cfEGpBK3qzg60-exF9w9YiapS0LT8/pubchart?oid=1212844963&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTC8rV227yZ2ehBgViMsYmgBpd2S7A4qCXtAXy6S1LWAgnetgUJjlj2cuEfUviAAMO3SFHjqOBKI22/pubchart?oid=1212844963&amp;format=interactive"></iframe>
 </center>
 <h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
 <h6 align="center">Fonte: Autor</h6>
