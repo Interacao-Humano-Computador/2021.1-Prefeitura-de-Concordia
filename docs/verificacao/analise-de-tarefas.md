@@ -4,7 +4,7 @@
 |03/10|1.0|Criação do Documento|Francisco Ferreira|
 
 ## 2. Introdução
-<p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href=../../analiseTarefas/cmn>CMM</a>, <a href=../../analiseTarefas/ctt>CTT</a> , <a href=../../analiseTarefas/klm>KLM</a>, <a href=../../analiseTarefas/hta>HTA</a> a verificação em si e por fim sugestões de retrabalho.</p>
+<p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href=../../analiseTarefas/cmn>CMN</a>, <a href=../../analiseTarefas/ctt>CTT</a> , <a href=../../analiseTarefas/klm>KLM</a>, <a href=../../analiseTarefas/hta>HTA</a> a verificação em si e por fim sugestões de retrabalho.</p>
 
 ## 3. <i>Checklist</i>
 
