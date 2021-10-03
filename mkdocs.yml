@@ -54,8 +54,11 @@ nav:
     - Introdução: "verificacao/introducao.md"
     - Características da Plataforma: "verificacao/caracteristicas_da_plataforma.md"
     - Storyboards: "verificacao/storyboards.md"
+    - Protótipo de Baixa Fidelidade: "verificacao/prototipo_baixa_fidelidade.md"
     - Protótipo de Alta Fidelidade: "verificacao/prototipo_alta_fidelidade.md"
     - Planejamento e avaliação dos Storyboard: "verificacao/planejamento_storyboard.md"
+    - Entrevistas: "verificacao/entrevistas.md"
+    - Personas: "verificacao/personas.md"
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
