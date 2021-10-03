@@ -12,9 +12,9 @@
 
 |Número|Questão|
 |--|--|
-|1|O documento está ortograficamente correto ?|
-|2|O documento apresenta resultados dos questionarios ?|
-|3|O documento apresenta os principais perfies dos usuarios ?|
+|1|O documento está ortograficamente correto?|
+|2|O documento apresenta resultados dos questionários?|
+|3|O documento apresenta os principais perfis dos usuários?|
 |4|O documento mostra a análise dos dados coletados?|
 |5|O documento está padronizado?|
 
@@ -52,7 +52,7 @@
 <h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
-<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que não foram encontrados nenhum defeitos no artefato. </p>
+<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que não foram encontrados nenhum defeito no artefato. </p>
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
