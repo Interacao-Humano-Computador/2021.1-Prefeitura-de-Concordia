@@ -1,7 +1,7 @@
 ## 1. Versionamento
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
-||1.0|Criação do Documento||
+|03/10|1.0|Criação do Documento|Natanael|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href="../../nivel3/planejamento" >planejamento e avaliação do protótipo de alta fidelidade</a>, a verificação em si e por fim sugestões de retrabalho.</p>
