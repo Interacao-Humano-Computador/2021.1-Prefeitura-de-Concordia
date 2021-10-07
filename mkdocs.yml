@@ -68,7 +68,6 @@ nav:
     - Planejamento e Avaliação das Análises de Tarefas: "verificacao/verificacao_planejamento_e_avaliacao_das_analises_de_tarefas.md"
     - Princípios e Diretrizes: "verificacao/principios_e_diretrizes.md"
     - Guia de Estilo: "verificacao/guia_de_estilo.md"
-
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"
@@ -76,6 +75,7 @@ nav:
     - Ponto de Controle 4: "apresentacoes/p4.md"
     - Ponto de Controle 5: "apresentacoes/p5.md"
     - Ponto de Controle 6: "apresentacoes/p6.md"
+    - Ponto de Controle 7: "apresentacoes/p7.md"
 
 markdown_extensions:
   - attr_list
