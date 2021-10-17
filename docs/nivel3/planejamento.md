@@ -40,7 +40,9 @@
 <iframe width=900 height=1170 src="https://docs.google.com/document/d/e/2PACX-1vRst7C5KErUrXUm2BX243HzTZ4-4tCyDU2sTqkBrOqm07tKnzZZyXAzNrRbJkDGs0Z1qqreEeRNLimz/pub?embedded=true"></iframe>
 
 ## 7. Resultados
-<p align = "justify"> &emsp;&emsp; Por se tratar da preparação para a avaliação e devido ao fato desse documento estar em constante alteração, os resultados ainda não estão disponíveis para visualização.</p>
+<p align = "justify"> &emsp;&emsp; A seguir estão disponíveis os links de acesso às entrevistas realizadas pela equipe:</p>
+- <a href="../avaliacoesPrototipo/entrevista1">Entrevista 1</a>
+- <a href="../avaliacoesPrototipo/entrevista2">Entrevista 2</a>
 
 ## 8. Referências
 <p style="text-align: justify; text-indent: 20px">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Autopublicação. 2021.</p>
