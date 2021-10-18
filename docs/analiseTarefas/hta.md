@@ -8,7 +8,7 @@
 e quais as consequências caso não o façam corretamente. Ela se baseia em psicologia funcional, e não
 comportamental, como eram as abordagens da época em que foi criada.(Diniz, 2021, pág. 164-167)[1]. 
 </p>
-<p align = "justify"> &emsp;&emsp; O HTA, consiste em dividir atividade em tarefas, que são qualquer parte do trabalho que precisa ser realizada, além disso uma tarefa pode ser definida em objetivos e também em subobjetivos, dessa forma criando uma árvore hierárquica com vários níveis, que é de onde se deriva o seu nome, além disso os quadros podem indicar ou conter as ações que serão realizadas futuramente de acordo com a ordem, sequência ou seleção delas. 
+<p align = "justify"> &emsp;&emsp; O HTA, consiste em dividir atividade em tarefas, sendo qualquer parte do trabalho que precisa ser realizada, além disso, uma tarefa pode ser definida em objetivos e também em subobjetivos, dessa forma criando uma árvore hierárquica com vários níveis, sendo de onde se deriva o seu nome, além disso, os quadros podem indicar ou conter as ações que serão realizadas futuramente conforme a ordem, sequência ou seleção delas. 
 </p>
 
 <center><img src="../../images/analiseTarefas/HTAExemplo.png" width="800" height=auto></center>
@@ -33,7 +33,7 @@ comportamental, como eram as abordagens da época em que foi criada.(Diniz, 2021
 |0.Consultar informações sobre conselho tutelar|Tarefa que consiste em buscar informações sobre o conselho tutelar na prefeitura de concórdia|
 0.1. Clicar em botão para entrar na página de contato com o conselho tutelar 1/2/3|Objetivo que consiste em buscar o botão para a página de contato do conselho tutelar na página principal|
 |0.1.1 Visualizar o contato do conselho tutelar no final da página e realizar o telefonema|Operação que consiste em buscar o telefone ou email de contato do conselho tutelar na prefeitura de concórdia|
-|0.1.2 Clicar na Aba Contatos|Subobjetivo que consiste em buscar o botão para selecionar a aba de contatos|
+|0.1.2 Clicar na Aba contatos|Subobjetivo que consiste em buscar o botão para selecionar a aba de contatos|
 |0.1.2.1 Visualizar o contato do conselho tutelar no final da página e realizar o telefonema|Operação que consiste em buscar o telefone ou email de contato do conselho tutelar na prefeitura de concórdia|
 |0.1.3. Clicar na aba conselho tutelar |Subobjetivo que consiste em buscar o botão para selecionar a aba do conselho tutelar|
 |0.1.3.1 Clicar na Aba Arquivos |Subobjetivo que consiste em buscar o botão para selecionar a aba de arquivos, dentro da página do conselho tutelar|

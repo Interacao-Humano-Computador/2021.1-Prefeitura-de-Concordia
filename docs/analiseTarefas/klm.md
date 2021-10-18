@@ -7,7 +7,7 @@
 
 <p align = "justify"> &emsp;&emsp;  Incluso nos modelos da família GOMS, o KLM é uma técnica simples, onde visa analisar o tempo médio em que o usuário leva para executar tarefas durante navegação. A análise é feita a partir da definição da tarefa analisada, a utilização de operadores primitivos já definidos pela técnica, os quais auxiliam na diferenciação das ações, a descrições das ações e a demora de execução em segundos (BARBOSA, 2021, pág. 198)[1].</p>
 
-<p align = "justify"> &emsp;&emsp; Além disso, é comum que sistemas possuam mais de uma maneira para executar uma tarefa, sendo assim, a análise de tarefas KLM é capaz de evidenciar a diferença de eficiência entre as diversas formas de realização da tarefa  (BARBOSA, 2021, pág. 198-199)[1]. Um exemplo seria em aplicativos de edição de imagem o botão de salvar e a utilização das teclas "CTRL+S", que efetuam a mesma coisa, porém, uma diferença de rapidez considerável.[1]</p>
+<p align = "justify"> &emsp;&emsp; Além disso, é comum que sistemas possuam mais de uma maneira para executar uma tarefa, sendo assim, a análise de tarefas KLM consegue evidenciar a diferença de eficiência entre as diversas formas de realização da tarefa  (BARBOSA, 2021, pág. 198-199)[1]. Um exemplo seria em aplicativos de edição de imagem o botão de salvar e a utilização das teclas "CTRL+S", que efetuam a mesma coisa, porém, uma diferença de rapidez considerável.[1]</p>
 
 ## 2. Operadores primitivos
 
