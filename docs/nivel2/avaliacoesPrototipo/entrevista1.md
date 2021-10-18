@@ -30,6 +30,9 @@
 <p align = "justify">  &emsp;&emsp; A seguir consta o termo de consentimento: </p>
 <iframe width=900 height=1170 src="https://docs.google.com/document/d/e/2PACX-1vRst7C5KErUrXUm2BX243HzTZ4-4tCyDU2sTqkBrOqm07tKnzZZyXAzNrRbJkDGs0Z1qqreEeRNLimz/pub?embedded=true"></iframe>
 
+<h6 align = "center">Figura 1: Termo de consentimento de entrevista.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
 ## 5. Coleta de dados
 <p align = "justify">  &emsp;&emsp; Com está entrevista buscamos responder perguntas, que foram previamente preparadas, relacionadas ao protótipo de papel. Portanto, os seguintes questionários foram feitos</p>
 
