@@ -41,7 +41,10 @@
 
 <iframe width=900 height=1090 src="https://docs.google.com/document/d/e/2PACX-1vTSIZj8nqCPszx8uCQDf-lLUs-0N4OkujT2QMwv7w2bTF1BzAWnNl9BfyzXUMt2uCABUQIoXRh6pP4v/pub?embedded=true"></iframe>
 
-## 5. Resultados
+<h6 align = "center">Figura 1: Termo de consentimento de entrevista.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
+
+## 6. Resultados
 <p align = "justify"> &emsp;&emsp; A seguir, estão apresentados o planejamento e a avaliação de três dos Storyboards elaborados anteriormente:</p>
 
 - <a href="../avaliacoesStoryboards/storyboardIluminacao">Avaliação do Storyboard: Solicitar iluminação pública </a>
