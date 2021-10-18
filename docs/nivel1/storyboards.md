@@ -64,16 +64,16 @@
 |Atividade|Tarefa|Definição|
 |:-:|:--|:--|
 ||**Definição das pessoas envolvidas**|**Persona** Paulo Baruk|
-|**Preparo**|**Definição do ambiente da historia**| No escritório da persona junto com seu colega de trabalho|
-||**Definição da tarefa a ser abordada**| Acessar o portal da transparência para visualizar os gastos do municipio|
+|**Preparo**|**Definição do ambiente da historia**| No escritório da persona junto com seu colega de trabalho.|
+||**Definição da tarefa a ser abordada**| Acessar o portal da transparência para visualizar os gastos do município.|
 ||||
-||**Definição de quais passos estão envolvidos para realização da tarefa**|1. Acessar o portal da transparência.</br>2.Porcurar pelo processo específico no menu prinpal</br>3. Procurar documento sobre orçamento do governo municipal e abrir o documento. </br>|
-|**Sequência**|**Definição do que leva a pessoa a usar a aplicação**| Ter mas transparência sobre os gastos públicos|
+||**Definição de quais passos estão envolvidos para realização da tarefa**|1. Acessar o portal da transparência.</br>2.Procurar pelo processo específico no menu principal.</br>3. Procurar documento sobre orçamento do governo municipal e abrir o documento. </br>|
+|**Sequência**|**Definição do que leva a pessoa a usar a aplicação**| Ter mas transparência sobre os gastos públicos.|
 ||**Definição de qual e como a tarefa será ilustrada**| A persona quer saber quanto custou a obra publica na sua cidade, nesse caso a construção de uma nova escola.|
 ||||
 ||**Definição da motivação principal da pessoa que usa a aplicação**| Ter uma copia do orçamento da obra da sua cidade.|
-|**Satisfação**|**Definição das realizações que a aplicação permite**|É um dos meios mais rapidos, eficientes e baratos para mostrar a transparência dos gastos publicos|
-||**Definição das necessidades que a aplicação se propõe a sanar**|É uma das maneiras mais simples e rapidas para fazer a fiscalização do governo municipal atual, para evitar ao máximo o super faturamento do dinheiro público|
+|**Satisfação**|**Definição das realizações que a aplicação permite**|É um dos meios mais rápidos, eficientes e baratos para mostrar a transparência dos gastos públicos.|
+||**Definição das necessidades que a aplicação se propõe a sanar**|É uma das maneiras mais simples e rápidas para fazer a fiscalização do governo municipal atual, para evitar ao máximo o super faturamento do dinheiro público.|
 
 <h6 align = "center">Tabela 3: Tabela de storyboard para Acessar Dado de Gasto no Portal da Transparência .</h6>
 <h6 align = "center">Fonte: Autor.</h6>
