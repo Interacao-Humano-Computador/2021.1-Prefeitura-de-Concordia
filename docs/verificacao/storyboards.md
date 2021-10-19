@@ -14,12 +14,11 @@
 
 |Número|Questão|
 |--|--|
-|1|O documento está ortograficamente correto ?|
-|2|A atividade de preparo está bem definido ?|
-|3|A atividade de sequência está bem definida ?|
-|4|A atividade de satisfação está bem definido ?|
-|5|O storyboard representa o que foi abordado no detalhamento textual ?|
-|6|A situação descrita no storyboard condiz com a realidade ?|
+|1|A atividade de preparo está bem definido ?|
+|2|A atividade de sequência está bem definida ?|
+|3|A atividade de satisfação está bem definido ?|
+|4|O storyboard representa o que foi abordado no detalhamento textual ?|
+|5|A situação descrita no storyboard condiz com a realidade ?|
 
 </center>
 
@@ -33,12 +32,11 @@
 
 |Número|Storyboard 1|Storyboard 2|Storyboard 3|Storyboard 4|Storyboard 5|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|✅|✅|❌|✅|✅|
+|1|✅|✅|✅|✅|✅|
 |2|✅|✅|✅|✅|✅|
 |3|✅|✅|✅|✅|✅|
 |4|✅|✅|✅|✅|✅|
 |5|✅|✅|✅|✅|✅|
-|6|✅|✅|✅|✅|✅|
 
 </center>
 

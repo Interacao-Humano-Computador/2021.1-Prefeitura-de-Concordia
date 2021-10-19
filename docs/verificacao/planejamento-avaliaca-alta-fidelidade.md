@@ -13,17 +13,12 @@
 
 | Número | Questão |
 |---|---|
-| 1 | A ortografia ou formatação estão corretas? |
-| 2 | Os links estão corretos? |
-| 3 | As imagens possuem legenda? |
-| 4 | Os links estão corretos? |
-| 5 | A referência está documentada de forma correta ? |
-| 6 | A Metodologia foi especificada ? |
-| 7 | Existe um roteiro pré-determinado? |
-| 8 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
-| 9 | O relatório de resultados foi apresentado? |
-| 10 | Há um termo de consentimento? |
-| 11 | O video da entrevista foi postado? |
+| 1 | A Metodologia foi especificada ? |
+| 2 | Existe um roteiro pré-determinado? |
+| 3 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
+| 4 | O relatório de resultados foi apresentado? |
+| 5 | Há um termo de consentimento? |
+| 6 | O video da entrevista foi postado? |
 </center>
 
 <h6 align="center">Tabela 1: Questões para verificação.</h6>
@@ -41,10 +36,6 @@
 | Questão 4| ✅ | ✅ |
 | Questão 5| ✅ | ✅ |
 | Questão 6| ✅ | ✅ |
-| Questão 7| ✅ | ✅ |
-| Questão 8| ✅ | ✅ |
-| Questão 9| ✅ | ✅ |
-| Questão 10 | ✅ | ✅ |
 </center>
 
 <h6 align="center">Tabela 2: Verificação do documento</h6>

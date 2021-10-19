@@ -13,14 +13,13 @@
 
 |Número|Questão|
 |--|--|
-|1|O documento está ortograficamente correto ?|
-|2|A metodologia foi definida ?|
-|3|São especificadas as tecnologias utilizadas no protótipo ?|
-|4|É explicado quais páginas o protótipo abrange ? |
-|5|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
-|6|É possível realizar a interação com o protótipo ?|
-|7|A preparação da avaliação possui um termo de consentimento ?|
-|8|Foi realizado um teste-piloto ?|
+|1|A metodologia foi definida ?|
+|2|São especificadas as tecnologias utilizadas no protótipo ?|
+|3|É explicado quais páginas o protótipo abrange ? |
+|4|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
+|5|É possível realizar a interação com o protótipo ?|
+|6|A preparação da avaliação possui um termo de consentimento ?|
+|7|Foi realizado um teste-piloto ?|
 
 </center>
 <center>
@@ -42,8 +41,7 @@
 |4|✅|
 |5|✅|
 |6|✅|
-|7|✅|
-|8|❌|
+|7|❌|
 
 
 </center>
