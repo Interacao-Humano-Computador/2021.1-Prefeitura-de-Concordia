@@ -1,8 +1,5 @@
 ## 1. Versionamento
-|Data|Versão|Descrição|Autor(es)
-|--|--|--|--|
-|03/10/2021|1.0|Criação do Documento|Leonardo Takehana|
-|19/10/2021|1.1|Revisão do Documento|Leonardo Takehana|
+|19/10/2021|1.0|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href="https://interacao-humano-computador.github.io/2021.1-Prefeitura-de-Concordia/analiseTarefas/planejamentoAvaliacaoAnaliseTarefa/">Planejamento e Avaliação das Análises de Tarefas</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -11,18 +8,11 @@
 
 <center>
 
-| Número | Questão |
-|---|---|
 | 1 | A ortografia ou formatação estão corretas? |
 | 2 | Os links estão corretos? |
-| 3 | Os anexos possuem legenda? |
+| 3 | As imagens possuem legenda? |
 | 4 | A referência está documentada de forma correta ? |
-| 5 | A Metodologia foi especificada ? |
-| 6 | Existe um roteiro pré-determinado? |
-| 7 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
-| 8 | O relatório de resultados foi apresentado? |
-| 9 | Há um termo de consentimento? |
-| 10 | O video da entrevista foi postado? |
+
 </center>
 
 <h6 align="center">Tabela 1: Questões para verificação</h6>
@@ -32,18 +22,13 @@
 
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
-| Documento | CTT | KLM | HTA | CMN |
-|---|---|---|---|---|
-| Questão 1| ✅ | ✅ | ✅ | ✅ |
-| Questão 2| ✅ | ✅ | ✅ | ✅ |
-| Questão 3| ❌ | ❌ | ❌ | ❌ |
-| Questão 4| ✅ | ✅ | ✅ | ✅ |
-| Questão 5| ✅ | ✅ | ✅ | ✅ |
-| Questão 6| ✅ | ✅ | ✅ | ✅ |
-| Questão 7| ❌ | ✅ | ✅ | ✅ |
-| Questão 8| ✅ | ✅ | ✅ | ✅ |
-| Questão 9| ✅ | ✅ | ✅ | ✅ |
-| Questão 10| ❌ | ✅ | ❌ | ❌ |
+|Número|Questão|
+|:-:|:-:|
+|1|❌|
+|2|✅|
+|3|✅|
+|4|✅|
+|5|✅|
 
 </center>
 

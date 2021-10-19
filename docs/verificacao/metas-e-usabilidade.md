@@ -12,10 +12,9 @@
 
 | Número | Questão |
 |---|---|
-| 1 | A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares? |
-| 2 | A divisão de tópicos está bem definida no documento? |
-| 3 | O documento lista as principais metas de usabilidade? |
-| 4 | O documento apresenta imagens do site que contextualizam a aplicação das metas? |
+| 1 | A divisão de tópicos está bem definida no documento? |
+| 2 | O documento lista as principais metas de usabilidade? |
+| 3 | O documento apresenta imagens do site que contextualizam a aplicação das metas? |
 
 </center>
 
@@ -31,8 +30,7 @@
 |:-:|:-:|
 |1|✅|
 |2|✅|
-|3|✅|
-|4|❌|
+|3|❌|
 
 
 

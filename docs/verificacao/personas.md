@@ -13,11 +13,10 @@
 
 | Número | Questão |
 |---|---|
-| 1 | A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares? |
-| 2 | O documento apresenta uma descrição do que será abordado? |
-| 3 | A construção de personas segue um  padrão determinado? |
-| 4 | As personas são suficientes para cobrir os grupos de usuários do sistema? |
-| 5 | Está claro a existência de uma antipersona no projeto? |
+| 1 | O documento apresenta uma descrição do que será abordado? |
+| 2 | A construção de personas segue um  padrão determinado? |
+| 3 | As personas são suficientes para cobrir os grupos de usuários do sistema? |
+| 4 | Está claro a existência de uma antipersona no projeto? |
 
 </center>
 
@@ -33,9 +32,8 @@
 |---|---|
 | 1 | ✅ |
 | 2 | ✅ |
-| 3 | ✅ |
+| 3 | ❌ |
 | 4 | ❌ |
-| 5 | ❌ |
 
 </center>
 

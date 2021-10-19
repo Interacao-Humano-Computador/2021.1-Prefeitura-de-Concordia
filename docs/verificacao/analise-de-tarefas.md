@@ -12,10 +12,9 @@
 
 | Número | Questão |
 |---|---|
-| 1 | A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares? |
-| 2 | O documento apresenta uma descrição do que será abordado? |
-| 3 | Existe uso de linguagem não verbal para melhor visualização do documento? |
-| 4 | O documento exemplifica mais de uma tarefa? |
+| 1 | O documento apresenta uma descrição do que será abordado? |
+| 2 | Existe uso de linguagem não verbal para melhor visualização do documento? |
+| 3 | O documento exemplifica mais de uma tarefa? |
 
 </center>
 
@@ -29,10 +28,9 @@
 
 | Número | CMM | CTT | HTA | KLM |
 |---|---|---|---|---|
-| 1 | ❌ | ✅ | ❌ | ✅ |
-| 2 | ✅ | ✅ | ✅ | ✅ |
-| 3 | ✅ | ❌ | ❌ | ❌ |
-| 4 | ✅ | ✅ | ✅ | ✅ |
+| 1 | ✅ | ✅ | ✅ | ✅ |
+| 2 | ✅ | ❌ | ❌ | ❌ |
+| 3 | ✅ | ✅ | ✅ | ✅ |
 
 
 </center>

@@ -35,11 +35,10 @@ A linguagem abordada no documentado pode ser compreendida por equipes multidisci
 
 |Número|Questão|
 |:-:|:-:|
-|1|❌|
+|1|✅|
 |2|✅|
 |3|✅|
 |4|✅|
-|5|✅|
 
 
 </center>
