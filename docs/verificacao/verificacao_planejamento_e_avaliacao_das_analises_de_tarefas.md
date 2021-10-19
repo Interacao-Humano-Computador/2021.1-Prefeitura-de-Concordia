@@ -55,7 +55,7 @@ https://docs.google.com/spreadsheets/d/11GlUNzYcxScAK_wkbOjoGplq6nsdGeo4iLWcwcpg
 ## 6. Resultados
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
-- Acrescentar legenda ao termo de consentimento.
-
+- Detalhar quais dados deveriam ser coletados na entrevista do CTT.
+- Caso os videos tenham sido gravados anteriormente adicionar no documento
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>

@@ -52,9 +52,7 @@
 <h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
-<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
-
-- Correção de erros ortográficos no Storyboard 3 (Acessar Dados de Gasto no Portal da Transparência)
+<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, o documento segue todos os padrões esperados, se comportando exatamente como deveria</p>
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>

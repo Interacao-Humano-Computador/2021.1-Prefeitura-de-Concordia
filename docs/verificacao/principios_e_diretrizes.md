@@ -54,8 +54,7 @@ A linguagem abordada no documentado pode ser compreendida por equipes multidisci
 <h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
-<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
+<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, o documento segue todos os padrões esperados, se comportando exatamente como deveria</p>
 
-- Dependendo do contexto do projeto é importante que a documentação possa ser entendida por todas as equipes, logo o documento precisa possuir uma linguagem mais simplificada.
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
