@@ -2,6 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |02/10/2021|1.0|Criação do Documento|Abraão Alves Ribeiro|
+|19/10/2021|1.1|Questões de verificação melhoradas|Natanael Fernandes Coelho Filho|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href="../../analiseRequisitos/personas">Personas</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -10,16 +11,13 @@
 
 <center>
 
-|Número|Questão|
-|:-:|--|
-|1|O documento está ortograficamente correto ?|
-|2|As personas foram bem definidas ?|
-|3|As descrições das personas seguem um determinado padrão ?|
-|4|As persona descreve um usuário típico?|
-|5|O grupo de personas cobrem todas as faixa etárias dos usuários do sistema ?|
-|6|As personas cobrem os grupo de usuários do sistema ?|
-|7|As personas possuem ideias de como devem ser as funcionalidades da aplicação ?|
-
+| Número | Questão |
+|---|---|
+| 1 | A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares? |
+| 2 | O documento apresenta uma descrição do que será abordado? |
+| 3 | A construção de personas segue um  padrão determinado? |
+| 4 | As personas são suficientes para cobrir os grupos de usuários do sistema? |
+| 5 | Está claro a existência de uma antipersona no projeto? |
 
 </center>
 
@@ -31,15 +29,14 @@
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
 
-|Número|Questão|
-|:-:|:-:|
-|1|✅|
-|2|✅|
-|3|✅|
-|4|✅|
-|5|✅|
-|6|❌|
-|7|❌|
+| Número | Questão |
+|---|---|
+| 1 | ✅ |
+| 2 | ✅ |
+| 3 | ✅ |
+| 4 | ❌ |
+| 5 | ❌ |
+
 </center>
 
 <h6 align="center">Tabela 2: Verificação do documento</h6>
@@ -49,7 +46,7 @@
 <p style="text-align: justify; text-indent: 20px"> Realizada a verificação, foi gerado um gráfico para representação visual dos tópicos analisados no <i>checklist</i>, que pode ser visto a seguir:</p>
 <center>
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEv8Anm2zWqvZDWOmnd9M3ZQR7sRgKu50dx-hbnEdlpE17mZbAcokKlYwRvzU8RG14UTmtqvwd-tAw/pubchart?oid=1212844963&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRtNszcbO41oGCV9pO9IyqSPR4YVXI3taHdkrXEbTQ2YNeAUQ97XLm_LexRWBTBGiAaSWQNwf2260ES/pubchart?oid=501596016&amp;format=interactive"></iframe>
 
 </center>
 <h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
@@ -58,7 +55,8 @@
 ## 6. Resultados
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
-- Adição de personas com idade de um adolescente entre os 18 e 12 anos de idade.
+- Adição de mais personas para suprir faixas etárias não abordadas, entre 12 e 18 anos, 60+.
+- Reorganizar as antipersonas de modo que sejam visualmente diferenciadas das personas do projeto.
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
