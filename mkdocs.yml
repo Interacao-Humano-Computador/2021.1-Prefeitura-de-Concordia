@@ -52,6 +52,7 @@ nav:
         - Protótipo de alta: "nivel3/prototipo.md"
   - Verificação:
     - Introdução: "verificacao/introducao.md"
+    - Verificação Geral: "verificacao/verifcacao-geral.md"
     - Verificação Análise de Requisitos:
       - Perfil de Usuário:
         - Personas: "verificacao/personas.md"
