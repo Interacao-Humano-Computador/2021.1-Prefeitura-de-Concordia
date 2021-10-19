@@ -52,22 +52,29 @@ nav:
         - Protótipo de alta: "nivel3/prototipo.md"
   - Verificação:
     - Introdução: "verificacao/introducao.md"
-    - Características da Plataforma: "verificacao/caracteristicas_da_plataforma.md"
-    - Storyboards: "verificacao/storyboards.md"
-    - Análise de Tarefas: "verificacao/analise-de-tarefas.md"
-    - Protótipo de Alta Fidelidade: "verificacao/prototipo_alta_fidelidade.md"
-    - Questionário e Perfil e Usuário: "verificacao/questionário-e-perfil-e-usuário.md"
-    - Metas e Usabilidade: "verificacao/metas-e-usabilidade.md"
-    - Planejamento e avaliação dos Storyboard: "verificacao/planejamento_storyboard.md"
-    - Protótipo de Baixa Fidelidade: "verificacao/prototipo_baixa_fidelidade.md"
-    - Planejamento e Avaliação do Protótipo de Baixa Fidelidade: "verificacao/planejamento_prototipo_baixa.md"
-    - Protótipo de Alta Fidelidade: "verificacao/prototipo_alta_fidelidade.md"
-    - Planejamento e Avaliação do Protótipo de Alta Fidelidade: "verificacao/planejamento-avaliaca-alta-fidelidade.md"
-    - Entrevistas: "verificacao/entrevistas.md"
-    - Personas: "verificacao/personas.md"
-    - Planejamento e Avaliação das Análises de Tarefas: "verificacao/verificacao_planejamento_e_avaliacao_das_analises_de_tarefas.md"
-    - Princípios e Diretrizes: "verificacao/principios_e_diretrizes.md"
-    - Guia de Estilo: "verificacao/guia_de_estilo.md"
+    - Verificação Geral: "verificacao/verifcacao-geral.md"
+    - Verificação Análise de Requisitos:
+      - Perfil de Usuário:
+        - Personas: "verificacao/personas.md"
+        - Entrevistas: "verificacao/entrevistas.md"
+        - Questionário e Perfil e Usuário: "verificacao/questionário-e-perfil-e-usuário.md"
+      - Princípios e Diretrizes: "verificacao/principios_e_diretrizes.md"
+      - Guia de Estilo: "verificacao/guia_de_estilo.md"
+      - Metas e Usabilidade: "verificacao/metas-e-usabilidade.md"
+      - Características da Plataforma: "verificacao/caracteristicas_da_plataforma.md"
+    
+    - Verificação Análise de Tarefas:
+      - Análise de Tarefas: "verificacao/analise-de-tarefas.md"
+      - Planejamento e Avaliação das Análises de Tarefas: "verificacao/verificacao_planejamento_e_avaliacao_das_analises_de_tarefas.md"
+    - Verificação Storyboards:
+      - Storyboards: "verificacao/storyboards.md"
+      - Planejamento e avaliação dos Storyboard: "verificacao/planejamento_storyboard.md"
+    - Verificação Protótipo de Baixa Fidelidade:
+      - Protótipo de Baixa Fidelidade: "verificacao/prototipo_baixa_fidelidade.md"
+      - Planejamento e Avaliação do Protótipo de Baixa Fidelidade: "verificacao/planejamento_prototipo_baixa.md"
+    - Verificação Protótipo de Alta Fidelidade:
+      - Protótipo de Alta Fidelidade: "verificacao/prototipo_alta_fidelidade.md"
+      - Planejamento e Avaliação do Protótipo de Alta Fidelidade: "verificacao/planejamento-avaliaca-alta-fidelidade.md"  
   - Apresentações:
     - Ponto de Controle 1: "apresentacoes/p1.md"
     - Ponto de Controle 2: "apresentacoes/p2.md"

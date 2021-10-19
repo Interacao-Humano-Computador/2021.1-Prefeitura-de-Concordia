@@ -2,6 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |01/10|1.0|Criação do Documento|João Pedro|
+|19/10/2021|1.1|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href=../../nivel3/prototipo>Protótipo de Alta Fidelidade</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -12,14 +13,13 @@
 
 |Número|Questão|
 |--|--|
-|1|O documento está ortograficamente correto ?|
-|2|O protótipo abrange as principais funcionalidades do site ?|
-|3|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
-|4|É possível realizar a interação com o protótipo ?|
-|5|A preparação da avaliação possui um termo de consentimento ?|
-|6|A metodologia utilizada na avaliação foi explicada ?|
-|7|Foi realizado um teste-piloto ?|
-|8|A preparação da avaliação possui as funcionalidades à serem avaliadas ?|
+|1|As tecnologias foram definidas ?|
+|2|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
+|3|É possível realizar a interação com o protótipo ?|
+|4|A preparação da avaliação possui um termo de consentimento ?|
+|5|A metodologia utilizada na avaliação foi explicada ?|
+|6|Foi realizado um teste-piloto ?|
+|7|A preparação da avaliação possui as funcionalidades à serem avaliadas ?|
 
 </center>
 
@@ -38,9 +38,8 @@
 |3|✅|
 |4|✅|
 |5|✅|
-|6|✅|
+|6|❌|
 |7|❌|
-|8|❌|
 
 </center>
 
@@ -50,7 +49,7 @@
 ## 5. Apresentação Gráfica
 <p style="text-align: justify; text-indent: 20px"> Realizada a verificação, foi gerado um gráfico para representação visual dos tópicos analisados no <i>checklist</i>, que pode ser visto a seguir:</p>
 <center>
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQyL2QxDOkCjsEbaNnVQ4vpgKfOyFmAbB-tFexzDNFVS5xG6-bX89xR6YieElQCcMxfmvuDXPrNIr2/pubchart?oid=1212844963&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRtNszcbO41oGCV9pO9IyqSPR4YVXI3taHdkrXEbTQ2YNeAUQ97XLm_LexRWBTBGiAaSWQNwf2260ES/pubchart?oid=401406549&amp;format=interactive"></iframe>
 </center>
 <h6 align="center">Figura 1: Gráfico sobre as verificações positivas e negativas</h6>
 <h6 align="center">Fonte: Autor</h6>
