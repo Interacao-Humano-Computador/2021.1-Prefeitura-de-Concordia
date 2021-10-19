@@ -31,7 +31,7 @@ A linguagem abordada no documentado pode ser compreendida por equipes multidisci
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
 
-|Número|Protótipo de papel|
+|Número|Questão|
 |:-:|:-:|
 |1|❌|
 |2|✅|
