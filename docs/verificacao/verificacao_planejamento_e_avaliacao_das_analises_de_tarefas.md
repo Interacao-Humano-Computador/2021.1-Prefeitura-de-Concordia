@@ -28,6 +28,7 @@
 
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
+
 | Documento | CTT | KLM | HTA | CMN |
 |---|---|---|---|---|
 | Questão 1| ✅ | ✅ | ✅ | ✅ |
