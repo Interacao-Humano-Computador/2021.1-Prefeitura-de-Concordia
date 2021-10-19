@@ -1,7 +1,8 @@
 ## 1. Versionamento
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
-||1.0|Criação do Documento||
+|02/10/2021|1.0|Criação do Documento|Abraão Alves Ribeiro|
+|19/10/2021|1.1|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href="../../nivel2/planejamento" >planejamento e avaliação do protótipo de baixa fidelidade</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -17,10 +18,11 @@
 | 3 | As imagens possuem legenda? |
 | 4 | Os links estão corretos? |
 | 5 | A referência está documentada de forma correta ? |
-| 6 | O método DECIDE foi empregado de maneira correta? |
+| 6 | A Metodologia foi especificada ? |
 | 7 | Existe um roteiro pré-determinado? |
-| 8 | As perguntas elaboradas no roteiro podem ser usadas para obter informações de qualidade? |
-| 9 | As perguntas elaboradas no roteiro ajudam a obter informações para a realização de outras etapas do projeto? |
+| 8 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
+| 9 | O relatório de resultados foi apresentado? |
+| 10 | Há um termo de consentimento? |
 
 
 
@@ -44,6 +46,7 @@
 | Questão 7| ✅ | ❌ |
 | Questão 8| ✅ | ✅ |
 | Questão 9| ✅ | ✅ |
+| Questão 10 | ✅ | ✅ |
 
 </center>
 
