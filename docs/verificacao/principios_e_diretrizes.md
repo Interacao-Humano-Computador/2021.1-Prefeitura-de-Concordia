@@ -1,5 +1,7 @@
-A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares?## 1. Versionamento
-|Data|Versão|Descrição|Autor(es)
+A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares?
+## 1. Versionamento
+
+|Data|Versão|Descrição|Autor(es)|
 |--|--|--|--|
 |03/10/2021|1.0|Criação do Documento|Leonardo Takehana|
 |19/10/2021|1.1|Questões de verificação melhoradas|Natanael Fernandes|
