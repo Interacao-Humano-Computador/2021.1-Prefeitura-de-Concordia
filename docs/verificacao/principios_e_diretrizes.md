@@ -15,11 +15,10 @@ A linguagem abordada no documentado pode ser compreendida por equipes multidisci
 
 | Número | Questão |
 |---|---|
-| 1 | A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares? |
-| 2 | A descrição dos princípios e diretrizes concordam com o domínio da aplicação? |
-| 3 | A descrição de cada princípio e diretriz segue um padrão semelhante aos demais? |
-| 4 | Os princípios e diretrizes abordam problemas de uso do site? |
-| 5 | Há imagens do site para contextualizar os princípios? |
+| 1 | A descrição dos princípios e diretrizes concordam com o domínio da aplicação? |
+| 2 | A descrição de cada princípio e diretriz segue um padrão semelhante aos demais? |
+| 3 | Os princípios e diretrizes abordam problemas de uso do site? |
+| 4 | Há imagens do site para contextualizar os princípios? |
 
 </center>
 <center>

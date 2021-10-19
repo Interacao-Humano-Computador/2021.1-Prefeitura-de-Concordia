@@ -49,7 +49,6 @@
 ## 6. Resultados
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
-- Adaptação do conteúdo abordado para equipes multidisciplinares.
 - Uso de elementos não verbais para exemplificação de tarefas.
 - 
 ## 7. Bibliografia

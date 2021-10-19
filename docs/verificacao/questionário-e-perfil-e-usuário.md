@@ -13,11 +13,10 @@
 
 | Número | Questão |
 |---|---|
-| 1 | A linguagem abordada no documentado pode ser compreendida por equipes multidisciplinares? |
-| 2 | O documento apresenta resultados dos questionários? |
-| 3 | O documento apresenta os principais perfis dos usuários? |
-| 4 | O documento mostra análise dos dados coletados? |
-| 5 | Nos resultados da análise, os dados são corelacionados? |
+| 1 | O documento apresenta resultados dos questionários? |
+| 2 | O documento apresenta os principais perfis dos usuários? |
+| 3 | O documento mostra análise dos dados coletados? |
+| 4 | Nos resultados da análise, os dados são corelacionados? |
 
 
 </center>
@@ -36,7 +35,6 @@
 |2|✅|
 |3|✅|
 |4|✅|
-|5|✅|
 
 
 </center>
