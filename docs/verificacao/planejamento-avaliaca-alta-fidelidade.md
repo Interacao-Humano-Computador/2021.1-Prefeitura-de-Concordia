@@ -2,6 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |03/10|1.0|Criação do Documento|Natanael|
+|19/10/2021|1.1|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href="../../nivel3/planejamento" >planejamento e avaliação do protótipo de alta fidelidade</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -10,15 +11,18 @@
 
 <center>
 
-|Número|Questão|
+| Número | Questão |
 |---|---|
-| 1 | Os títulos condizem com a tarefa proposta? |
-| 2 | A ortografia ou formatação estão corretas? |
+| 1 | A ortografia ou formatação estão corretas? |
+| 2 | Os links estão corretos? |
 | 3 | As imagens possuem legenda? |
-| 4 | O documento segue o padrão estabelecido pelo grupo? |
-| 5 | Existe uma introdução ao conceito abordado? |
-| 6 | Os links estão corretos? |
-| 7 | A referência está documentada de forma correta? |
+| 4 | Os links estão corretos? |
+| 5 | A referência está documentada de forma correta ? |
+| 6 | A Metodologia foi especificada ? |
+| 7 | Existe um roteiro pré-determinado? |
+| 8 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
+| 9 | O relatório de resultados foi apresentado? |
+| 10 | Há um termo de consentimento? |
 
 </center>
 
@@ -29,16 +33,18 @@
 
 <center>
 
-|Número|Questões|
-|---|---|
-| 1 | ✅ |
-| 2 | ✅ |
-| 3 | ✅ |
-| 4 | ❌ |
-| 5 | ✅ |
-| 6 | ✅ |
-| 7 | ✅ |
-
+| Documento | Entrevista 1 | Entrevista 2 |
+|---|---|---|
+| Questão 1| ✅ | ✅ |
+| Questão 2| ✅ | ✅ |
+| Questão 3| ✅ | ✅ |
+| Questão 4| ✅ | ✅ |
+| Questão 5| ✅ | ✅ |
+| Questão 6| ✅ | ✅ |
+| Questão 7| ✅ | ✅ |
+| Questão 8| ✅ | ✅ |
+| Questão 9| ✅ | ✅ |
+| Questão 10 | ✅ | ✅ |
 </center>
 
 <h6 align="center">Tabela 2: Verificação do documento</h6>
@@ -53,9 +59,7 @@
 <h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
-<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
-
-- Acrescentar legenda ao termo de consentimento
+<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, o documento segue todos os padrões esperados, se comportando exatamente como deveria</p>
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>

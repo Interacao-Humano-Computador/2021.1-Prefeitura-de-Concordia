@@ -2,6 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |02/10/2021|1.0|Criação do Documento|Abraão Alves Ribeiro|
+|19/10/2021|1.1|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href=../../nivel2/prototipo>Protótipo de baixa fidelidade</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -15,7 +16,7 @@
 |1|O documento está ortograficamente correto ?|
 |2|A metodologia foi definida ?|
 |3|São especificadas as tecnologias utilizadas no protótipo ?|
-|4| O protótipo abrange as principais funcionalidades do site ? |
+|4|É explicado quais páginas o protótipo abrange ? |
 |5|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
 |6|É possível realizar a interação com o protótipo ?|
 |7|A preparação da avaliação possui um termo de consentimento ?|
@@ -38,7 +39,7 @@
 |1|✅|
 |2|✅|
 |3|✅|
-|4|❌|
+|4|✅|
 |5|✅|
 |6|✅|
 |7|✅|
@@ -62,6 +63,5 @@
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
 - A realização do teste-piloto não é mais possível, visto que as entrevistas já foram realizadas.
-- Abordar as principais funcionalidades que não foram abordadas. 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>

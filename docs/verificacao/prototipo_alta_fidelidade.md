@@ -13,7 +13,7 @@
 |Número|Questão|
 |--|--|
 |1|O documento está ortograficamente correto ?|
-|2|O protótipo abrange as principais funcionalidades do site ?|
+|2|As tecnologias foram definidas ?|
 |3|O protótipo apresenta um fluxo entre todas as páginas produzidas ?|
 |4|É possível realizar a interação com o protótipo ?|
 |5|A preparação da avaliação possui um termo de consentimento ?|

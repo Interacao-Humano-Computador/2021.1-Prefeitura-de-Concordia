@@ -3,6 +3,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |26/09|1.0|Criação do Documento|João Pedro|
+|19/10/2021|1.0|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href=../../nivel1/storyboards>Storyboard</a>, a verificação em si e por fim sugestões de retrabalho.</p>
