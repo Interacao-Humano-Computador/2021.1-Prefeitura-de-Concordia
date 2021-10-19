@@ -16,14 +16,13 @@
 | 1 | A ortografia ou formatação estão corretas? |
 | 2 | Os links estão corretos? |
 | 3 | As imagens possuem legenda? |
-| 4 | Os links estão corretos? |
-| 5 | A referência está documentada de forma correta ? |
-| 6 | A Metodologia foi especificada ? |
-| 7 | Existe um roteiro pré-determinado? |
-| 8 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
-| 9 | O relatório de resultados foi apresentado? |
-| 10 | Há um termo de consentimento? |
-
+| 4 | A referência está documentada de forma correta ? |
+| 5 | A Metodologia foi especificada ? |
+| 6 | Existe um roteiro pré-determinado? |
+| 7 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
+| 8 | O relatório de resultados foi apresentado? |
+| 9 | Há um termo de consentimento? |
+| 10 | O video da entrevista foi postado? |
 
 
 </center>
@@ -42,11 +41,10 @@
 | Questão 3| ❌ | ❌ |
 | Questão 4| ✅ | ✅ |
 | Questão 5| ✅ | ✅ |
-| Questão 6| ✅ | ✅ |
-| Questão 7| ✅ | ❌ |
+| Questão 6| ✅ | ❌ |
+| Questão 7| ✅ | ✅ |
 | Questão 8| ✅ | ✅ |
-| Questão 9| ✅ | ✅ |
-| Questão 10 | ✅ | ✅ |
+| Questão 9 | ✅ | ✅ |
 
 </center>
 

@@ -2,6 +2,7 @@
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |03/10/2021|1.0|Criação do Documento|Leonardo Takehana|
+|19/10/2021|1.1|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
 <p style="text-align: justify; text-indent: 20px"> Esse documento, seguirá o apresentado na <a href=../introducao>introdução</a>, e conterá a preparação individual do inspetor em relação ao artefato <a href="https://interacao-humano-computador.github.io/2021.1-Prefeitura-de-Concordia/analiseTarefas/planejamentoAvaliacaoAnaliseTarefa/">Planejamento e Avaliação das Análises de Tarefas</a>, a verificação em si e por fim sugestões de retrabalho.</p>
@@ -13,7 +14,7 @@
 |Número|Questão|
 |--|--|
 |1|O documento está ortograficamente correto?|
-|2|A metodologia foi bem definida?|
+|2|A metodologia foi explicada?|
 |3|Existe um roteiro pré-determinado?|
 |4|O escopo do artefato foi definido?|
 |5|As perguntas elaboradas no roteiro podem ser usadas para obter informações de qualidade ?|
@@ -21,6 +22,18 @@
 |7|Os resultados foram apresentados?|
 |8|Houve abordagem de mais de uma metodologia de avaliação de tarefas?|
 
+| Número | Questão |
+|---|---|
+| 1 | A ortografia ou formatação estão corretas? |
+| 2 | Os links estão corretos? |
+| 3 | Os anexos possuem legenda? |
+| 4 | A referência está documentada de forma correta ? |
+| 5 | A Metodologia foi especificada ? |
+| 6 | Existe um roteiro pré-determinado? |
+| 7 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
+| 8 | O relatório de resultados foi apresentado? |
+| 9 | Há um termo de consentimento? |
+| 10 | O video da entrevista foi postado? |
 </center>
 
 <h6 align="center">Tabela 1: Questões para verificação</h6>
@@ -30,18 +43,18 @@
 
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
-
-|Número|Protótipo de Alta Fidelidade|
-|:-:|:-:|
-|1|✅|
-|2|✅|
-|3|✅|
-|4|✅|
-|5|✅|
-|6|✅|
-|7|✅|
-|8|✅|
-
+| Documento | CTT | KLM | HTA | CMN |
+|---|---|---|---|---|
+| Questão 1| ✅ | ✅ | ✅ | ✅ |
+| Questão 2| ✅ | ✅ | ✅ | ✅ |
+| Questão 3| ❌ | ❌ | ❌ | ❌ |
+| Questão 4| ✅ | ✅ | ✅ | ✅ |
+| Questão 5| ✅ | ✅ | ✅ | ✅ |
+| Questão 6| ✅ | ✅ | ✅ | ✅ |
+| Questão 7| ❌ | ✅ | ✅ | ✅ |
+| Questão 8| ✅ | ✅ | ✅ | ✅ |
+| Questão 9| ✅ | ✅ | ✅ | ✅ |
+| Questão 10| ❌ | ✅ | ❌ | ❌ |
 
 </center>
 
@@ -59,7 +72,9 @@ https://docs.google.com/spreadsheets/d/11GlUNzYcxScAK_wkbOjoGplq6nsdGeo4iLWcwcpg
 <h6 align="center">Fonte: Autor</h6>
 
 ## 6. Resultados
-<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, não foram encontrados defeitos passíveis de correção, sendo feita uma abordagem objetiva e detalhada sobre os pontos necessários para esse planejamento</p>
+<p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
+
+- Acrescentar legenda ao termo de consentimento.
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>

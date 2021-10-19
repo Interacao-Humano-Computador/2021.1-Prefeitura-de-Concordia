@@ -23,7 +23,7 @@
 | 8 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
 | 9 | O relatório de resultados foi apresentado? |
 | 10 | Há um termo de consentimento? |
-
+| 11 | O video da entrevista foi postado? |
 </center>
 
 <h6 align="center">Tabela 1: Questões para verificação.</h6>

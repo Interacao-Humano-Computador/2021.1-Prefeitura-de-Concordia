@@ -16,13 +16,13 @@
 | 1 | A ortografia ou formatação estão corretas? |
 | 2 | Os links estão corretos? |
 | 3 | As imagens possuem legenda? |
-| 4 | Os links estão corretos? |
-| 5 | A referência está documentada de forma correta ? |
-| 6 | A Metodologia foi especificada ? |
-| 7 | Existe um roteiro pré-determinado? |
-| 8 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
-| 9 | O relatório de resultados foi apresentado? |
-| 10 | Há um termo de consentimento? |
+| 4 | A referência está documentada de forma correta ? |
+| 5 | A Metodologia foi especificada ? |
+| 6 | Existe um roteiro pré-determinado? |
+| 7 | Foi detalhado quais dados deveriam ser obtidos na entrevista? |
+| 8 | O relatório de resultados foi apresentado? |
+| 9 | Há um termo de consentimento? |
+| 10 | O video da entrevista foi postado? |
 </center>
 
 <h6 align="center">Tabela 1: Questões para verificação.</h6>
@@ -43,7 +43,8 @@
 | Questão 7 | ✅ | ✅ | ✅ |
 | Questão 8 | ✅ | ✅ | ✅ |
 | Questão 9 | ✅ | ✅ | ✅ |
-| Questão 10 | ✅ | ✅ | ✅ |
+| Questão 10 | ✅ | ❌ | ✅ |
+
 
 </center>
 
@@ -62,6 +63,8 @@
 <p style="text-align: justify; text-indent: 20px"> De acordo com a inspeção realizada, é perceptível que foram encontrados alguns defeitos no artefato, portanto são perceptíveis algumas soluções possíveis de retrabalho, citadas a seguir:</p>
 
 - Acrescentar legenda ao termo de consentimento.
+- Para a entrevista 2, caso a entrevista tenha sido gravada, adicionar o video faltannte na página, caso contrário não é possivel corrigir esse problema.
+
 
 ## 7. Bibliografia
 <p style="text-align: justify; text-indent: 20px">Serrano, M.; Serrano, M. <b>Requisitos - Aula 23</b>.</p>
