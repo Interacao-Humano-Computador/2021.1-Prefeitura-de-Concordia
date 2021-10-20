@@ -83,3 +83,6 @@ nav:
     - Ponto de Controle 6: "apresentacoes/p6.md"
     - Ponto de Controle 7: "apresentacoes/p7.md"
     - Ponto de Controle 8: "apresentacoes/p8.md"
+    
+markdown_extensions:
+  - attr_list
