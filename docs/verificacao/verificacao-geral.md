@@ -1,4 +1,6 @@
 ## 1. Versionamento
+|Data|Versão|Descrição|Autor(es)|
+|--|--|--|--|
 |19/10/2021|1.0|Revisão do Documento|Leonardo Takehana|
 
 ## 2. Introdução
@@ -8,10 +10,12 @@
 
 <center>
 
+|Número|Questão|
+|--|--|
 | 1 | A ortografia ou formatação estão corretas? |
 | 2 | Os links estão corretos? |
 | 3 | As imagens possuem legenda? |
-| 4 | A referência está documentada de forma correta ? |
+| 4 | A referência está documentada de forma correta? |
 
 </center>
 
@@ -22,13 +26,13 @@
 
 <!-- Aqui como exemplo botei o storyboard, porque nele existem várias imagens que precisam ser verificadas-->
 <center>
-|Número|Questão|
-|:-:|:-:|
-|1|✅|
-|2|✅|
-|3|✅|
-|4|✅|
-|5|✅|
+
+| Número | Questão |
+|---|---|
+| 1 | ✅ |
+| 2 | ✅ |
+| 3 | ✅ |
+| 4 | ✅ |
 
 </center>
 
