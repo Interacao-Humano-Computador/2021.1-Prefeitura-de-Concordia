@@ -62,7 +62,6 @@ nav:
       - Guia de Estilo: "verificacao/guia_de_estilo.md"
       - Metas e Usabilidade: "verificacao/metas-e-usabilidade.md"
       - Características da Plataforma: "verificacao/caracteristicas_da_plataforma.md"
-    
     - Verificação Análise de Tarefas:
       - Análise de Tarefas: "verificacao/analise-de-tarefas.md"
       - Planejamento e Avaliação das Análises de Tarefas: "verificacao/verificacao_planejamento_e_avaliacao_das_analises_de_tarefas.md"
@@ -83,6 +82,7 @@ nav:
     - Ponto de Controle 5: "apresentacoes/p5.md"
     - Ponto de Controle 6: "apresentacoes/p6.md"
     - Ponto de Controle 7: "apresentacoes/p7.md"
-
+    - Ponto de Controle 8: "apresentacoes/p8.md"
+    
 markdown_extensions:
   - attr_list
